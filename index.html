@@ -4,7 +4,10 @@ title:  Panasonic Youth - Rob Sanheim
 ---
 
 <div class='home_box' id='home_left'>
-  <h2><a href='http://feeds2.feedburner.com/mbleigh' class='float-right'><img src='/images/subscribe-icon.gif' alt='Subscribe'/></a> Latest Blog Post (<a href='/blog.html'>More</a>)</h2>
+  <h2>
+    <a href='http://feeds2.feedburner.com/PanasonicYouth' class='float-right'>
+      <img src='/images/subscribe-icon.gif' alt='Subscribe'/>
+    </a> Latest Blog Post (<a href='/blog.html'>More</a>)</h2>
   
   <div class='post'>
     <h1><a href='{{site.posts.first.url}}'>{{site.posts.first.title}}</a></h1>
@@ -13,7 +16,7 @@ title:  Panasonic Youth - Rob Sanheim
   </div>
   
   <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
    {% endfor %}
   </ul>

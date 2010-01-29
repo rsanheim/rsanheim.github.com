@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 192
+layout: post
+title: |-
+  
+              Why Ruby?
+wordpress_url: http://www.robsanheim.com/2006/02/10/why-ruby/
+---
+
+            Andy Hunt answers the question a lot of people are asking: <a href="http://toolshed.com/blog/articles/2006/02/09/why-ruby">Why Ruby?</a>
+
+<ol><li>It stays out of your way</li><li>It just works</li></ol>
+
+<blockquote>Ruby’s not perfect, by any means, it’s got dark corners to the language just like every other language. But it has a lot fewer of them. For the great majority of projects, the great majority of the time, it just works.</blockquote>

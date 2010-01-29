@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 182
+layout: post
+title: Google Drops Below $400
+wordpress_url: http://www.robsanheim.com/?p=182
+---
+So Google has finally <a href="http://money.cnn.com/2006/01/31/technology/google_analysis/index.htm">fallen</a> <a href="http://www.google.com/search?q=goog">below</a> the insane $400 level due to missed earnings.  Will they (and the valley) just <a href="http://gigaom.com/2006/02/01/silicon-valley-shrugs-off-google-hiccup/">shrug</a> it off?    Tristan Louis has an <a href="http://www.tnl.net/blog/entry/Googling_Netscape">insightful analysis</a> of the state of Google, and what they need to focus on going forward.
+
+<blockquote>More worrisome, however, is the development of the Google monoculture. Much of what is going on at Google is happening with little involvement and input from the community.</blockquote>
+
+They obviously still have search all wrapped up, with ~60% of the market share.  Right now there doesn't seem to be a "Google killer" on the horizon, but its not for <a href="http://www.ysearchblog.com/archives/000239.html">lack</a> of <a href="http://blogs.msdn.com/msnsearch/archive/2005/11/29/498054.aspx">trying</a>.

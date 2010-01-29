@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 10
+layout: post
+title: Brain Fog
+wordpress_url: http://www.robsanheim.com/?p=10
+---
+Today is one of those days where my brain seems to be in a fog until about 3 oclock, then I wake up and have two hours to be productive.  This morning I was flitting around between refactoring this little web app we've been working on, and reading <a href="http://www.c2.com/">c2.</a>  Read some things about refactoring, patterns, etc...and I really want to get Fowler's <i>Refactoring</i> and <i>Refactoring to Patterns</i>, which I looked over last night at Barnes & Noble.  The <i>to Patterns</i> looked very useful for me, for gaining more understanding of patterns, if not using them a bit more.  I've read a bit in the GoF book that I got a couple weeks ago, but I can tell that it will be a long, difficult read that I'll really have to work though to comprehend.
+
+<p>np - Dillinger Escape Plan - Irony is a Dead Scene</p>
+         

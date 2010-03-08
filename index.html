@@ -4,10 +4,8 @@ title:  Panasonic Youth - Rob Sanheim
 ---
 
 <div class='home_box' id='home_left'>
-  <h1>Panasonic Youth - Rob Sanheim's Blog</h1>
   <h2>
     <a href='http://feeds2.feedburner.com/PanasonicYouth' class='float-right'>subscribe</a>
-    <br />
     Latest Blog Post (<a href='/blog.html'>More</a>)</h2>
   
   <div class='post'>
@@ -16,8 +14,9 @@ title:  Panasonic Youth - Rob Sanheim
     <a href='{{site.posts.first.url}}#disqus_thread'>Comments</a>
   </div>
   
+  <h3>Recent Posts <a href="/archive">(full archive)</a></h3>
   <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts limit:10 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
    {% endfor %}
   </ul>

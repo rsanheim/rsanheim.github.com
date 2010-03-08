@@ -1,0 +1,25 @@
+---
+layout: master
+title:  Panasonic Youth - Rob Sanheim - Full Archive
+---
+
+
+<div class='home_box' id='home_left'>  
+    <h1>All Posts</h1>
+  <ul>
+    {{ assign old_year = nil }}
+    
+    {% for post in site.posts %}
+      {{ assign year = post.date | date: "%Y" }}
+      {{ old_year }}
+      {% if old_year != year %}
+          new year
+      {% else %}
+          same year
+      {% endif %}
+
+      {{ assign old_year = post.date | date: "%Y" }}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+     {% endfor %}
+  </ul>
+</div>

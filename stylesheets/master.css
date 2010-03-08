@@ -1,0 +1,36 @@
+body {
+	font-size: 18px;
+	line-height: 1.5;
+	margin: 0 5px;
+	font-family: corbel, 'lucida grande', helvetica, sans-serif;
+	color: #212122;
+	background-color: #fff;
+}
+
+#wrapper {
+	max-width: 650px;
+	margin: 0 auto;
+}
+
+#menu li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+#header {
+	text-align: center;
+}
+
+#header h1 a, #header h1 a:link, #header h1 a:visited, #header h1 a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+#footer {
+	text-align: center;
+	font-size: 80%;
+}
+.post h1 {
+	font-size: 20px;
+}

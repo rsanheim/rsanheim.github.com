@@ -31,6 +31,16 @@ body {
 	text-align: center;
 	font-size: 80%;
 }
+
 .post h1 {
 	font-size: 20px;
+}
+
+.post-list tr, .post-list td {
+	vertical-align: left;
+	text-align: left;
+}
+
+.post-list td.date {
+	width: 22%;
 }

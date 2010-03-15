@@ -20,7 +20,8 @@ Install the new hotness, with all optional add-ons.
 
 Verify it:
 
-<code>git --version
-# => git version 1.6.1</code>
+    git --version
+
+    => git version 1.6.1
 
 Note that there is a MacPorts 'upgrade' command, but I've seen it fail to actually upgrade things from time to time.  Doing the install this way always works for me.

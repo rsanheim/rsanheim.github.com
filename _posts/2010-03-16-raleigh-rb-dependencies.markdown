@@ -2,7 +2,9 @@
 layout: post
 title: Raleigh.rb Dependencies Talk
 ---
-Last night I gave a talk on Rubygems, Bundler, and dependency management at [Raleigh.rb](http://www.meetup.com/raleighrb/ "The Raleigh-area Ruby Brigade (raleigh.rb) (Raleigh, NC) - Meetup.com").  Below is a list of references from the talk, as well as some extra guides for getting rolling with Bundler:
+Last night I gave a talk on Rubygems, Bundler, and dependency management at [Raleigh.rb](http://www.meetup.com/raleighrb/ "The Raleigh-area Ruby Brigade (raleigh.rb) (Raleigh, NC) - Meetup.com").  Below is a list of references from the talk, as well as some extra guides for getting rolling with Bundler.
+
+Thanks to everyone who came out!
 
 * [Bundler home on Github](http://github.com/carlhuda/bundler/ "Bundler")
 * [Using Bundler 0.9 with Rails 2.3.5](http://andre.arko.net/2010/02/13/using-bundler-09-with-rails-235/ "Bundler 0.9 and Rails 2.3.5")

@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 316
 layout: post
-title: All Ruby & Rails APIs suck (but its getting better)
+title: All Ruby and Rails APIs suck (but its getting better)
 wordpress_url: http://www.robsanheim.com/?p=316
 ---
 All the online APIs for Ruby and Rails suck.  Thats been a given for a long time.  Note that I'm not talking about the actual Rails Rdoc content itself - the <a href="http://blog.caboo.se/articles/2007/3/27/documentation-project-patches-are-in">doc project</a> patches continue to roll in, and the HackFest also saw many doc patches merge in.  The Ruby Rdoc content, well, a lot of is still pretty spotty.  

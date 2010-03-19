@@ -7,7 +7,6 @@ title:  Panasonic Youth - Rob Sanheim
   <div class='post'>
     <h1><a href='{{site.posts.first.url}}'>{{site.posts.first.title}}</a></h1>
     <div class='body'>{{ site.posts.first.content }}</div>
-    <a href='{{site.posts.first.url}}#disqus_thread'>Comments</a>
   </div>
   
   <h3>Recent Posts <a href="/archive">(full archive)</a></h3>
@@ -17,22 +16,3 @@ title:  Panasonic Youth - Rob Sanheim
    {% endfor %}
   </ul>
 </div>
-
-<script type="text/javascript" charset="utf-8">
-  $.githubUser('rsanheim', function(data) {
-    $('#github-projects').html('');
-    
-    var repos = data.user.repositories;
-    repos.sort(function(a,b) {
-      return b.watchers - a.watchers;
-    });
-    
-    $(repos.slice(0,6)).each(function() {
-      $('#github-projects').append("\
-<div class='repo'>\
-  <h3><a href='" + this.url + "'>" + this.name + "</a></h3>\
-  <span class='desc'>"+this.description+"</span>\
-</div>");
-    });
-  });
-</script>

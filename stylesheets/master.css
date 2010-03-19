@@ -37,10 +37,19 @@ body {
 }
 
 .post-list tr, .post-list td {
-	vertical-align: left;
 	text-align: left;
 }
 
 .post-list td.date {
 	width: 22%;
+}
+
+#subscribe_link img {
+	outline: none;
+	border: none;
+}
+
+#menu a {
+	text-decoration: none;
+	outline: none;
 }

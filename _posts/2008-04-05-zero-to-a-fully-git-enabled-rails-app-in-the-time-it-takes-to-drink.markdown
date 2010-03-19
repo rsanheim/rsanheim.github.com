@@ -2,7 +2,7 @@
 wordpress_id: 382
 layout: post
 title: Zero to a Fully Git Enabled Rails App in the time it takes to drink an espresso
-wordpress_url: http://robsanheim.com/2008/04/04/zero-to-a-fully-git-enabled-rails-app-in-the-time-it-takes-to-drink/
+wordpress_url: http://robsanheim.com/2008/04/05/zero-to-a-fully-git-enabled-rails-app-in-the-time-it-takes-to-drink/
 ---
 <strong>updated: </strong> now uses the real Rails git master at github, now that its live.
 

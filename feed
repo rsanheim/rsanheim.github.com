@@ -5,7 +5,7 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Panasonic Youth</title>
- <link href="http://robsanheim.com/atom.xml" rel="self"/>
+ <link href="http://robsanheim.com/feed" rel="self"/>
  <link href="http://robsanheim.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://robsanheim.com/</id>

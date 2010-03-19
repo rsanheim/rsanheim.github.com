@@ -3,6 +3,7 @@ wordpress_id: 358
 layout: post
 title: How I Spent My Christmas Vacation
 wordpress_url: http://robsanheim.com/2008/01/08/how-i-spent-my-christmas-vacation/
+date: 2008-01-08 10:00:00 +02:00
 ---
 I recently got back from a very relaxing two weeks in Wisconsin, for a very white Christmas and some good family time.  Nothing quite like a little red wine, music, and coding by the fire:
 

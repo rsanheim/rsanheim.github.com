@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Day 1 Craftsmanship Swap at 8th Light"
+---
+
 Tuesday marked the first day of my craftsmanship swap at 8th Light.  All in all it was a good day of pairing and learning with a fun trip to downtown Chicago on the end.
 
 First order of business was grabbing a ride with [Steve Kim](http://twitter.com/skim "") for the short trip over to the 8th Light office, and checking out the area.  8th Light is located in a nice office park in Libertyville, IL, overlooking a marshy area, making for a great view from their office.  Libertyville is a suburb about 45 minutes north of Chicago, with a quaint 'main street' type strip not far from the office.

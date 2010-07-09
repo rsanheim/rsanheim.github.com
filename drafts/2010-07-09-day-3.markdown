@@ -1,1 +1,7 @@
-  * Be relentlessly brutal in saying "no" to things you don't want to do
+* uses skype for all its standup calls
+* awesome customer support / communication with QA team
+  * customer writing acceptance tests -- yay!
+* began deep drive into DRb w/ Doug
+* paired with Skim in the morning
+* lunch at delicious Thai Gourmet 
+* dinner with Micah + family and Skim

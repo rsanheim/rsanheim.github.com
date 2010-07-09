@@ -9,7 +9,10 @@ Steve's application was a Tic-Tac-Toe game built in Ruby, which had the addition
 
 I helped Steve out with some Rspec issues, and we discussed some of the difficulties in testing threading.  A `Thread.new` call in his game was causing random timing related failures, and we tried to extract out the threading implementation enough to allow his specs to work around it.
 
-Lunch was taken out of the office at [Thai Gourment](http://TODO), which was delicious.  8th 
+Lunch was taken out of the office at [Thai Gourment](http://TODO), which was delicious.  It was at least on par with Thai Cafe, which is a favorite at Relevance.
+
+I had to fight off a curry infused drowsiness post-lunch to pair with Doug on the same application we had paired on in [day 1]("/2010-07-08-day-1-craftsmanship-swap-at-8th-light").  The application uses DRb and DRbFire under the hood to manage client-server communication.  Based on some issues reported from client installations we suspected some socket or connection related issues in the DRb related part of the codes.  And so began a deep dive into DRbFire and some of the DRb code itself.
+
 
 * uses skype for all its standup calls
 * awesome customer support / communication with QA team

@@ -3,6 +3,8 @@ layout: post
 title: "Day 2 Craftsmanship Swap at 8th Light"
 ---
 
+(note: this was from my stint on Wednesday, July 7th at 8th Light)
+
 For Day 2 of my stint at 8th Light, [Skim](http://twitter.com/skim "") and I came in early enough to find a relatively empty office.  I paired with Skim on an app he has been building as part of his apprenticeship at 8th Light.  All apprenticeships have to complete several projects during there time, with their mentor (a craftsman at 8th Light) acting as the product owner.
 
 Steve's application is a Tic-Tac-Toe game built in Ruby, which had the additional twist of having both a console UI and a [Limelight](http://limelight.8thlight.com/main/sparkle) UI.  Limelight is a UI framework built in JRuby by the 8th Light guys, and I can definitely see myself reaching for it the next time I need to built a cross-platform rich UI.

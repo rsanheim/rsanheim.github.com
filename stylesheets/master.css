@@ -53,3 +53,15 @@ body {
 	text-decoration: none;
 	outline: none;
 }
+
+.centeredImage
+{
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding:0px;
+}
+
+.caption {
+	font-size: 70%;
+}

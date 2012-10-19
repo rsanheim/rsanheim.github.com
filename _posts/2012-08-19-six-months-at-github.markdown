@@ -3,10 +3,11 @@ layout: post
 title: "Six Months at Github"
 ---
 
-TODO marks my six month anniversary at GitHub.  It has been a pretty amazing ride so far, 
-so I thought I would take a bit of time to reflect on lessons learned and the most significant that make
-GitHub unique amongst software development shops.  I would be remiss to not mention Brandon Keepers
-excellant post on his experiences on GitHub after xxx months.
+I just recentloy passed my six month anniversary at GitHub.  It has been an amazing ride so far, 
+so I thought I would take a minute reflect on lessons learned and the most significant that make
+GitHub unique amongst software development shops.  I recommend reading Brandon
+Keeper's excellant post he made after TODO months at GitHub as a companon
+piece to mine.
 
 ## Great People above all else
 
@@ -19,7 +20,7 @@ need people whose happiness is derived from creating a great product for that
 to work.
 
 The level of talent at GitHub drives me to consistently up my
-game, whether it is trying to better understand C and Unix to dive deeper into
+game, whether it is trying to better understand lower level Unix programming to dive deep into
 the GitHub backend, or refresing my TDD & OO chops to ensure I am constantly
 improving the codebae everytime I touch it.
 
@@ -38,22 +39,21 @@ to write Ruby or C or whatever.
 ## Culture of Shipping
 
 One thing that particularly strikes me about GitHub is our culture of
-shipping.  Even when it comes to larger architectural concerns, or blog posts,
-or design ideas, shipping beats words or ideas everytime.  What do I mean by
-shipping?
+shipping.  Even when it comes to things that many may not think of as easily
+"shipable", like architecture, process change or redesigns.  For example:
 
-* creating a pull request with a spike demonstrating a small piece of an
+* creating a pull request with a spike demonstrating a small (but critical) piece of an
   architectural change
-* writing a rough draft of a proposed blog post
-* sketching a design on paper and uploading a picture of that design to a
-  relevant issue or pull request
+* drafting a post in our internal Ideas app, with diagrams and examples,
+  showing our we may shift our process
+* sketching a redesign idea on paper and uploading a picture to a relevant issue or pull request
 
 So while it can be valuable to have conversations about things like
-architecture, our messaging, or design, we usually value concrete action, even
-if it just fuel to move the conversation forward.  Often in software
-development bikeshedding can lead to endless philosophical debates and useless
-arguments driven by ego instead of practical value.  Focusing on actions that
-lead to shippning cuts through that crap and pushes things forward.
+architecture, process, or design, it is more valuable to take concrete action,
+even as fuel to move the conversation forward.  Often in software
+development bikeshedding can lead to endless philosophical debates and 
+arguments driven by ego instead of practical value.  Focusing on actions and
+shipping cuts through the crap and keeps things progressing forward.
 
 ## Anarchist Structure
 
@@ -67,4 +67,7 @@ fixed and crummy things like grunt-work automation and difficult tests still
 get written. And if those things get missed on the first pass, positive peer pressure ensures
 that they get done on first review.
 
+## END
 
+GitHub is a great place to work, and I've learned so much in the past half
+year.  Here is to many more good years of learning and shipping at GitHub.

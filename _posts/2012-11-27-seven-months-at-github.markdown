@@ -68,7 +68,7 @@ fixed and crummy things like grunt-work automation and difficult tests still
 get written. And if those things get missed on the first pass, peer pressure and 
 continual review ensure ensure they get done.
 
-## END
+## End
 
-GitHub is a great place to work, and I've learned so much in the past half
-year.  Here is to many more good years of learning and shipping at GitHub.
+It has been a fantasticly good half a year at GitHub.  I have learned so much, shipped some
+great software, and look forward to many more years of learnings and shipping.

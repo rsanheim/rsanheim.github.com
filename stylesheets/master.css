@@ -1,5 +1,5 @@
 body {
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 1.5;
 	margin: 0 5px;
 	font-family: corbel, 'lucida grande', helvetica, sans-serif;
@@ -22,9 +22,19 @@ body {
 	text-align: center;
 }
 
+#header h1 {
+  margin-bottom: 10px;
+}
+
 #header h1 a, #header h1 a:link, #header h1 a:visited, #header h1 a:hover {
 	color: #000;
 	text-decoration: none;
+  font-size: 120%;
+}
+
+h4#byline {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #footer {
@@ -33,7 +43,7 @@ body {
 }
 
 .post h1 {
-	font-size: 20px;
+	font-size: 22px;
 }
 
 .post-list tr, .post-list td {

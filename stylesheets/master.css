@@ -33,6 +33,7 @@ body {
 }
 
 h4#byline {
+  font-size: 90%;
   margin-top: 10px;
   margin-bottom: 10px;
 }

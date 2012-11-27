@@ -58,11 +58,11 @@ shipping cuts through the crap and keeps things progressing forward.
 
 ## Anarchist Structure
 
-Much is made of the flat, nearly non-existant management style of GitHub.  
-Yes, it really is true that you can work on whatever you want.  
+Much is made of the flat, nearly non-existant management style of GitHub. Yes, it really is true that you can work on whatever you want. 
 Yes, that means that I could drop everything and work on a Haskell
-rewrite of github/github, but in reality that just doesn't happen.  It turns
-out when you hire self motivated, talented people who want to work with other
+rewrite of github/github, but in reality that just doesn't happen.  
+
+It turns out when you hire self motivated, talented people who want to work with other
 really other good people, folks generally work on important stuff.  Bugs get
 fixed and crummy things like grunt-work automation and difficult tests still
 get written. And if those things get missed on the first pass, peer pressure and 

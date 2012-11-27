@@ -3,7 +3,7 @@ layout: post
 title: "Six Months at Github"
 ---
 
-I just recentloy passed my six month anniversary at GitHub.  It has been an amazing ride so far, 
+I just recently passed my six month anniversary at GitHub.  It has been an amazing ride so far, 
 so I thought I would take a minute reflect on lessons learned and the most significant that make
 GitHub unique amongst software development shops.  I recommend reading Brandon
 Keeper's excellant post he made after TODO months at GitHub as a companon

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Six Months at Github"
+title: "Seven Months at Github"
 ---
 
-I just recently passed my six month anniversary at GitHub.  It has been an amazing ride so far.
+I just recently passed my seven month anniversary at GitHub.  It has been an amazing ride so far.
 GitHub is a pretty special company, and I thought I would take a moment to reflect on what makes 
 it special and some lessons I have learned over the past half year. 
 

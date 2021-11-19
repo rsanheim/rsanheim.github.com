@@ -2,9 +2,9 @@
 wordpress_id: 218
 layout: post
 title: Madison Ruby on Rails wiki setup
-wordpress_url: http://www.robsanheim.com/?p=218
+wordpress_url: https://www.robsanheim.com/?p=218
 ---
-Finally got <a href="http://dev.rubyonrails.org/browser/tools/i2">i2</a> setup on dreamhost for the <a href="http://www.madisonrails.com">Madison Ruby on Rails Wiki</a>.  Most of the trouble was due to human error, of course.  There is still an issue where it seems Rails uses the cached version of a page when it should really hit the database to pick up changes.  Not sure if thats an i2 issue or a setup issue.  Of course now I'm not sure if I should've done all this with <a href="http://instiki.org/show/HomePage">instiki</a>, but it seems i2 should be fine for our modest needs.
+Finally got <a href="https://dev.rubyonrails.org/browser/tools/i2">i2</a> setup on dreamhost for the <a href="https://www.madisonrails.com">Madison Ruby on Rails Wiki</a>.  Most of the trouble was due to human error, of course.  There is still an issue where it seems Rails uses the cached version of a page when it should really hit the database to pick up changes.  Not sure if thats an i2 issue or a setup issue.  Of course now I'm not sure if I should've done all this with <a href="https://instiki.org/show/HomePage">instiki</a>, but it seems i2 should be fine for our modest needs.
 
 A few notes from the whole ordeal:
 <ul>

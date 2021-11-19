@@ -2,7 +2,7 @@
 wordpress_id: 30
 layout: post
 title: DWR, Tomcat 5.5, and Xalan classpath error
-wordpress_url: http://www.robsanheim.com/?p=30
+wordpress_url: https://www.robsanheim.com/?p=30
 ---
 If you get errors attemtping to use DWR with Tomcat 5.5+ with a stack trace similiar to:
 

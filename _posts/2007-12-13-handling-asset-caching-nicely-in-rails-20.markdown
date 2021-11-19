@@ -2,7 +2,7 @@
 wordpress_id: 355
 layout: post
 title: Handling asset caching nicely in Rails 2.0
-wordpress_url: http://robsanheim.com/2007/12/13/handling-asset-caching-nicely-in-rails-20/
+wordpress_url: https://robsanheim.com/2007/12/13/handling-asset-caching-nicely-in-rails-20/
 ---
 <strong>update:</strong> fix some incorrect paths that did not have the public in front.  (thanks Jon)
 

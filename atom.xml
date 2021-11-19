@@ -3,13 +3,13 @@ layout: nil
 max_feed_posts: 40
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
  
  <title>Panasonic Youth</title>
- <link href="http://robsanheim.com/atom.xml" rel="self"/>
- <link href="http://robsanheim.com/"/>
+ <link href="https://robsanheim.com/atom.xml" rel="self"/>
+ <link href="https://robsanheim.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://robsanheim.com/</id>
+ <id>https://robsanheim.com/</id>
  <author>
    <name>Rob Sanheim</name>
    <email>rsanheim@gmail.com</email>
@@ -19,9 +19,9 @@ max_feed_posts: 40
  {% if forloop.index <= page.max_feed_posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://robsanheim.com{{ post.url }}"/>
+   <link href="https://robsanheim.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://robsanheim.com{{ post.id }}</id>
+   <id>https://robsanheim.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endif %}

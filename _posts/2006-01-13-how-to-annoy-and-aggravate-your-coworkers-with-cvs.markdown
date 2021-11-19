@@ -3,7 +3,7 @@ wordpress_id: 162
 layout: post
 title: How to annoy and aggravate your coworkers with CVS!
 excerpt: "\"Whats the problem?!  It compiles, doesn't it!!\""
-wordpress_url: http://www.robsanheim.com/?p=162
+wordpress_url: https://www.robsanheim.com/?p=162
 ---
 Here are some tips for how to drive your fellow developers nuts using your favorite change management system:
 

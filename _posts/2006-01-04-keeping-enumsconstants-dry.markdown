@@ -2,9 +2,9 @@
 wordpress_id: 153
 layout: post
 title: Keeping enums/constants DRY?
-wordpress_url: http://www.robsanheim.com/?p=153
+wordpress_url: https://www.robsanheim.com/?p=153
 ---
-I'm pretty sure there is no way to do this with <a href="http://jakarta.apache.org/commons/lang/api/org/apache/commons/lang/enum/Enum.html">Commons Enum</a> (yes, I'm stuck on 1.4) using plain ole java.  Say you just want every enum to have the same attribute name as its variable name, like so:
+I'm pretty sure there is no way to do this with <a href="https://jakarta.apache.org/commons/lang/api/org/apache/commons/lang/enum/Enum.html">Commons Enum</a> (yes, I'm stuck on 1.4) using plain ole java.  Say you just want every enum to have the same attribute name as its variable name, like so:
 
 [java]
         private static int index = 0;

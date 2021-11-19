@@ -2,7 +2,7 @@
 wordpress_id: 303
 layout: post
 title: My Command line toolkit for Ruby and Linux
-wordpress_url: http://www.robsanheim.com/?p=303
+wordpress_url: https://www.robsanheim.com/?p=303
 ---
 Some common aliases and functions that I use, spread across various bash_login and .sh scripts.  This excludes a bunch of things that are specific to SeekingAlpha, of course.  A lot of this was cobbled together from similar lists and previous coworkers.
 
@@ -33,7 +33,7 @@ alias apache_process='ps -ef | grep httpd | grep -v grep | wc -l' # count apache
 alias topcpu='ps aux | sort -n +2 | tail -10'  # top 10 cpu processes
 alias topmem='ps aux | sort -n +3 | tail -10'  # top 10 memory processes
 
-# systat rocks - http://perso.orange.fr/sebastien.godard/index.html
+# systat rocks - https://perso.orange.fr/sebastien.godard/index.html
 alias sar2='sar -u 2 0'
 alias sar5='sar -u 5 0'
 

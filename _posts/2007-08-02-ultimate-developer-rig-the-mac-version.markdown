@@ -2,9 +2,9 @@
 wordpress_id: 333
 layout: post
 title: Ultimate Developer Rig - the Mac version
-wordpress_url: http://robsanheim.com/2007/08/02/ultimate-developer-rig-the-mac-version/
+wordpress_url: https://robsanheim.com/2007/08/02/ultimate-developer-rig-the-mac-version/
 ---
-Jeff Atwood of CodingHorror fame recently put together the "<a href="http://www.hanselman.com/blog/TheCodingHorrorUltimateDeveloperRigThrowdownPart1.aspx">ultimate developer rig</a>" for <a href="http://www.hanselman.com/blog/TheCodingHorrorUltimateDeveloperRigThrowdownPart2.aspx">Scott Hanselman</a>.  Both these guys are primarily microsoft devs, so its forgivable that the machine is a PC box with Vista on it.  Still, if I were to build my own pc, I would put Ubuntu Feisty on it and be done with it.  I have built my own PC from parts, and though it was a nice learning experience I see no reason to do it anymore.  I also can't imagine <strong>not</strong> using Mac OS X right now for dev work, though I would consider Ubuntu in a pinch.
+Jeff Atwood of CodingHorror fame recently put together the "<a href="https://www.hanselman.com/blog/TheCodingHorrorUltimateDeveloperRigThrowdownPart1.aspx">ultimate developer rig</a>" for <a href="https://www.hanselman.com/blog/TheCodingHorrorUltimateDeveloperRigThrowdownPart2.aspx">Scott Hanselman</a>.  Both these guys are primarily microsoft devs, so its forgivable that the machine is a PC box with Vista on it.  Still, if I were to build my own pc, I would put Ubuntu Feisty on it and be done with it.  I have built my own PC from parts, and though it was a nice learning experience I see no reason to do it anymore.  I also can't imagine <strong>not</strong> using Mac OS X right now for dev work, though I would consider Ubuntu in a pinch.
 
 So here is my outline for the ultimate developer rig who prefers Mac -- any decent Mac can run Windows of Linux anyways, so why mess with Vista or XP?  This is assuming a nice budget to make a top notch programmer happy, but not assuming so much that we can just throw away money:
 
@@ -23,15 +23,15 @@ So here is my outline for the ultimate developer rig who prefers Mac -- any dece
 This is the base Mac Pro system, purchased from Apple.  Quad core seems future-proof without being wasteful, while four gigs ram should be considered the minimum now for any serious developer, especially with the overhead when using virtualized OS'ses.  We get the Radeon to support up to two 30" monitors, and can always add the basic Nvidia card if we need to support more then that.  Hard drives, monitors, and other addons are just stupid expensive through apple, and upgrading the Pro should be dead simple.  Lets do that through NewEgg or Dell...
 <h4>Addons for the Mac Pro</h4>
 <ul>
-<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822136011">Raptor 10000 rpm 150GB SATA hard drive</a> - $210</li>
-<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16822148134">Seagate 7200.10 750GB SATA hard drive</a> - $210</li>
-<li>2 x 24" <a href="http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=dhs&cs=19&sku=320-5647">Dell 2407WFP</a> monitors - $1100</li>
-<li><a href="http://www.newegg.com/Product/Product.aspx?Item=N82E16826104015">Logitech Revolution MX Mouse</a> - $75</li>
+<li><a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16822136011">Raptor 10000 rpm 150GB SATA hard drive</a> - $210</li>
+<li><a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16822148134">Seagate 7200.10 750GB SATA hard drive</a> - $210</li>
+<li>2 x 24" <a href="https://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=dhs&cs=19&sku=320-5647">Dell 2407WFP</a> monitors - $1100</li>
+<li><a href="https://www.newegg.com/Product/Product.aspx?Item=N82E16826104015">Logitech Revolution MX Mouse</a> - $75</li>
 </ul>
 
 Our add ons give us a gig of hard drive space, plus the Raptor for the boot drive and any key applications we have.  The 750 gig drive is for the massive quantities of, uh, public domain movies and music.  The MX mouse is awesome and the default Apple mouse is lame-city.
 
-Monitor configuration could be its whole blog post, or even its own entire blog.  I'm still a bit amazed by certain coworkers who have full 20"+ LCDs available at the office, yet still use a 15" laptop screen!  Obviously opinions diverge a lot on monitors, but <a href="http://www.time.com/time/photogallery/0,29307,1622338_1363003,00.html">anecdotal</a> reports, personal experience and <a href="http://images.apple.com/displays/pdf/cinemadisplay30report.pdf">research</a> <a href="http://jeremy.zawodny.com/blog/archives/005541.html">shows</a> that bigger screens == bigger productivity.  
+Monitor configuration could be its whole blog post, or even its own entire blog.  I'm still a bit amazed by certain coworkers who have full 20"+ LCDs available at the office, yet still use a 15" laptop screen!  Obviously opinions diverge a lot on monitors, but <a href="https://www.time.com/time/photogallery/0,29307,1622338_1363003,00.html">anecdotal</a> reports, personal experience and <a href="https://images.apple.com/displays/pdf/cinemadisplay30report.pdf">research</a> <a href="https://jeremy.zawodny.com/blog/archives/005541.html">shows</a> that bigger screens == bigger productivity.  
 
 Currently, 22 and 24" monitors are in the sweet spot on the price performance curve - so I choose two Dell 24" for this fantasy config.  One could always add a 30" monitor and another video card when they become more reasonably priced in the future.  If you do decide to go with a 30", please get a Dell or HP and don't pay the Apple surcharge.  I used a 30" Apple for over a year, and while its a gorgeous monitor, there is no reason to pay an AppleTax when Dell and HP have the same or comparable quality for hundreds less.
 

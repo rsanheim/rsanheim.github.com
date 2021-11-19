@@ -2,11 +2,11 @@
 wordpress_id: 383
 layout: post
 title: If you think Huddle is ripping off Campfire
-wordpress_url: http://robsanheim.com/2008/04/08/if-you-think-huddle-is-ripping-off-campfire/
+wordpress_url: https://robsanheim.com/2008/04/08/if-you-think-huddle-is-ripping-off-campfire/
 ---
 ...then you haven't seen mIRC, an irc client app that has been around for years:
 
-<img src="http://www.aliendownload.com/files/screens/2228_mirc.gif" alt="mirc screen shot" />
+<img src="https://www.aliendownload.com/files/screens/2228_mirc.gif" alt="mirc screen shot" />
 
 See anything familiar in the screen shot above?
 
@@ -25,4 +25,4 @@ Here's the standard process whenever this becomes public and everyone gets up in
 
 What exactly is the problem here?
 
-The more interesting point about Huddle, and Google App Engine in general, is the <a href="http://gilesbowkett.blogspot.com/2008/04/geek-politics-ftl.html">lack of diversity the platform provides for</a>.  But please, drop the "Google ripped off 37 Signals oh noess!!!!" angle.  
+The more interesting point about Huddle, and Google App Engine in general, is the <a href="https://gilesbowkett.blogspot.com/2008/04/geek-politics-ftl.html">lack of diversity the platform provides for</a>.  But please, drop the "Google ripped off 37 Signals oh noess!!!!" angle.  

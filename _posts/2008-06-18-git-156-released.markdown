@@ -2,8 +2,8 @@
 wordpress_id: 389
 layout: post
 title: Git 1.5.6 released
-wordpress_url: http://robsanheim.com/2008/06/18/git-156-released/
+wordpress_url: https://robsanheim.com/2008/06/18/git-156-released/
 ---
-Git 1.5.6 has been <a href="http://kerneltrap.org/Git/1.5.6_Relatively_Small_Impact_Changes">released</a>, and there are a lot of usability fixes and tweaks which should make the upgrade worth your while.  Looking at the detailed list of changes since 1.5.5, it looks like submodules have been getting quite a bit of love from many contributors, so it might be time to get them another shot.  Scroll down or search in the <a href="http://kerneltrap.org/Git/1.5.6_Relatively_Small_Impact_Changes">announcement</a> for the the part starting with "Changes since v1.5.5" and look through there for some of the submodule improvements that are coming.
+Git 1.5.6 has been <a href="https://kerneltrap.org/Git/1.5.6_Relatively_Small_Impact_Changes">released</a>, and there are a lot of usability fixes and tweaks which should make the upgrade worth your while.  Looking at the detailed list of changes since 1.5.5, it looks like submodules have been getting quite a bit of love from many contributors, so it might be time to get them another shot.  Scroll down or search in the <a href="https://kerneltrap.org/Git/1.5.6_Relatively_Small_Impact_Changes">announcement</a> for the the part starting with "Changes since v1.5.5" and look through there for some of the submodule improvements that are coming.
 
-The directions <a href="http://solutions.treypiepmeier.com/2008/02/25/installing-git-on-os-x-leopard/">posted here</a> worked fine for me to upgrade my existing source based installation in /usr/local.
+The directions <a href="https://solutions.treypiepmeier.com/2008/02/25/installing-git-on-os-x-leopard/">posted here</a> worked fine for me to upgrade my existing source based installation in /usr/local.

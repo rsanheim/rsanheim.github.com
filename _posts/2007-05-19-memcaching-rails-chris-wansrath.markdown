@@ -2,7 +2,7 @@
 wordpress_id: 323
 layout: post
 title: RailsConf 2007 - Memcaching Rails - Chris Wansrath
-wordpress_url: http://www.robsanheim.com/?p=323
+wordpress_url: https://www.robsanheim.com/?p=323
 ---
 	<ul>
 		<li>Chris Wanstrath helped scaling gamespot</li>
@@ -18,14 +18,14 @@ wordpress_url: http://www.robsanheim.com/?p=323
 	</ul>
 
 	<ul>
-		<li>at first &#8211; you dont need <a href="http://www.danga.com/memcached/">memcached</a> &#8211; YAGNI</li>
+		<li>at first &#8211; you dont need <a href="https://www.danga.com/memcached/">memcached</a> &#8211; YAGNI</li>
 		<li>unless you really do need it - you have a millions of views, you have a huge DB, you have really ugly sql</li>
 	</ul>
 
 	<ul>
 		<li>the standard pattern&#8212;try the cache first, if its not there, grab it from the DB and set it in the cache</li>
 		<li>use memcached-client, not ruby-memcache</li>
-		<li><a href="http://require.errtheblog.com/plugins/browser/cache_fu">cache-fu</a> = acts_as-cache 2.0</li>
+		<li><a href="https://require.errtheblog.com/plugins/browser/cache_fu">cache-fu</a> = acts_as-cache 2.0</li>
 		<li>don&#8217;t use DNS names for the servers &#8211; always use ip&#8217;s</li>
 		<li>expire_cache &#8211; issues a delete to the cache</li>
 		<li>get_cache &#8211; duh, grab from the cache</li>

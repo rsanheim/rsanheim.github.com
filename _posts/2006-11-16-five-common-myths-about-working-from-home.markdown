@@ -2,14 +2,14 @@
 wordpress_id: 277
 layout: post
 title: Five Common Myths about Working From Home
-wordpress_url: http://www.robsanheim.com/?p=277
+wordpress_url: https://www.robsanheim.com/?p=277
 ---
-I've been working (programming) from home since April with <a href="http://seekingalpha.com">Seeking Alpha</a>, and its been a lot of fun.  I've discovered the true value of being free of distractions, as a phone call or annoying pet can break flow and burn ten minutes.  I've also learned just how much more productive I can be when I'm not in an office, and when I really <strong>love</strong> what I'm doing.  Amazing how that works.  
+I've been working (programming) from home since April with <a href="https://seekingalpha.com">Seeking Alpha</a>, and its been a lot of fun.  I've discovered the true value of being free of distractions, as a phone call or annoying pet can break flow and burn ten minutes.  I've also learned just how much more productive I can be when I'm not in an office, and when I really <strong>love</strong> what I'm doing.  Amazing how that works.  
 
 I've also come upon some misconceptions a lot of folks, nerd and non-nerd alike, have when discussing my work environment.  Here they are, in no particular order:
 
 <ul>
-<li><strong>Oh, you must watch your kids/pets/tv/chia pet all day, then, right?</strong>  People don't think you are actually working, or at least don't think logically about what "working from home" actually entails.  I've heard the "Oh, you work from home?  You must be keeping your son at home with you?" <a href="http://www.robsanheim.com/2006/04/07/its-_working_-from-home-not-workchildcare-from-home/">question</a> far too many times, now.</li>
+<li><strong>Oh, you must watch your kids/pets/tv/chia pet all day, then, right?</strong>  People don't think you are actually working, or at least don't think logically about what "working from home" actually entails.  I've heard the "Oh, you work from home?  You must be keeping your son at home with you?" <a href="https://www.robsanheim.com/2006/04/07/its-_working_-from-home-not-workchildcare-from-home/">question</a> far too many times, now.</li>
 
 <li><strong>You have less distractions.</strong>  The entire summer there was road construction right outside my house, with the constant beeping of dump trucks in reverse a solid three hours in the morning.  Then there were the days were they were jackhammering and moving concrete - it literally shook my whole office, and I'm in the second floor.  Family and friends think because you work from home that you can chat whenever and as long as they want, so there are awkward conversations where I've had to explain that I can't be on the phone all afternoon.  The type of distraction might be different, but there are still plenty of things to steal your attention.</li>
 

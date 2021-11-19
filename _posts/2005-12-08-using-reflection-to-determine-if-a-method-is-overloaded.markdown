@@ -2,9 +2,9 @@
 wordpress_id: 135
 layout: post
 title: Using reflection to determine method overloading
-wordpress_url: http://www.robsanheim.com/?p=135
+wordpress_url: https://www.robsanheim.com/?p=135
 ---
-A <a href="http://article.gmane.org/gmane.comp.java.dwr.user/619">thread</a> on the <a href="http://getahead.ltd.uk/dwr/">DWR</a> mailing list about properly detected overloaded methods with covariant types in JDK5 got me curious.  So I put together some quick code to determine if one method overloads another.  It works for covariant types, but I didn't add support for generics.  I'm not sure how much more work that would be.  
+A <a href="https://article.gmane.org/gmane.comp.java.dwr.user/619">thread</a> on the <a href="https://getahead.ltd.uk/dwr/">DWR</a> mailing list about properly detected overloaded methods with covariant types in JDK5 got me curious.  So I put together some quick code to determine if one method overloads another.  It works for covariant types, but I didn't add support for generics.  I'm not sure how much more work that would be.  
 
 Full source code follows.  Feel free to use it if you like it, just leave the attribution.  I'm sure there could be more testing and some optimization done, also.  I would also be very curious to know if anyone else has had to do something similiar.<!--more-->
 
@@ -20,7 +20,7 @@ import java.util.Arrays;
  * A utility to check if one method is overloading another. Note that this
  * utility does not take into account generics at all, but it should work
  * correctly for covariant return types.
- * @link <a *       href="http://java.sun.com/docs/books/jls/third_edition/html/classes.html#227768">the
+ * @link <a *       href="https://java.sun.com/docs/books/jls/third_edition/html/classes.html#227768">the
  *       JLS</a> for information on overloading
  * 
  * TODO change to allow parameters to isOverloaded be ordered any way, and make this 
@@ -28,7 +28,7 @@ import java.util.Arrays;
  * 
  * TODO change to support generics, particularily the nasty case where an
  * 		overloaded or overridden method uses generics and the base method does not -
- * 		see <a * 		href="http://java.sun.com/docs/books/jls/third_edition/html/classes.html#8.4.8.3">JLS
+ * 		see <a * 		href="https://java.sun.com/docs/books/jls/third_edition/html/classes.html#8.4.8.3">JLS
  * 		again</a>
  */
 public class OverloadUtil {

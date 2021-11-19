@@ -2,9 +2,9 @@
 wordpress_id: 166
 layout: post
 title: Getting size of collection in JSTL 1.0
-wordpress_url: http://www.robsanheim.com/?p=166
+wordpress_url: https://www.robsanheim.com/?p=166
 ---
-Assuming <strong><a href="http://jakarta.apache.org/taglibs/doc/standard-1.0-doc/intro.html">JSTL 1.0</a></strong>, this doesn't work:
+Assuming <strong><a href="https://jakarta.apache.org/taglibs/doc/standard-1.0-doc/intro.html">JSTL 1.0</a></strong>, this doesn't work:
 
 <code>&lt;c:out value="${myMap.size}" /&gt;</code>
 

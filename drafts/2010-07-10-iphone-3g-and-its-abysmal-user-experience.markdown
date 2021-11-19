@@ -4,7 +4,7 @@ title: Iphone 3g and its abysmal user experience
 ---
 
 
-<a href="http://twitter.com/mpodrazik/status/18195173208">![alt text](http://img.skitch.com/20100710-e89yktn3u5ddn97y1ynn621bp5.jpg "Title")</a>
+<a href="https://twitter.com/mpodrazik/status/18195173208">![alt text](https://img.skitch.com/20100710-e89yktn3u5ddn97y1ynn621bp5.jpg "Title")</a>
 
 
 This nails it.  I'm a fairly happy Iphone 3G owner, but even before upgrading to iOS 4 the performance was becoming horrendous.  We are talking three or four seconds to do things or get a keyboard to enter input.  After the iOS 4 upgrade, it seems to have gotten even worse.

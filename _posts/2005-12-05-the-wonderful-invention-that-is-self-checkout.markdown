@@ -2,9 +2,9 @@
 wordpress_id: 132
 layout: post
 title: The wonderful invention that is self-checkout
-wordpress_url: http://www.robsanheim.com/?p=132
+wordpress_url: https://www.robsanheim.com/?p=132
 ---
-....and some <a href="http://www.mindsack.com/?p=20">wonderful rules</a> for its usage, from <a href="http://www.mindsack.com">Mindsack.</a>  My favorites:
+....and some <a href="https://www.mindsack.com/?p=20">wonderful rules</a> for its usage, from <a href="https://www.mindsack.com">Mindsack.</a>  My favorites:
 
 <blockquote>
 <ul><li>Are You an Idiot? If so, please don’t use the self-check line. A real human being will be happy to help you, right over there.</li>

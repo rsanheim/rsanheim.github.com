@@ -2,7 +2,7 @@
 wordpress_id: 318
 layout: post
 title: Deploying Locally to Mac OS X with Capistrano
-wordpress_url: http://www.robsanheim.com/?p=318
+wordpress_url: https://www.robsanheim.com/?p=318
 ---
 Lately I've wanted to deploy locally to my mac using Capistrano.  Not for actual deployment locally, but to test some custom tasks I was working on.  Its a lot quicker and safer to run custom tasks against a local sandbox then some real server somewhere.  Writing real tests for custom tasks is basically too difficult to be worth it, so testing locally is probably the least crummy option right now.  Another side benefit of testing locally is the speed and removing the need for a net connection.
 

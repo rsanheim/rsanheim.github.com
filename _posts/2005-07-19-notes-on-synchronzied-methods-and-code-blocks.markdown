@@ -2,7 +2,7 @@
 wordpress_id: 17
 layout: post
 title: Notes on synchronzied methods and code blocks
-wordpress_url: http://www.robsanheim.com/?p=17
+wordpress_url: https://www.robsanheim.com/?p=17
 ---
 Just making some notes on the use of sychronized.  
 
@@ -33,7 +33,7 @@ is the same as:
 }[/java]
 
 in that the lock is on the class object.  Further reading:
-* <a href="http://mindprod.com/jgloss/synchronized.html">Synchronzied at mindprod</a>
-* <a href="http://mindprod.com/jgloss/thread.html">Threads at mindprod</a>
-* <a href="http://www.onjava.com/lpt/a/5245">Advanced Synchronization in Java</a>
-* the excellent article <a href="http://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html">Double Checked Locking is Broken</a>
+* <a href="https://mindprod.com/jgloss/synchronized.html">Synchronzied at mindprod</a>
+* <a href="https://mindprod.com/jgloss/thread.html">Threads at mindprod</a>
+* <a href="https://www.onjava.com/lpt/a/5245">Advanced Synchronization in Java</a>
+* the excellent article <a href="https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html">Double Checked Locking is Broken</a>

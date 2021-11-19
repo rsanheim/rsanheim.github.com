@@ -2,7 +2,7 @@
 wordpress_id: 276
 layout: post
 title: How to Stub ActionController#render for Testing
-wordpress_url: http://www.robsanheim.com/?p=276
+wordpress_url: https://www.robsanheim.com/?p=276
 ---
 Sometimes you just want to ensure that render will get called with the correct parameters in a test.  Say, for instance, if you have your own special site_render method that examines subdomains or  other info about the current request, and then does the real render based on that.  This little test helper will override the render method to just return the options hash it was called with in a block, and then it will restore the original method to allow other functional tests to work correctly:
 

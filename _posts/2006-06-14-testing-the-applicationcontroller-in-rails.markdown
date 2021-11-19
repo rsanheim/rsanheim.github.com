@@ -2,7 +2,7 @@
 wordpress_id: 238
 layout: post
 title: Testing the ApplicationController in Rails
-wordpress_url: http://www.robsanheim.com/?p=238
+wordpress_url: https://www.robsanheim.com/?p=238
 ---
 Not sure why this test case isn't generated right away, but here it is:
 

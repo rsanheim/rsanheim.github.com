@@ -2,16 +2,16 @@
 wordpress_id: 342
 layout: post
 title: multi_rails has been released
-wordpress_url: http://robsanheim.com/2007/10/23/multi_rails-has-been-released/
+wordpress_url: https://robsanheim.com/2007/10/23/multi_rails-has-been-released/
 ---
-<a href="http://multi-rails.rubyforge.org/">MultiRails</a> allows easy testing against multiple versions of Rails for
+<a href="https://multi-rails.rubyforge.org/">MultiRails</a> allows easy testing against multiple versions of Rails for
 your Rails specific gem or plugin.
 
 Use MultiRails to hook in Rails 2.0 testing in your continuous integration.  Still working on Rails 2.0 support?  Use MultiRails to see where your test suite falls down against the 2.0 preview releases of Rails.
 
-sudo gem install multi_rails...view the README or the <a href="http://multi-rails.rubyforge.org/">main rdoc page</a> for instructions
+sudo gem install multi_rails...view the README or the <a href="https://multi-rails.rubyforge.org/">main rdoc page</a> for instructions
 
-MultiRails was initially developed by members of Relevance while developing Streamlined against edge Rails.  To see how Streamlined uses MultiRails, go to <a href="http://trac.streamlinedframework.org">http://trac.streamlinedframework.org</a>.
+MultiRails was initially developed by members of Relevance while developing Streamlined against edge Rails.  To see how Streamlined uses MultiRails, go to <a href="https://trac.streamlinedframework.org">https://trac.streamlinedframework.org</a>.
 
 FEATURES
 

@@ -2,11 +2,11 @@
 wordpress_id: 299
 layout: post
 title: How *not* to run an online store
-wordpress_url: http://www.robsanheim.com/?p=299
+wordpress_url: https://www.robsanheim.com/?p=299
 ---
-Whats wrong with this picture?  Taken from the front page of <a href="http://emusic.com">emusic.com</a> - hint: there is no "browse" link.
+Whats wrong with this picture?  Taken from the front page of <a href="https://emusic.com">emusic.com</a> - hint: there is no "browse" link.
 
-<img src='http://robsanheim.com/wp-content/emusic_screen_shot.jpg' alt='emusis.com front page' />
+<img src='https://robsanheim.com/wp-content/emusic_screen_shot.jpg' alt='emusis.com front page' />
 
 I had heard about emusic from podcasts I listen to, and was interested to check it out as they sell DRM free music from a lot of independent artists.  That sounds like a perfect fit for me.
 

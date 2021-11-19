@@ -2,7 +2,7 @@
 wordpress_id: 207
 layout: post
 title: java.awt.List - the Bane of IDE AutoCompletion
-wordpress_url: http://www.robsanheim.com/?p=207
+wordpress_url: https://www.robsanheim.com/?p=207
 ---
 When I'm cruising in Eclipse, nothing disrupts flow like having to fix stupid import problems.  FOr example, I type in a reference to List and try to autocorrect it:
 

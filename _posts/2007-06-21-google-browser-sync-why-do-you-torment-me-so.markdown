@@ -2,9 +2,9 @@
 wordpress_id: 326
 layout: post
 title: Google Browser Sync, why do you torment me so?
-wordpress_url: http://www.robsanheim.com/?p=326
+wordpress_url: https://www.robsanheim.com/?p=326
 ---
-I've been using <a href="http://www.google.com/tools/firefox/browsersync/index.html">Google Browser Sync</a> for a while now to sync bookmarks across any machine I use.  Actually, I only use it to sync my bookmark <em>toolbar</em>, as I use delicious for any sort of "normal" bookmark.  I think I use the bookmark drop down menu maybe once a month, but I use my bookmark toolbar many many times a day.
+I've been using <a href="https://www.google.com/tools/firefox/browsersync/index.html">Google Browser Sync</a> for a while now to sync bookmarks across any machine I use.  Actually, I only use it to sync my bookmark <em>toolbar</em>, as I use delicious for any sort of "normal" bookmark.  I think I use the bookmark drop down menu maybe once a month, but I use my bookmark toolbar many many times a day.
 
 My toolbar has everything I need to get my job done, which means links to various dev/test/production sites, APIs, search engines for mailing lists, project/bug tracking sites, and of course a link to view or add to my delicious bookmarks.   Then I have the few essential links for personal things - any personal GTD stuff and difficult to remember banking or application urls.
 

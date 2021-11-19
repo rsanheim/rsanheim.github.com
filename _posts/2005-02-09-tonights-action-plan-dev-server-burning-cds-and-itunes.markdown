@@ -2,7 +2,7 @@
 wordpress_id: 19
 layout: post
 title: "Tonights action plan: dev server, burning cds, and iTunes"
-wordpress_url: http://www.robsanheim.com/?p=19
+wordpress_url: https://www.robsanheim.com/?p=19
 ---
 Sooo tonight my goal was to at least get my second PC wiped and reinstalled with a fresh copy of XP for use as a web server, and right now its nearly 1 am and I don't think I'm going to hit that yet tonight. My problem is that I have three PCs to maintain at home, and it seems like stupid little issues keep coming up that keep me from getting a development environment going. Lately I was trying to get used to logging in as "power user" in my xp box instead of an admin, but it broke a few too many apps I use on a daily basis and it just wasn't worth the hassle. I figure if anyone actually wants to hack into my wireless network and gets through the WPA encryption and all that crap, they would be able to hack my administrator password also. Plus I just don't have the time to figure out work arounds for all the dumb applications written to only work from an administrator role.
 

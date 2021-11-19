@@ -2,7 +2,7 @@
 wordpress_id: 338
 layout: post
 title: Overriding setup in Rail's test_helper - impossible?
-wordpress_url: http://robsanheim.com/2007/09/06/overriding-setup-in-rails-test_helper-impossible/
+wordpress_url: https://robsanheim.com/2007/09/06/overriding-setup-in-rails-test_helper-impossible/
 ---
 Is there a way that will just work for adding common setup code to test_helper?  None of the below work:
 

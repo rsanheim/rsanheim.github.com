@@ -3,7 +3,7 @@ wordpress_id: 57
 layout: post
 title: preferred Iterator usage - use "for", not "while"
 excerpt: using "while" with Iterators is naughty
-wordpress_url: http://www.robsanheim.com/?p=57
+wordpress_url: https://www.robsanheim.com/?p=57
 ---
 <strong>Note:</strong> this tip not quite as applicable with Java 5.
 
@@ -22,7 +22,7 @@ Instead, use the "for loop idiom".  It minimizes the scope of the iterator and i
 }[/java]
 
 
-Good ole' <a href="http://www.amazon.com/exec/obidos/redirect?tag=manalangcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0201310058%2526tag=manalangcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0201310058%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82" title="View product details at Amazon">Effective Java</a> has a nice example of the kind of copy-and-paste bugs that can happen with the first idiom:
+Good ole' <a href="https://www.amazon.com/exec/obidos/redirect?tag=manalangcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=https://www.amazon.com/gp/redirect.html%253fASIN=0201310058%2526tag=manalangcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0201310058%25253FSubscriptionId=0EMV44A9A5YT1RVDGZ82" title="View product details at Amazon">Effective Java</a> has a nice example of the kind of copy-and-paste bugs that can happen with the first idiom:
 
 [java]Iterator i = c.iterator();
 while(i.hasNext()) {

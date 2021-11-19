@@ -2,7 +2,7 @@
 wordpress_id: 360
 layout: post
 title: untitled
-wordpress_url: http://robsanheim.com/2008/01/19/untitled/
+wordpress_url: https://robsanheim.com/2008/01/19/untitled/
 ---
 <cite>The power of the Executive to cast a man into prison
 without formulating any charge known to the law, and
@@ -14,4 +14,4 @@ of all totalitarian government whether Nazi or Communist.</cite>
 
 <br />
 
-<cite>Except as provided in section 1005 of the Detainee Treatment Act of 2005, no court, justice, or judge shall have jurisdiction to hear or consider an application for a writ of habeas corpus filed by or on behalf of an alien detained by the United States who has been determined by the United States to have been properly detained as an enemy combatant or is awaiting such determination.” §1005(e)(1), 119 Stat. 2742.</cite> - <a href="http://en.wikipedia.org/wiki/Military_Commissions_Act_of_2006" title="Wikipedia Entry: Military Commissions Act of 2006">Military Commissions Act of 2006</a>
+<cite>Except as provided in section 1005 of the Detainee Treatment Act of 2005, no court, justice, or judge shall have jurisdiction to hear or consider an application for a writ of habeas corpus filed by or on behalf of an alien detained by the United States who has been determined by the United States to have been properly detained as an enemy combatant or is awaiting such determination.” §1005(e)(1), 119 Stat. 2742.</cite> - <a href="https://en.wikipedia.org/wiki/Military_Commissions_Act_of_2006" title="Wikipedia Entry: Military Commissions Act of 2006">Military Commissions Act of 2006</a>

@@ -2,7 +2,7 @@
 wordpress_id: 392
 layout: post
 title: "Quick: Find the Bug or Gotcha with named_scope"
-wordpress_url: http://robsanheim.com/2008/07/23/quick-find-the-bug-or-gotcha-with-named_scope/
+wordpress_url: https://robsanheim.com/2008/07/23/quick-find-the-bug-or-gotcha-with-named_scope/
 ---
 Think fast!  Where's the bug?
 

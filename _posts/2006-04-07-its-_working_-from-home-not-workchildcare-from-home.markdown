@@ -2,7 +2,7 @@
 wordpress_id: 221
 layout: post
 title: Its _Working_ From Home, not Work+Childcare from Home
-wordpress_url: http://www.robsanheim.com/?p=221
+wordpress_url: https://www.robsanheim.com/?p=221
 ---
 Since I've been telling people my new job will be from home, I've had this exchange far too often:
 <blockquote>Me: So I'll be working out of my home office, the company is all virtual...

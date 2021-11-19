@@ -2,11 +2,11 @@
 wordpress_id: 388
 layout: post
 title: Git lessons learned
-wordpress_url: http://robsanheim.com/2008/06/06/git-lessons-learned/
+wordpress_url: https://robsanheim.com/2008/06/06/git-lessons-learned/
 ---
 Lessons learned from day to day use with various ruby and rails projects.
 
-* Submodules completely suck when things get complex - I'm moving away from no submodules, and using direct exports for now until I have time to research braid or piston 2.0.  For more details on this, see <a href="http://blog.buildingwebapps.com/2008/5/20/got-git-submodules-not-a-go-go">this</a> or <a href="http://groups.google.com/group/github/browse_thread/thread/5f49768707d015dd">this post</a> on the github group.
+* Submodules completely suck when things get complex - I'm moving away from no submodules, and using direct exports for now until I have time to research braid or piston 2.0.  For more details on this, see <a href="https://blog.buildingwebapps.com/2008/5/20/got-git-submodules-not-a-go-go">this</a> or <a href="https://groups.google.com/group/github/browse_thread/thread/5f49768707d015dd">this post</a> on the github group.
 
 * Use capistrano 2.2, not 2.3!  2.3 breaks git support
 

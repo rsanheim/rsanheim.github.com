@@ -2,9 +2,9 @@
 wordpress_id: 265
 layout: post
 title: Adding your Lib Tests and Plugin Tests to Autotest
-wordpress_url: http://www.robsanheim.com/?p=265
+wordpress_url: https://www.robsanheim.com/?p=265
 ---
-My work lately has involved managing a lot of common code across three different Rails projects, some of it managed by svn:externals in /lib and some in plugins.  So since I've been using ZenTest's <a href="http://rubyforge.org/projects/zentest/">autotest</a> (which is very nice with the growl and redgreen plugins in 3.4), naturally I want the lib and vendor/plugin tests picked up as well.  Heres my solution, crude as always, added to the case statement in rails_autotest.rb - it assumes your tests follow the Rails pattern of "[implementation file]_test.rb":
+My work lately has involved managing a lot of common code across three different Rails projects, some of it managed by svn:externals in /lib and some in plugins.  So since I've been using ZenTest's <a href="https://rubyforge.org/projects/zentest/">autotest</a> (which is very nice with the growl and redgreen plugins in 3.4), naturally I want the lib and vendor/plugin tests picked up as well.  Heres my solution, crude as always, added to the case statement in rails_autotest.rb - it assumes your tests follow the Rails pattern of "[implementation file]_test.rb":
 
 [ruby].... 
     when %r%^lib(.*)_test\.rb$% then

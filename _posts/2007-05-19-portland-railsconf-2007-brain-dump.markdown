@@ -2,7 +2,7 @@
 wordpress_id: 322
 layout: post
 title: Portland RailsConf 2007 brain dump
-wordpress_url: http://www.robsanheim.com/?p=322
+wordpress_url: https://www.robsanheim.com/?p=322
 ---
 Since getting in Portland I haven't much time to sit down and think or really write, but here's a quick brain dump, as I have like 4 blog entries queued up that I'm finishing...
 

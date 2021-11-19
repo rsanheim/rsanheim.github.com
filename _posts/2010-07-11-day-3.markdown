@@ -3,13 +3,13 @@ layout: post
 title: "Day 3 Craftsmanship Swap at 8th Light"
 ---
 
-(note: this was from my [Craftsmanship swap](http://en.wikipedia.org/wiki/Software_craftsmanship) Thursday, July 8th at 8th Light)
+(note: this was from my [Craftsmanship swap](https://en.wikipedia.org/wiki/Software_craftsmanship) Thursday, July 8th at 8th Light)
 
-My last day of the craftsmanship swap at 8th Light was on Thursday.  Doug and I paired more on the DRb/DRbFire fix that we had been discussing and working towards on Wednesday.  The fixes can be found in [Doug's fork](http://github.com/dougbradbury/drbfire/commits/master/) of DRbFire.  
+My last day of the craftsmanship swap at 8th Light was on Thursday.  Doug and I paired more on the DRb/DRbFire fix that we had been discussing and working towards on Wednesday.  The fixes can be found in [Doug's fork](https://github.com/dougbradbury/drbfire/commits/master/) of DRbFire.  
 
 The actual code changes resulting from our deep dive into DRb were pretty simple in the end.  The hard part was the learning.  We had to have enough understanding of everything in place, which made the code changes self-evident.  I find with most domains, both technical and business related, this is so often the case -- the solution presents itself once you've learned what you need to know.
 
-For lunch on the last day, I gave a draft version of my talk for [DevNation](http://devnation.us/events/10).  Got some great feedback and questions, and overall it went well.  Post-lunch I was pairing with Doug until it was time for goodbyes and more travel.
+For lunch on the last day, I gave a draft version of my talk for [DevNation](https://devnation.us/events/10).  Got some great feedback and questions, and overall it went well.  Post-lunch I was pairing with Doug until it was time for goodbyes and more travel.
 
 Anyways, the 8th Light office has some very unique opportunities for reflection.  For example, I took advantage of the in-office hammock for an afternoon break:
 
@@ -27,4 +27,4 @@ Anyways, the 8th Light office has some very unique opportunities for reflection.
   <span class="caption">Doug getting his treadmill hack on</span>
 </p>
 
-Overall, the 8th Light guys are great, talented bunch.  Their [apprenticeship program](http://8thlight.com/main/about_description?sub_action=apprenticeship) is a great model to follow for how to train young developers, and I plan on following up on quite a few things I've learned from the swap.  Thanks for 8th Light for having me as a guest, and to Relevance for helping make this happen.
+Overall, the 8th Light guys are great, talented bunch.  Their [apprenticeship program](https://8thlight.com/main/about_description?sub_action=apprenticeship) is a great model to follow for how to train young developers, and I plan on following up on quite a few things I've learned from the swap.  Thanks for 8th Light for having me as a guest, and to Relevance for helping make this happen.

@@ -2,9 +2,9 @@
 wordpress_id: 386
 layout: post
 title: Testing Velocity Part 2 - Why do we test?
-wordpress_url: http://robsanheim.com/2008/04/18/testing-velocity-part-2-why-do-we-test/
+wordpress_url: https://robsanheim.com/2008/04/18/testing-velocity-part-2-why-do-we-test/
 ---
-A couple weeks ago, I <a href="http://robsanheim.com/2008/03/26/testing-velocity-keeping-your-test-suite-fast-part-1/">began a series</a> on keeping your test suite fast and effective.  I now am going to digress a bit, take a step back and view the big picture to establish context.
+A couple weeks ago, I <a href="https://robsanheim.com/2008/03/26/testing-velocity-keeping-your-test-suite-fast-part-1/">began a series</a> on keeping your test suite fast and effective.  I now am going to digress a bit, take a step back and view the big picture to establish context.
 
 Before addressing test performance and what makes up a good test, we should ask ourselves why is it that we write tests at all?  If we want to be effective, we should always stay conscious of the overall goal of testing, as well as the specific goals behind each test in context.
 

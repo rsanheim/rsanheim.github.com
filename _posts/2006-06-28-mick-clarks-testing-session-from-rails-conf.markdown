@@ -3,9 +3,9 @@ wordpress_id: 243
 layout: post
 title: Mick Clark's Testing Session from Rails Conf
 excerpt: Mike Clark's testing session disappointed me
-wordpress_url: http://www.robsanheim.com/?p=243
+wordpress_url: https://www.robsanheim.com/?p=243
 ---
-(little late in posting this...this is from the last day at <a href="http://railsconf.org">RailsConf</a>)
+(little late in posting this...this is from the last day at <a href="https://railsconf.org">RailsConf</a>)
 I was a bit disappointed in Mike Clark's talk on testing.  It had a lot of very intro level, beginner type material.  I would expect that from a No Fluff Just Stuff or user group meeting, but at RailsConf?  Isn't it safe to assume a higher level of basic knowledge at a conference like this, as I would guess at least 75% of the attendees are experienced refugees from other languages or long-time rubyists.  Similiar to "Intro to Ajax" type material, I think we can move past things like "this is a unit test", "this is how asserts work", etc.  
 
 On the other hand, it was a general session in the ballroom with the whole conference there, so I can understand why he went for the basic, foundational material.

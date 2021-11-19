@@ -2,7 +2,7 @@
 wordpress_id: 341
 layout: post
 title: Yall gonna go update some code, up in here, up 'n here!"
-wordpress_url: http://robsanheim.com/2007/10/16/svn-upperyall-gonna-update-my-code-up-in-here-up-n-here/
+wordpress_url: https://robsanheim.com/2007/10/16/svn-upperyall-gonna-update-my-code-up-in-here-up-n-here/
 ---
 A stupid script to update all projects within a directory.  This could be massively improved.
 

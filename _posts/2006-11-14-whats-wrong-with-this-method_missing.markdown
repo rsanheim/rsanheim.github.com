@@ -2,7 +2,7 @@
 wordpress_id: 284
 layout: post
 title: Whats wrong with this method_missing?
-wordpress_url: http://www.robsanheim.com/?p=284
+wordpress_url: https://www.robsanheim.com/?p=284
 ---
 A coworker who shall remain nameless had this method missing implementation in a module that got mixed into the app helper.  This tricked me up for longer then it should, mostly because I hadn't synced up in awhile and so assumed the problem was in changes I made.  I don't know if it would break anything in production, as I never go that far - a whole bunch of failing tests stopped me before I got that far.
 

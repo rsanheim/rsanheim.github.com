@@ -2,7 +2,7 @@
 wordpress_id: 14
 layout: post
 title: Its not so much the heat, its the humidity
-wordpress_url: http://www.robsanheim.com/?p=14
+wordpress_url: https://www.robsanheim.com/?p=14
 ---
 I had big plans for this last weekend to clean up a bunch around the house and work code for upcoming presentations, since wife was planning on being out of town.  Those plans fell through so I ended up doing a bunch of family stuff instead, which was fun anyways.  Its just hard to get a lot of coding done during the weeknights, and weekends are tough when there are family things going on.
 

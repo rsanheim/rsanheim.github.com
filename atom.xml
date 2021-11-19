@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: nil
 max_feed_posts: 40
 ---
@@ -28,4 +28,4 @@ max_feed_posts: 40
  {% endfor %}
  
 </feed>
- 
+  -->

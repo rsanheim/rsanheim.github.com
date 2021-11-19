@@ -23,19 +23,19 @@ body {
 }
 
 #header h1 {
-  margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 #header h1 a, #header h1 a:link, #header h1 a:visited, #header h1 a:hover {
 	color: #000;
 	text-decoration: none;
-  font-size: 120%;
+	font-size: 120%;
 }
 
 h4#byline {
-  font-size: 90%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+	font-size: 90%;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 #footer {
@@ -67,10 +67,10 @@ h4#byline {
 
 .centeredImage
 {
-  text-align:center;
-  margin-top:0px;
-  margin-bottom:0px;
-  padding:0px;
+	text-align:center;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
 }
 
 .caption {
@@ -82,8 +82,8 @@ h4#byline {
 }
 
 .fit-image img {
-  max-width: 100%;
-  max-height: 100%;
+	max-width: 100%;
+	max-height: 100%;
 	line-height: 1.0em;
 }
 

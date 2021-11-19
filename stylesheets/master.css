@@ -1,93 +1,93 @@
 body {
-	font-size: 20px;
-	line-height: 1.5;
-	margin: 0 5px;
-	font-family: corbel, 'lucida grande', helvetica, sans-serif;
-	color: #212122;
-	background-color: #fff;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 0 5px;
+  font-family: corbel, 'lucida grande', helvetica, sans-serif;
+  color: #212122;
+  background-color: #fff;
 }
 
 #wrapper {
-	max-width: 650px;
-	margin: 0 auto;
+  max-width: 650px;
+  margin: 0 auto;
 }
 
 #menu li {
-	display: inline;
-	list-style-type: none;
-	padding-right: 20px;
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
 }
 
 #header {
-	text-align: center;
+  text-align: center;
 }
 
 #header h1 {
-	margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 #header h1 a, #header h1 a:link, #header h1 a:visited, #header h1 a:hover {
-	color: #000;
-	text-decoration: none;
-	font-size: 120%;
+  color: #000;
+  text-decoration: none;
+  font-size: 120%;
 }
 
 h4#byline {
-	font-size: 90%;
-	margin-top: 10px;
-	margin-bottom: 10px;
+  font-size: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #footer {
-	text-align: center;
-	font-size: 80%;
+  text-align: center;
+  font-size: 80%;
 }
 
 .post h1 {
-	font-size: 22px;
+  font-size: 22px;
 }
 
 .post-list tr, .post-list td {
-	text-align: left;
+  text-align: left;
 }
 
 .post-list td.date {
-	width: 22%;
+  width: 22%;
 }
 
 #subscribe_link img {
-	outline: none;
-	border: none;
+  outline: none;
+  border: none;
 }
 
 #menu a {
-	text-decoration: none;
-	outline: none;
+  text-decoration: none;
+  outline: none;
 }
 
 .centeredImage
 {
-	text-align:center;
-	margin-top:0px;
-	margin-bottom:0px;
-	padding:0px;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding:0px;
 }
 
 .caption {
-	font-size: 70%;
+  font-size: 70%;
 }
 
 .fit-image {
-	line-height: 1.0;
+  line-height: 1.0;
 }
 
 .fit-image img {
-	max-width: 100%;
-	max-height: 100%;
-	line-height: 1.0em;
+  max-width: 100%;
+  max-height: 100%;
+  line-height: 1.0em;
 }
 
 .fit-image .caption {
-	padding: 0;
-	margin: 0;
+  padding: 0;
+  margin: 0;
 }

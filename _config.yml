@@ -8,5 +8,6 @@ defaults:
     scope:
       path: "" # all files
       type: "pages"
-    values:
-      show_header: true
+      values:
+        show_header: true
+        

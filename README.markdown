@@ -5,7 +5,7 @@ My homepage.  Pretty standard GitHub Pages thing.
 Requires Ruby 3.0.2
 
 ```
-rbenv install
+rbenv install 3.0.2
 bundle
 bundle exec jekyll serve
 ```

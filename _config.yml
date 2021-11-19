@@ -1,5 +1,4 @@
 highlighter: rouge
 permalink: pretty
 server: true
-future: true
 incremental: true

@@ -14,7 +14,7 @@ The guys at the very cool and very new group blog <a href="http://www.alwaysbeta
 <blockquote>Most months don’t have 30 days in them</blockquote>
 Who cares.  Its just a name, its meant to be catchy and be easy to remember, not accurate across all months.
 
-<blockquote>Who is their target market? Almost everyone who has a “real job�? uses Outlook [or Lotus Notes]</blockquote>
+<blockquote>Who is their target market? Almost everyone who has a “real job uses Outlook [or Lotus Notes]</blockquote>
 
 The market is everyone who uses Outlook or Lotus Notes at work, and then struggles to find a way to sync that with calendars at home or "web 1.0" calendars like Yahoo's.  This is a large market as the line between work and play increasingly blurs.  I want to know that I have an 8 am meeting on Thursday and that I'm attending a Ruby user group that night and then going out with friends afterwards - and I want it all on the same calendar.  My mindset for scheduling stuff doesn't have two modes for "work" and "non-work", so why have calendars that work like that?
 

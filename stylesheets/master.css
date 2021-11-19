@@ -7,6 +7,29 @@ body {
   background-color: #fff;
 }
 
+body#resume {
+  font-size: 16px;
+  line-height: 1.2em;
+  margin: 0 5px;
+  font-family: corbel, 'lucida grande', helvetica, sans-serif;
+  color: #212122;
+  background-color: #fff;
+}
+
+#resume h3 {
+  margin-top: 1.3em;
+  margin-bottom: 0.1em;
+}
+
+#resume h4 {
+  margin-top: 1.2em;
+  margin-bottom: 0;
+}
+
+#resume p {
+  margin-top: 0.333em;
+}
+
 #wrapper {
   max-width: 650px;
   margin: 0 auto;

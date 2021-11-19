@@ -13,7 +13,9 @@ wordpress_url: https://robsanheim.com/2008/03/11/staging-environments-in-rails/
 <ol>
 <li>copy config/environments/production.rb to staging.rb</li>
 <li>add an entry to database.yml for staging</li>
-<li><p>tweak your deployment to respect your new environment using <a href="https://weblog.jamisbuck.org/2007/7/23/capistrano-multistage">multistage</a> or something simple like this:<br />[ruby]
+<li><p>tweak your deployment to respect your new environment using <a href="https://weblog.jamisbuck.org/2007/7/23/capistrano-multistage">multistage</a> or something simple like this:<br />
+
+[ruby]
 task :production do
   set :rails_env, "production"
   role :web, "prod.ip.here"
@@ -24,7 +26,10 @@ task :staging do
   set :rails_env, "staging"
   role :web, "stage.ip.here"
   # other roles
-end[/ruby]</p></li>
+end
+[/ruby]
+
+</p></li>
 <li><p>setup and deploy staging: <pre>cap staging setup; cap staging deploy:cold; etc...</pre></p></li>
 <li>tweak and iterate as you see fit</li>
 </ol>

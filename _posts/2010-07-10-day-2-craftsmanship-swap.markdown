@@ -13,7 +13,7 @@ I helped Steve out with some Rspec issues and also increased his git-fu, and we 
 
 Lunch was taken out of the office at [Thai Gourmet](https://www.yelp.com/biz/thai-gourmet-libertyville), which was delicious.  It was at least on par with Thai Cafe, which is a favorite at Relevance.
 
-I had to fight off curry drowsiness post-lunch to pair with Doug on the same application we had paired on in [day 1]("https://robsanheim.com/2010/07/08/day-1-craftsmanship-swap-at-8th-light/").  The application uses [DRb](https://ruby-doc.org/core/classes/DRb.html) and [DRbFire](https://drbfire.rubyforge.org/classes/DRbFire.html) under the hood to manage client-server communication.  Based on some issues reported from client installations we suspected some socket or connection related issues in the DRb related part of the codes.  And so began a deep dive into DRbFire and DRb itself.
+I had to fight off curry drowsiness post-lunch to pair with Doug on the same application we had paired on in [day 1](/2010/07/08/day-1-craftsmanship-swap-at-8th-light/).  The application uses [DRb](https://ruby-doc.org/core/classes/DRb.html) and [DRbFire](https://drbfire.rubyforge.org/classes/DRbFire.html) under the hood to manage client-server communication.  Based on some issues reported from client installations we suspected some socket or connection related issues in the DRb related part of the codes.  And so began a deep dive into DRbFire and DRb itself.
 
 DRbFire is actually a protocol on to of DRb that does a neat little trick to allow DRb to connect across networks, such as when a client and server need to talk through firewalls or a NAT.  Given the fact that 99% of clients will jump through a NAT or firewall at some point, what DRbfire does is pretty cool.
 

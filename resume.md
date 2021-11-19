@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "Rob Sanheim's Resume"
+layout: resume
+title: "Resume"
 show_header: false
 permalink: /resume
 ---
 
 [Rob Sanheim](mailto:rsanheim@gmail.com) is a senior software engineer with over 20 years of experience building great products and systems. He has built software for early-stage startups, consultancies, Fortune 500 companies, and everything in between. He loves working with small teams of passionate people to build great software and amazing products.
 
-## [GitHub](https://github.com) - Senior Software Engineer - 2012 to 2017
+### [GitHub](https://github.com) - Senior Software Engineer - 2012 to 2017
 
 Rob was a high performing, well respected senior engineer and team lead at GitHub for almost 5 years. He was instrumental in shipping the following features:
 
@@ -31,15 +31,15 @@ huge undertaking, and shepherding the system through a long, careful production 
 * [Email verification](https://github.com/blog/1215-email-verification)
 * [Live updates](https://github.com/blog/1174-auto-updating-comments)
 
-### Process Improvement
+#### Process Improvement
 
 Rob has also helped improve team processes wherever he has been, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
 
-## [First (first.io)](https://first.io/) - Technical Advisor - 2015 to current
+### [First (first.io)](https://first.io/) - Technical Advisor - 2015 to current
 
 Technical advisor to co-founders on technical vision, scalability, recruiting.
 
-## [Relevance, Inc / Cognitect](http://cognitect.com/) - Principal - 2007 to 2012
+### [Relevance, Inc / Cognitect](http://cognitect.com/) - Principal - 2007 to 2012
 
 Rob was employee number five at Relevance, and was a key leader in helping Relevance become a leading Ruby on Rails consultancy.
 
@@ -49,7 +49,7 @@ Rob was employee number five at Relevance, and was a key leader in helping Relev
 * Brings a "calming, experienced" leadership role to projects assigned
 * Wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix Cloud](https://classic.contegix.com/session/new).
 
-## [Seeking Alpha](http://seekingalpha.com/) - Software Engineer - 2006 to 2007
+### [Seeking Alpha](http://seekingalpha.com/) - Software Engineer - 2006 to 2007
 
 Senior Ruby developer for a successful financial blog platform.  Responsible for overhauling PHP platform into new Rails
 platform.  Ensure scalability for features and ensuring scalability for upwards of 70,000 visitors a day.  Built user generated content feature to build community and enhance content model.  Setup continuous integration and devops automation.
@@ -60,7 +60,7 @@ platform.  Ensure scalability for features and ensuring scalability for upwards 
 * Brown Shoe - Programmer Analyst - 2001 - 2005
 * Wm. K. Walthers - Production Specialist 1996 - 1999
 
-## Technologies
+### Technologies
 
 ### Proficient
 
@@ -70,15 +70,15 @@ Bash, Capistrano, Git, Javascript, Memcached, MySQL, Postgresql, Ruby, Ruby on R
 
 Ansible, Backbone.js, CSS, Elasticsearch, GraphQL, HTML5, Java, jQuery, Nginx, Oauth, puppet, SASS, Selenium, Sinatra, Ubuntu
 
-## Community & presentations
+### Community & presentations
 
 Rob has presented at many conferences and user groups, including RubyConf, Ruby Kaigi, and RailsConf.  He also has contributed to many open source projects over the years, including Rails, Rspec, and Rcov.  Also an editor of Ajaxian.com from 2005 to 2006, and a cofounder of the Madison Ruby user group.
 
-## Education
+### Education
 
 UW Whitewater - B.S., Management Computer Systems 2001
 
-## Contact
+### Contact
 
 Email: <strong>[rsanheim@gmail.com](mailto:rsanheim@gmail.com)</strong><br />
 LinkedIn: [https://www.linkedin.com/in/robsanheim](https://www.linkedin.com/in/robsanheim)<br />

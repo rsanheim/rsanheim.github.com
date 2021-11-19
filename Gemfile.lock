@@ -63,6 +63,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2)
+  rouge
   webrick
 
 BUNDLED WITH

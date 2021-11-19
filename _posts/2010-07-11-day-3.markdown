@@ -5,7 +5,7 @@ title: "Day 3 Craftsmanship Swap at 8th Light"
 
 (note: this was from my [Craftsmanship swap](http://en.wikipedia.org/wiki/Software_craftsmanship) Thursday, July 8th at 8th Light)
 
-My last day of the craftsmanship swap at 8th Light was on Thursday.  Doug and I paired more on the DRb/DRbFire fix that we had been discussing and working towards on Wednesday.  The fixes can be found in [Doug's fork](http://github.com/dougbradbury/drbfire/commits/master/) of DRbFire.  
+My last day of the craftsmanship swap at 8th Light was on Thursday.  Doug and I paired more on the DRb/DRbFire fix that we had been discussing and working towards on Wednesday.  The fixes can be found in [Doug's fork](https://github.com/dougbradbury/drbfire/commits/master/) of DRbFire.  
 
 The actual code changes resulting from our deep dive into DRb were pretty simple in the end.  The hard part was the learning.  We had to have enough understanding of everything in place, which made the code changes self-evident.  I find with most domains, both technical and business related, this is so often the case -- the solution presents itself once you've learned what you need to know.
 

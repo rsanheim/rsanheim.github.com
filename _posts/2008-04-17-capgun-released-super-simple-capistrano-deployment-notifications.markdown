@@ -26,7 +26,7 @@ wordpress_url: http://robsanheim.com/2008/04/17/capgun-released-super-simple-cap
 
 <ul>
 <li>Log bugs, issues, and suggestions on Trac: <a href="http://opensource.thinkrelevance.com/wiki/cap_gun"> http://opensource.thinkrelevance.com/wiki/cap_gun </a></li>
-<li>View source: <a href="http://github.com/relevance/cap_gun/tree/master">http://github.com/relevance/cap_gun/tree/master</a></li>
+<li>View source: <a href="https://github.com/relevance/cap_gun/tree/master">https://github.com/relevance/cap_gun/tree/master</a></li>
 <li>Git clone source: git://github.com/relevance/cap_gun.git</li>
 <li>RDocs: <a href="http://thinkrelevance.rubyforge.org/cap_gun/">http://thinkrelevance.rubyforge.org/cap_gun/</a></li>
 </ul>

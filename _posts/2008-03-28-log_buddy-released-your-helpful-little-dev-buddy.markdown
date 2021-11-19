@@ -37,7 +37,7 @@ d { Foo::module_method }  # logs Foo::module_method = 'hi!!'
 
 <ul>
 <li>Log bugs/issues/suggestions here: <a href="http://opensource.thinkrelevance.com/wiki/log_buddy">http://opensource.thinkrelevance.com/wiki/log_buddy</a></li>
-<li>Source: <a href="http://github.com/relevance/logbuddy/tree/master">http://github.com/relevance/logbuddy/tree/master</a></li>
+<li>Source: <a href="https://github.com/relevance/logbuddy/tree/master">https://github.com/relevance/logbuddy/tree/master</a></li>
 <li>git clone git://github.com/relevance/logbuddy.git</li>
 <li>rdocs: <a href="http://thinkrelevance.rubyforge.org/log_buddy/">http://thinkrelevance.rubyforge.org/log_buddy/</a></li>
 </ul>

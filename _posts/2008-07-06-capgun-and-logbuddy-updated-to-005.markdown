@@ -4,7 +4,7 @@ layout: post
 title: CapGun and LogBuddy updated to 0.0.5
 wordpress_url: http://robsanheim.com/2008/07/06/capgun-and-logbuddy-updated-to-005/
 ---
-Some long overdue releases of <a href="http://github.com/relevance/cap_gun">cap_gun</a> and <a href="http://github.com/relevance/logbuddy/tree/master">log_buddy</a> - both have been updated to version 0.0.5.  Both are now available as gems on github.com/relevance as well as from rubyforge.
+Some long overdue releases of <a href="https://github.com/relevance/cap_gun">cap_gun</a> and <a href="https://github.com/relevance/logbuddy/tree/master">log_buddy</a> - both have been updated to version 0.0.5.  Both are now available as gems on github.com/relevance as well as from rubyforge.
 
 CapGun gives you super simple deployment notifications from Capistrano.  LogBuddy gives you a log helper through all objects, and can also log the name of the thing passed in along with its value -- saving you on typing and making debugging quicker.
 

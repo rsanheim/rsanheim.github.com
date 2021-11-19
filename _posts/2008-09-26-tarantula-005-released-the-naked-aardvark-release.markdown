@@ -4,7 +4,7 @@ layout: post
 title: Tarantula 0.0.5 Released - the "Naked Aardvark" release
 wordpress_url: http://robsanheim.com/2008/09/26/tarantula-005-released-the-naked-aardvark-release/
 ---
-Announcing version 0.0.5 of <a href="http://github.com/relevance/tarantula/tree/master">Tarantula.</a>  
+Announcing version 0.0.5 of <a href="https://github.com/relevance/tarantula/tree/master">Tarantula.</a>  
 
 Tarantula is a big fuzzy spider. It crawls your Rails application, fuzzing data to see what breaks.  It can verify HTML validation across all your pages, ensure you don't have 404s, and pretty much anything else you want via custom handlers.
 

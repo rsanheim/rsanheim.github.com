@@ -2,3 +2,12 @@ highlighter: rouge
 permalink: pretty
 server: true
 incremental: true
+
+defaults:
+  -
+    scope:
+      path: "" # all files
+      type: "pages"
+      values:
+        show_header: true
+        

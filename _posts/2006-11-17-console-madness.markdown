@@ -2,9 +2,9 @@
 wordpress_id: 285
 layout: post
 title: Console Madness
-wordpress_url: http://www.robsanheim.com/?p=285
+wordpress_url: https://www.robsanheim.com/?p=285
 ---
-Every time one of the new consoles come out, we get sad stories like <a href="http://money.cnn.com/2006/11/17/news/companies/playstation_craziness/index.htm">these</a>.  On top of the obvious insanity in camping for days to buy a buggy $600 system, we have people getting hurt and robbed for their systems.  Is this really a difficult problem to solve?
+Every time one of the new consoles come out, we get sad stories like <a href="https://money.cnn.com/2006/11/17/news/companies/playstation_craziness/index.htm">these</a>.  On top of the obvious insanity in camping for days to buy a buggy $600 system, we have people getting hurt and robbed for their systems.  Is this really a difficult problem to solve?
 
 How about this: two weeks before launch of a console the console manufacture announces a lottery for systems on opening day.  They use the power of "the Internet" to allow everyone with a valid credit card to register for one  lottery ticket.  They would have to cross check addresses and names to prevent people who just want to turn around and sell the system on ebay.
 

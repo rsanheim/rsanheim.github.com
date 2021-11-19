@@ -2,9 +2,9 @@
 wordpress_id: 230
 layout: post
 title: Kathy Sierra, the Shangri-La diet, and common sense
-wordpress_url: http://www.robsanheim.com/?p=230
+wordpress_url: https://www.robsanheim.com/?p=230
 ---
-<a href="http://headrush.typepad.com/">Kathy Sierra</a> recently <a href="http://headrush.typepad.com/creating_passionate_users/2006/05/the_strangest_e.html">blogged about her positive experience</a> with the Shangri-La diet (no link love from me).  I love Kathy's blog, her books are great, and she is a great presenter.  But she should stick to mind hacks and learning theory instead of advocating diet books.
+<a href="https://headrush.typepad.com/">Kathy Sierra</a> recently <a href="https://headrush.typepad.com/creating_passionate_users/2006/05/the_strangest_e.html">blogged about her positive experience</a> with the Shangri-La diet (no link love from me).  I love Kathy's blog, her books are great, and she is a great presenter.  But she should stick to mind hacks and learning theory instead of advocating diet books.
 
 While, I commend her on success in losing weight, its disappointing to see her promoting a book based on "self-experiments" and bad science.  From Kathy's post:
 <blockquote>A UC Berkeley professor named Seth Roberts claims to have found a way to trick the legacy brain into thinking it needs to weigh less. (Which means "lower your set point", for those who are familiar with that term)</blockquote>
@@ -17,7 +17,7 @@ So your set point is a big reason why its so hard to lose weight and keep it off
 
 Oh, and the rat studies?  Studies in rats and other animals are notoriously unreliable in applying their results to humans.  Researchers find it hard enough to do good studies with human subjects regarding diet, particularly where participants self-report food intake.  But thats a whole 'nother issue...
 
-<a href="http://www.bodyrecomposition.com">Lyle McDonald</a>, who is insanely obsessed with this stuff and well known for his expertise, has commented often about this.  For instance, from <a href="http://www.bodyrecomposition.com/forums/showthread.php?t=11375&highlight=lower+point">this thread:</a> <blockquote>I have looked for years and seen exactly zero data to suggest that setpoint ever comes back down.......My hunch: if setpoint ever truly adjusts itself back down, you have to get and stay lean for <strong>years on end.</strong> [emphasis mine] Which, given most people's tendency to regain weight, might as well be saying that it never occurs.</blockquote> If there ever is a way to really adjust set point down, its going to be via drugs that operate at the brain level.  You can bet big pharma is pursuing this like crazy, but the complexity of the systems involved is daunting.
+<a href="https://www.bodyrecomposition.com">Lyle McDonald</a>, who is insanely obsessed with this stuff and well known for his expertise, has commented often about this.  For instance, from <a href="https://www.bodyrecomposition.com/forums/showthread.php?t=11375&highlight=lower+point">this thread:</a> <blockquote>I have looked for years and seen exactly zero data to suggest that setpoint ever comes back down.......My hunch: if setpoint ever truly adjusts itself back down, you have to get and stay lean for <strong>years on end.</strong> [emphasis mine] Which, given most people's tendency to regain weight, might as well be saying that it never occurs.</blockquote> If there ever is a way to really adjust set point down, its going to be via drugs that operate at the brain level.  You can bet big pharma is pursuing this like crazy, but the complexity of the systems involved is daunting.
 
 This makes sense from an evolutionary perspective, because up until very very recently obesity was not a major concern for survival.  Starving to death during famine has been.  Heart disease and diabetes are pretty new on the scene.  It makes sense that we would be programmed to fight very hard against weight loss but not against weight gain.
 

@@ -2,9 +2,9 @@
 wordpress_id: 337
 layout: post
 title: iPhone price whining
-wordpress_url: http://robsanheim.com/2007/09/05/iphone-price-whining/
+wordpress_url: https://robsanheim.com/2007/09/05/iphone-price-whining/
 ---
-I find it strange that <a href="http://www.russellbeattie.com/">Russ</a> is <a href="http://www.russellbeattie.com/blog/can-i-have-my-200-back">complaining</a> about today's iPhone price drop of $200.  Russ is knows how fast the mobile market moves, so he should know better.  He says:
+I find it strange that <a href="https://www.russellbeattie.com/">Russ</a> is <a href="https://www.russellbeattie.com/blog/can-i-have-my-200-back">complaining</a> about today's iPhone price drop of $200.  Russ is knows how fast the mobile market moves, so he should know better.  He says:
 
 <blockquote>Happily screwing the early adopters and rewarding the laggards is something only Apple can do with a smile, no?</blockquote>
 

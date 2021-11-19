@@ -2,7 +2,7 @@
 wordpress_id: 289
 layout: post
 title: Updating a Rails App for 1.2 - Notes and Tips
-wordpress_url: http://www.robsanheim.com/?p=289
+wordpress_url: https://www.robsanheim.com/?p=289
 ---
 Recently finished updating a app for Rails 1.2, the whole process wasn't too painful and its nice to see core get serious about removing cruft.  Here are a few notes on the process:
 
@@ -11,7 +11,7 @@ Recently finished updating a app for Rails 1.2, the whole process wasn't too pai
 	</ul>
 
 	<ul>
-		<li>Some assertions aren&#8217;t directly replacable with what the deprecation message indicates &#8211; you may have to dig into the source for a bit more clue on what the assertion was actually doing. (see <a href="http://dev.rubyonrails.org/browser/trunk/actionpack/lib/action_controller/assertions/deprecated_assertions.rb">deprecated_assertions.rb</a>)</li>
+		<li>Some assertions aren&#8217;t directly replacable with what the deprecation message indicates &#8211; you may have to dig into the source for a bit more clue on what the assertion was actually doing. (see <a href="https://dev.rubyonrails.org/browser/trunk/actionpack/lib/action_controller/assertions/deprecated_assertions.rb">deprecated_assertions.rb</a>)</li>
 	</ul>
 
 	<ul>
@@ -27,7 +27,7 @@ Recently finished updating a app for Rails 1.2, the whole process wasn't too pai
 	</ul>
 
 	<ul>
-		<li>We had a bunch of warnings due to object level transactions that came from our user system &#8211; we used one of the early plugins for that.  Since we will probably replace that system anyways, I just used the miracle of <a href="http://caboo.se/doc/classes/ActiveSupport/Deprecation.html#M004787">Deprecation::silence</a> to get rid of the warnings.  Obviously you don&#8217;t wanna go overboard with that, as you&#8217;ll be out of luck when 2.0 comes around&#8230;</li>
+		<li>We had a bunch of warnings due to object level transactions that came from our user system &#8211; we used one of the early plugins for that.  Since we will probably replace that system anyways, I just used the miracle of <a href="https://caboo.se/doc/classes/ActiveSupport/Deprecation.html#M004787">Deprecation::silence</a> to get rid of the warnings.  Obviously you don&#8217;t wanna go overboard with that, as you&#8217;ll be out of luck when 2.0 comes around&#8230;</li>
 	</ul>
 
 	<ul>
@@ -37,5 +37,5 @@ Recently finished updating a app for Rails 1.2, the whole process wasn't too pai
 	<ul>
 		<li>The blogs and trac say assert_tag is deprecated for assert_select, but its not actually deprecated anywhere in the code.  Assert_select is much nicer, though, and I think that was just an oversight.  For doing the super simple case of &#8220;assert this substring is on the page somewhere&#8221;, do this: [ruby]assert_select *, :content => "give me all your pancakes!"[/ruby] that replaces [ruby]assert_tag :content => "foo bar biz"[/ruby]</li>
 
-<li>Don't miss <a href="http://www.railtie.net/articles/2006/11/02/deprecations-in-rails-1-2">this list</a>, and of course the <a href="http://cheat.errtheblog.com/s/deprecated/">cheat sheet</a> if you swing that way - tho the cheat sheet needs some love, its missing some stuff.
+<li>Don't miss <a href="https://www.railtie.net/articles/2006/11/02/deprecations-in-rails-1-2">this list</a>, and of course the <a href="https://cheat.errtheblog.com/s/deprecated/">cheat sheet</a> if you swing that way - tho the cheat sheet needs some love, its missing some stuff.
 	</li></ul>

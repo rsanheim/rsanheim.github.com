@@ -2,11 +2,11 @@
 wordpress_id: 309
 layout: post
 title: TurboTax vs TaxCut online
-wordpress_url: http://www.robsanheim.com/?p=309
+wordpress_url: https://www.robsanheim.com/?p=309
 ---
 Its tax time again, which means its time to scramble to figure out the some sort of capable tax package for my increasingly complicated finance situation.  Working from home doesn't lend itself to the easiest tax situation, but I'm holding off on hiring a CPA for another year.
 
-This year I tried both <a href="http://taxcut.com/">TaxCut</a> Premium online and <a href="http://turbotax.intuit.com/">TurboTax</a>  Deluxe online.  Given whats required of doing taxes, there really aren't any big advantages that a full desktop app give you unless you really offline access.  Its all a ton of complicated workflow and help screens, but nothing that should be very difficult in a browser.  If you take a look at this <a href="http://www.gettingfinancesdone.com/blog/archives/2007/02/tax-preparation-software-pricing-comparison/">extensive roundup</a> of tax software options, going with the online versions are also usually cheaper. 
+This year I tried both <a href="https://taxcut.com/">TaxCut</a> Premium online and <a href="https://turbotax.intuit.com/">TurboTax</a>  Deluxe online.  Given whats required of doing taxes, there really aren't any big advantages that a full desktop app give you unless you really offline access.  Its all a ton of complicated workflow and help screens, but nothing that should be very difficult in a browser.  If you take a look at this <a href="https://www.gettingfinancesdone.com/blog/archives/2007/02/tax-preparation-software-pricing-comparison/">extensive roundup</a> of tax software options, going with the online versions are also usually cheaper. 
 
 Initial impressions with TaxCut were not good.  The forms are ugly, they are obtrusive javascript or flash based, and keyboard friendliness is nil.  Overall it doesn't feel very professional overall.  Its pretty frustrating when tab is broken and you have maybe a hundred different forms to fill out.
 

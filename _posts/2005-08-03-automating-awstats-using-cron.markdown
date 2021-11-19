@@ -2,9 +2,9 @@
 wordpress_id: 38
 layout: post
 title: Automating awstats using cron
-wordpress_url: http://www.robsanheim.com/?p=38
+wordpress_url: https://www.robsanheim.com/?p=38
 ---
-This is the second part of an an article about getting awstats setup and automated.  You might be interested in <a href="http://www.robsanheim.com/2005/07/20/setting-up-awstats-on-rimuhosting-user-mode-linux/">part one.</a>
+This is the second part of an an article about getting awstats setup and automated.  You might be interested in <a href="https://www.robsanheim.com/2005/07/20/setting-up-awstats-on-rimuhosting-user-mode-linux/">part one.</a>
 
 First, make sure you have cron running:
 
@@ -34,7 +34,7 @@ ln -s /usr/local/bin/awstat_update</code>
 Thats it!  Now when you look at the files in cron.daily, you should see the symbolic link pointing to the awstat_update like so: <code>awstat_update -> /usr/local/bin/awstat_update</code>.  Now your update will run every day at the time specified in <code>/etc/crontab</code>.
 
 Some additional resources:
-<a href="http://linuxcommand.org/index.php">linuxcommand.com</a> is great
-<a href="http://en.wikipedia.org/wiki/Cron">cron at wikipedia</a>
-<a href="http://adminschoice.com/docs/crontab.htm">a decent cron resource at admins choice</a>
+<a href="https://linuxcommand.org/index.php">linuxcommand.com</a> is great
+<a href="https://en.wikipedia.org/wiki/Cron">cron at wikipedia</a>
+<a href="https://adminschoice.com/docs/crontab.htm">a decent cron resource at admins choice</a>
 

@@ -2,7 +2,7 @@
 wordpress_id: 381
 layout: post
 title: log_buddy 0.0.2 released
-wordpress_url: http://robsanheim.com/2008/04/04/log_buddy-002-released/
+wordpress_url: https://robsanheim.com/2008/04/04/log_buddy-002-released/
 ---
 <h3>Description</h3>
 log_buddy is your friendly little log buddy at your side, helping you dev, debug, and test.
@@ -32,4 +32,4 @@ in the block and the result.  Examples:
 
 <h3>Installation</h3>
 sudo gem install log_buddy
-<a href="http://thinkrelevance.rubyforge.org/log_buddy">full docs here</a>
+<a href="https://thinkrelevance.rubyforge.org/log_buddy">full docs here</a>

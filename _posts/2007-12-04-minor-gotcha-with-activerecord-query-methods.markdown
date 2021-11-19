@@ -2,9 +2,9 @@
 wordpress_id: 350
 layout: post
 title: Minor Gotcha with ActiveRecord query methods
-wordpress_url: http://robsanheim.com/2007/12/04/minor-gotcha-with-activerecord-query-methods/
+wordpress_url: https://robsanheim.com/2007/12/04/minor-gotcha-with-activerecord-query-methods/
 ---
-Stumbled upon a gotcha with the ActiveRecord query methods you get for free, along side the normal attribute accessor methods.  Its a "gotcha" in that I "gotcha" read the docs and Rails source a bit more in depth before making assumptions about how Rails works, but I'd rather pretend the <a href="http://www.koziarski.net/archives/2007/12/1/they">fault is with Rails</a> for my self esteem.
+Stumbled upon a gotcha with the ActiveRecord query methods you get for free, along side the normal attribute accessor methods.  Its a "gotcha" in that I "gotcha" read the docs and Rails source a bit more in depth before making assumptions about how Rails works, but I'd rather pretend the <a href="https://www.koziarski.net/archives/2007/12/1/they">fault is with Rails</a> for my self esteem.
 
 So you get the accessors and a query method (ie question method) for all attributes in a model.  The query method seems to just return true or false based on if the field is populated or not:
 
@@ -22,7 +22,7 @@ So you get the accessors and a query method (ie question method) for all attribu
 => true
 [/ruby]
 
-At least thats what I assumed a long time ago, without looking into things enough.  Recently, I had a model that was supposed only to validate the email field if it was populated.  I'm not using edge for this project, so I couldn't use <a href="http://dev.rubyonrails.org/ticket/7383">allow_blank</a> -- so I had something like this:
+At least thats what I assumed a long time ago, without looking into things enough.  Recently, I had a model that was supposed only to validate the email field if it was populated.  I'm not using edge for this project, so I couldn't use <a href="https://dev.rubyonrails.org/ticket/7383">allow_blank</a> -- so I had something like this:
 
 [ruby]
 # in da model
@@ -65,4 +65,4 @@ So if your field is a string and a value like "f", "false", or "0", the query me
 The fix is simple - just test that the attribute was not blank for the validation if block:
 [ruby]:if => lambda {!reminder_email.blank?} [/ruby]
 
-The takeaway for me on this is a common one - when something is wrong, question your assumptions first, then question them again.  Also, keep the Rails source close at hand.  The docs have been improving, but they still fall down in some areas.  A cursory glance over <a href="http://api.rubyonrails.com/classes/ActiveRecord/Base.html">ActiveRecord::Base docs</a> showed nothing for these generated query methods. 
+The takeaway for me on this is a common one - when something is wrong, question your assumptions first, then question them again.  Also, keep the Rails source close at hand.  The docs have been improving, but they still fall down in some areas.  A cursory glance over <a href="https://api.rubyonrails.com/classes/ActiveRecord/Base.html">ActiveRecord::Base docs</a> showed nothing for these generated query methods. 

@@ -2,7 +2,7 @@
 wordpress_id: 124
 layout: post
 title: "Thanksgiving: Turkey is overrated"
-wordpress_url: http://www.robsanheim.com/?p=124
+wordpress_url: https://www.robsanheim.com/?p=124
 ---
 Thanksgiving was good times.  We went to Milwaukee yesterday for my side of the family, and had Amanda's side of the fam to our house today.  Yesterday we had something like thirty people in my sister's house, which was a bit chaotic and claustrophobic, but it was still fun.  
 

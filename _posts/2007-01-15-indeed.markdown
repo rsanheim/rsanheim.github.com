@@ -2,8 +2,8 @@
 wordpress_id: 297
 layout: post
 title: Indeed
-wordpress_url: http://www.robsanheim.com/?p=297
+wordpress_url: https://www.robsanheim.com/?p=297
 ---
 <cite><strong>A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death.</strong></cite>
 
-Martin Luther King, Jr.  - from <a href="http://www.americanrhetoric.com/speeches/mlkatimetobreaksilence.htm">"Beyond Viet Nam - A Time to Break the Silence"</a>
+Martin Luther King, Jr.  - from <a href="https://www.americanrhetoric.com/speeches/mlkatimetobreaksilence.htm">"Beyond Viet Nam - A Time to Break the Silence"</a>

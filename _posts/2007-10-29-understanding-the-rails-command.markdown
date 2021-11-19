@@ -2,9 +2,9 @@
 wordpress_id: 344
 layout: post
 title: Understanding the Rails command
-wordpress_url: http://robsanheim.com/2007/10/29/understanding-the-rails-command/
+wordpress_url: https://robsanheim.com/2007/10/29/understanding-the-rails-command/
 ---
-I ran a few quirks during the course of working on <a href="http://rubyforge.org/projects/multi-rails/">MultiRails</a> and testing against the Rails 2.0 prerelease.  
+I ran a few quirks during the course of working on <a href="https://rubyforge.org/projects/multi-rails/">MultiRails</a> and testing against the Rails 2.0 prerelease.  
 
 The first thing was tracking down what Rails version is actually used when you just run the "rails" command.  This is important when you have many versions of Rails installed via gems, some of which are "2.0" and others are not.  Behold:
 

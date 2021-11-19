@@ -2,9 +2,9 @@
 wordpress_id: 311
 layout: post
 title: Quick Note on zentest 3.5
-wordpress_url: http://www.robsanheim.com/?p=311
+wordpress_url: https://www.robsanheim.com/?p=311
 ---
-Ryan <a href="http://blog.zenspider.com/archives/2007/04/zentest_version_350_has_been_released.html">released zentest 3.5</a> last week, and for some reason a normal 'sudo gem update' wasn't picking it up.  Searching remote gems for 'zentest' reveals why:
+Ryan <a href="https://blog.zenspider.com/archives/2007/04/zentest_version_350_has_been_released.html">released zentest 3.5</a> last week, and for some reason a normal 'sudo gem update' wasn't picking it up.  Searching remote gems for 'zentest' reveals why:
 
 <pre><code>*** REMOTE GEMS ***
 ZenTest (3.4.3, 3.4.2, 3.4.1, 3.4.0, 3.3.0, 3.2.0, 3.1.0, 3.0.0)
@@ -42,4 +42,4 @@ Gem::LoadError: Could not find RubyGem ZenTest (>= 3.4.2)
         from (irb):2
 </code></pre>
 
-I've opened a <a href="http://rubyforge.org/tracker/index.php?func=detail&aid=10144&group_id=419&atid=1678">bug.</a>  Work around it now by keeping the old version installed, or install it by specifying the version: "sudo gem install -v 3.4.3 ZenTest".
+I've opened a <a href="https://rubyforge.org/tracker/index.php?func=detail&aid=10144&group_id=419&atid=1678">bug.</a>  Work around it now by keeping the old version installed, or install it by specifying the version: "sudo gem install -v 3.4.3 ZenTest".

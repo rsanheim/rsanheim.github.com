@@ -2,7 +2,7 @@
 wordpress_id: 430
 layout: post
 title: Rails 2.3, JSON, and lamentations
-wordpress_url: http://robsanheim.com/?p=430
+wordpress_url: https://robsanheim.com/?p=430
 ---
 There is a nasty gotcha in Rails 2.3 involving rendering JSON from models and a surprising change in behavior.  If you are familiar with how Rails renders xml for models, you may expect json to be very similar.  You would probably expect a top level root node followed by the attributes:
 

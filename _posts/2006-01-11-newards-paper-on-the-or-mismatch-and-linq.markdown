@@ -2,9 +2,9 @@
 wordpress_id: 159
 layout: post
 title: Neward's paper on the OR mismatch and LINQ
-wordpress_url: http://www.robsanheim.com/?p=159
+wordpress_url: https://www.robsanheim.com/?p=159
 ---
-<a href="http://blogs.tedneward.com/">Ted Neward</a> recently posted an <a href="http://msdn.microsoft.com/netframework/default.aspx?pull=/library/en-us/dndotnet/html/linqcomparisons.asp">extensive paper</a> comparing various OR solutions from over the years, including <a href="http://java.sun.com/products/jdbc/">JDBC</a>, <a href="http://www.service-architecture.com/database/articles/sqlj.html">SQLJ</a>, and <a href="http://wiki.rubyonrails.com/rails/pages/ActiveRecord">ActiveRecord</a>.  Of course, the paper finished up by showing .NET's upcoming solution with <a href="http://msdn.microsoft.com/netframework/future/linq/">LINQ </a>and how it "hopes to take a large step forward in minimizing the object-relational mismatch."  It allows you to code something like this (this retrieves Order, OrderDetails and Product in the Northwind db in one request):
+<a href="https://blogs.tedneward.com/">Ted Neward</a> recently posted an <a href="https://msdn.microsoft.com/netframework/default.aspx?pull=/library/en-us/dndotnet/html/linqcomparisons.asp">extensive paper</a> comparing various OR solutions from over the years, including <a href="https://java.sun.com/products/jdbc/">JDBC</a>, <a href="https://www.service-architecture.com/database/articles/sqlj.html">SQLJ</a>, and <a href="https://wiki.rubyonrails.com/rails/pages/ActiveRecord">ActiveRecord</a>.  Of course, the paper finished up by showing .NET's upcoming solution with <a href="https://msdn.microsoft.com/netframework/future/linq/">LINQ </a>and how it "hopes to take a large step forward in minimizing the object-relational mismatch."  It allows you to code something like this (this retrieves Order, OrderDetails and Product in the Northwind db in one request):
 
 [csharp]var custs = (
   from c in db.Customers
@@ -26,4 +26,4 @@ foreach (var cust in custs) {
   }
 }[/csharp]
 
-Even with a higher level of abstraction such as Spring's <a href="http://www.springframework.org/docs/api/org/springframework/jdbc/core/JdbcTemplate.html">JdbcTemplate</a>, I can imagine it would be quite a bit nastier.  I'd love to see something like this come to Java, either in the next JDBC but more likely via Hibernate or Spring.  Go read the paper and <a href="http://blogs.tedneward.com/2006/01/11/LINQ+Paper+Comments+And+Feedback.aspx">let Ted know what you think</a>.
+Even with a higher level of abstraction such as Spring's <a href="https://www.springframework.org/docs/api/org/springframework/jdbc/core/JdbcTemplate.html">JdbcTemplate</a>, I can imagine it would be quite a bit nastier.  I'd love to see something like this come to Java, either in the next JDBC but more likely via Hibernate or Spring.  Go read the paper and <a href="https://blogs.tedneward.com/2006/01/11/LINQ+Paper+Comments+And+Feedback.aspx">let Ted know what you think</a>.

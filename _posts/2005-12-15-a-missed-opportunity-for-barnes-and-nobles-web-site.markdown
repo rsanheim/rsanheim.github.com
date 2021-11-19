@@ -2,7 +2,7 @@
 wordpress_id: 140
 layout: post
 title: A missed opportunity for Barnes and Noble's web site
-wordpress_url: http://www.robsanheim.com/?p=140
+wordpress_url: https://www.robsanheim.com/?p=140
 ---
 I frequent barnes and nobles (and borders) in my town a lot.  When I find a good book, I'm usually too impatient to wait the shipping delay to save the few dollars via amzon.  Yet I only use amazon's site for all my online book needs.  Beyond the obvious advantages amazon has (read: customer content), Barnes and noble web site has one unique opportunity it continues to miss: a "find this book in my area" feature.
 

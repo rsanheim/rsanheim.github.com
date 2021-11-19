@@ -2,7 +2,7 @@
 wordpress_id: 227
 layout: post
 title: An Amazing Breakthrough in Customer Service
-wordpress_url: http://www.robsanheim.com/?p=227
+wordpress_url: https://www.robsanheim.com/?p=227
 ---
 Yesterday I called Principal Financial for a question on a 401K I have held there.  So far I've been pleasantly surprised with their customer service, as pretty much every other bank I've dealt with as had substandard service and horrible hold times.  Well yesterday Principal blew me away.  I went through the automated system, entering my information, and of course couldn't get my answer through the automated system (duh, I would use the web front end if it was something simple).  So after a very short wait, I get thru to a customer service rep.  
 

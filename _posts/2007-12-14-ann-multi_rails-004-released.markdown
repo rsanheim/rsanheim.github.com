@@ -2,7 +2,7 @@
 wordpress_id: 356
 layout: post
 title: "[ANN] multi_rails 0.0.4 Released"
-wordpress_url: http://robsanheim.com/2007/12/14/ann-multi_rails-004-released/
+wordpress_url: https://robsanheim.com/2007/12/14/ann-multi_rails-004-released/
 ---
 	<p>MultiRails lets you test your Rails plugin or app against many versions of Rails in one sweep.</p>
 
@@ -14,7 +14,7 @@ wordpress_url: http://robsanheim.com/2007/12/14/ann-multi_rails-004-released/
 
 <p>Use MultiRails to hook in Rails 2.0 testing in your continuous integration.  Still working on Rails 2.0 support?  Use MultiRails to see where your test suite falls down against the latest and greatest versions of Rails.</p>
 
-	<p>MultiRails was initially developed by members of Relevance while developing Streamlined against edge Rails.  To see how Streamlined uses MultiRails, go to <a href="http://trac.streamlinedframework.org">http://trac.streamlinedframework.org</a>.</p>
+	<p>MultiRails was initially developed by members of Relevance while developing Streamlined against edge Rails.  To see how Streamlined uses MultiRails, go to <a href="https://trac.streamlinedframework.org">https://trac.streamlinedframework.org</a>.</p>
 
 
 <h4><span class="caps">FEATURES</span>:</h4>
@@ -70,9 +70,9 @@ wordpress_url: http://robsanheim.com/2007/12/14/ann-multi_rails-004-released/
 
 
 	<ul>
-	<li>< <a href="http://multi-rails.rubyforge.org/">http://multi-rails.rubyforge.org/></li>
+	<li>< <a href="https://multi-rails.rubyforge.org/">https://multi-rails.rubyforge.org/></li>
 	</ul>
 
-	<p>by Relevance, <a href="http://thinkrelevance.com">http://thinkrelevance.com</a> - Rob Sanheim &#8211; MultiRails lead</p>
+	<p>by Relevance, <a href="https://thinkrelevance.com">https://thinkrelevance.com</a> - Rob Sanheim &#8211; MultiRails lead</p>
  
 

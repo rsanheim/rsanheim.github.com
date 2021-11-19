@@ -2,13 +2,13 @@
 wordpress_id: 363
 layout: post
 title: multi_rails 0.0.5 released
-wordpress_url: http://robsanheim.com/2008/01/27/multi_rails-005-released/
+wordpress_url: https://robsanheim.com/2008/01/27/multi_rails-005-released/
 ---
 	<p>multi_rails version 0.0.5 has been released!</p>
 
 
 	<ul>
-	<li><a href="http://multi-rails.rubyforge.org/">http://multi-rails.rubyforge.org/</a></li>
+	<li><a href="https://multi-rails.rubyforge.org/">https://multi-rails.rubyforge.org/</a></li>
 	</ul>
 
 
@@ -36,4 +36,4 @@ wordpress_url: http://robsanheim.com/2008/01/27/multi_rails-005-released/
 	<li>Handle the case where we don&#8217;t have any Rails gems installed at all by raising early to prevent weirdness later on (Evan Weaver)</li>
 	</ul>
 
-Visit the <a href="http://opensource.thinkrelevance.com">Relevance open source trac</a> for multi_rails and more open source releases from Relevance.
+Visit the <a href="https://opensource.thinkrelevance.com">Relevance open source trac</a> for multi_rails and more open source releases from Relevance.

@@ -2,9 +2,9 @@
 wordpress_id: 248
 layout: post
 title: Testing named routes or url_for in functional test
-wordpress_url: http://www.robsanheim.com/?p=248
+wordpress_url: https://www.robsanheim.com/?p=248
 ---
-If you've ever tried using <a href="http://wiki.rubyonrails.org/rails/pages/NamedRoutes">named routes</a> or url_for in functional tests, you might have seen an error like this:
+If you've ever tried using <a href="https://wiki.rubyonrails.org/rails/pages/NamedRoutes">named routes</a> or url_for in functional tests, you might have seen an error like this:
 
 <code style="font-size: 10px;">  1) Error:
 test_article_override_to_meta(ArticleControllerTest):
@@ -25,7 +25,7 @@ The solution is simple - call a simple, easy url (preferably without side effect
 def test_article_url
     get :index
     url = article_url :controller => "article", :id => 1234
-    assert_equal "http://host/article/1234", url
+    assert_equal "https://host/article/1234", url
 end
 [/ruby]
 

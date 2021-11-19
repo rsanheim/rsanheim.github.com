@@ -2,7 +2,7 @@
 wordpress_id: 158
 layout: post
 title: "Eclipse tip: always save automatically to stay in the flow"
-wordpress_url: http://www.robsanheim.com/?p=158
+wordpress_url: https://www.robsanheim.com/?p=158
 ---
 I almost never want to be asked if I want to save an editor window in Eclipse.  With the safeguards of version control and local history, there is never a save that cannot be reverted easily.  When I'm really in the flow, I want the cycle to be seamless between edit test case, ctrl-f11 (run test), modify code under test, ctrl-f11 (run test), etc....  Having a window popup after each little code modification is very annoying and slows you down.
 

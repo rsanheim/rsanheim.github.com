@@ -4,10 +4,10 @@ layout: post
 title: |-
   
               Why Ruby?
-wordpress_url: http://www.robsanheim.com/2006/02/10/why-ruby/
+wordpress_url: https://www.robsanheim.com/2006/02/10/why-ruby/
 ---
 
-            Andy Hunt answers the question a lot of people are asking: <a href="http://toolshed.com/blog/articles/2006/02/09/why-ruby">Why Ruby?</a>
+            Andy Hunt answers the question a lot of people are asking: <a href="https://toolshed.com/blog/articles/2006/02/09/why-ruby">Why Ruby?</a>
 
 <ol><li>It stays out of your way</li><li>It just works</li></ol>
 

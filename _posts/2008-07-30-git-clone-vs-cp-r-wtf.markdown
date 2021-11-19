@@ -2,7 +2,7 @@
 wordpress_id: 393
 layout: post
 title: Git Clone vs cp -R --> WTF?
-wordpress_url: http://robsanheim.com/2008/07/30/git-clone-vs-cp-r-wtf/
+wordpress_url: https://robsanheim.com/2008/07/30/git-clone-vs-cp-r-wtf/
 ---
 I knew git was fast, and I even knew it was faster than a lot of plain linux local file operations.  Still, this still blew me away:
 
@@ -49,4 +49,4 @@ The rails repo at 75 megs is still ~ 3 times faster.
 
 Obviously, this is not scientific at all, but the point is pretty clear.  Git is doing some magic that lets it move files around locally 2 to 3 times faster than a plain copy.  From looking at the man page, I would guess it has something to do with git using hardlinks for things in .git/objects when cloning locally.  My linux fu falls down a bit here -- what are the ramifications of using hard links versus doing a "real" copy?
 
-(This also makes me want to try out <a href="http://eigenclass.org/hiki/gibak-backup-system-introduction">gitbak</a> even more...)
+(This also makes me want to try out <a href="https://eigenclass.org/hiki/gibak-backup-system-introduction">gitbak</a> even more...)

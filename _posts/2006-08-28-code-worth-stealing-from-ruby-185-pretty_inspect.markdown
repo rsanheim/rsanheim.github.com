@@ -2,9 +2,9 @@
 wordpress_id: 260
 layout: post
 title: Code worth Stealing From Ruby 1.8.5 - pretty_inspect
-wordpress_url: http://www.robsanheim.com/?p=260
+wordpress_url: https://www.robsanheim.com/?p=260
 ---
-If you look at the <a href="http://eigenclass.org/hiki.rb?ruby+1.8.5+changelog">changelog</a> for Ruby 1.8.5, there is a note on the addition of a wonderful little helper method for inspecting objects: Kernel#pretty_inspect.  If you work in irb or script/console, you are probably familiar with <a href="http://www.ruby-doc.org/stdlib/libdoc/pp/rdoc/index.html">PrettyPrint</a> (aka pp) for turning this:
+If you look at the <a href="https://eigenclass.org/hiki.rb?ruby+1.8.5+changelog">changelog</a> for Ruby 1.8.5, there is a note on the addition of a wonderful little helper method for inspecting objects: Kernel#pretty_inspect.  If you work in irb or script/console, you are probably familiar with <a href="https://www.ruby-doc.org/stdlib/libdoc/pp/rdoc/index.html">PrettyPrint</a> (aka pp) for turning this:
 
 [ruby]hsh => {:nested=>{:hi=>"i'm a nested hash, yo!!"}, :bar=>"this is a bar", :foo=>"this is a foo"}[/ruby]
 
@@ -26,7 +26,7 @@ What pretty_inspect does is simply allow you to say obj.pretty_inspect, and dire
    "comment_status"=>"open",
    "post_category"=>"0",
    "post_modified"=>"0000-00-00 00:00:00",
-   "guid"=>"http://url.com/post/",
+   "guid"=>"https://url.com/post/",
    "menu_order"=>"0",
    "post_name"=>"",
    "post_author"=>"11",
@@ -41,7 +41,7 @@ Now, unless your ready to move your production system to ruby 1.8.5, you don't h
   end
 end[/ruby]
 
-Which also happens to be the <a href="http://www.ruby-doc.org/core/classes/Kernel.src/M003281.html">implementation</a> in Ruby 1.8.5.  From seeing the code, we could've done this with pp all along, but the message to send isn't all that obvious.  That second empty parameter means "send the output to a string instead of a %> (stdout)".  
+Which also happens to be the <a href="https://www.ruby-doc.org/core/classes/Kernel.src/M003281.html">implementation</a> in Ruby 1.8.5.  From seeing the code, we could've done this with pp all along, but the message to send isn't all that obvious.  That second empty parameter means "send the output to a string instead of a %> (stdout)".  
 
 Of course, once you do upgrade ruby, you can just remove the modification and continue on with easier to read log output.
 

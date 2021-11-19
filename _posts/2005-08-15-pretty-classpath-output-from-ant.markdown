@@ -2,9 +2,9 @@
 wordpress_id: 51
 layout: post
 title: Pretty classpath output from Ant
-wordpress_url: http://www.robsanheim.com/?p=51
+wordpress_url: https://www.robsanheim.com/?p=51
 ---
-<a href="http://peeps.dallas.focus-technologies.com/roller/comments/lhankins/Weblog/more_readable_classpaths_for_ant">Pretty classpath output from Ant:</a>
+<a href="https://peeps.dallas.focus-technologies.com/roller/comments/lhankins/Weblog/more_readable_classpaths_for_ant">Pretty classpath output from Ant:</a>
 
 How to take this:
 current.classpath=d:\work\proto\dist\foo-toolkit.jar;d:\work\proto\lib\hiber

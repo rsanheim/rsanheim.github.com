@@ -2,9 +2,9 @@
 wordpress_id: 172
 layout: post
 title: JRuby session at Javaone 2006
-wordpress_url: http://www.robsanheim.com/?p=172
+wordpress_url: https://www.robsanheim.com/?p=172
 ---
-Its pretty exciting to see a <a href="http://jruby.sf.net/">JRuby</a> <a href="http://headius.blogspot.com/2006/01/were-going-to-san-francisco.html">talk accepted</a> at <a href="http://java.sun.com/javaone/sf/index.jsp">JavaOne 2006</a>.  At least someone at Sun <a href="http://www.almaer.com/blog/archives/001125.html">gets it about alternative dynamic</a> languages on the JVM.  This is at least one good reason to stick around after the <a href="http://theajaxexperience.com">Ajax Experience</a> for JavaOne.
+Its pretty exciting to see a <a href="https://jruby.sf.net/">JRuby</a> <a href="https://headius.blogspot.com/2006/01/were-going-to-san-francisco.html">talk accepted</a> at <a href="https://java.sun.com/javaone/sf/index.jsp">JavaOne 2006</a>.  At least someone at Sun <a href="https://www.almaer.com/blog/archives/001125.html">gets it about alternative dynamic</a> languages on the JVM.  This is at least one good reason to stick around after the <a href="https://theajaxexperience.com">Ajax Experience</a> for JavaOne.
 
 This part of the abstract is particularily compelling:
 

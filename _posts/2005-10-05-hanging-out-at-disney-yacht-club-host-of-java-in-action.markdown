@@ -2,7 +2,7 @@
 wordpress_id: 80
 layout: post
 title: Hanging out at Disney Yacht Club (host of Java in Action)
-wordpress_url: http://www.robsanheim.com/?p=80
+wordpress_url: https://www.robsanheim.com/?p=80
 ---
 So I arrived at the Resort on Saturday to start vacationing early with my wife.  I'm not a big fan of Disney to begin with, so I won't claim to be without bias...but I have some gripes:
 

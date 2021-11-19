@@ -2,9 +2,9 @@
 wordpress_id: 391
 layout: post
 title: Notes on testing Bj (Background Job)
-wordpress_url: http://robsanheim.com/2008/07/10/notes-on-testing-bj-background-job/
+wordpress_url: https://robsanheim.com/2008/07/10/notes-on-testing-bj-background-job/
 ---
-Some thoughts and random notes on testing <a href="http://codeforpeople.rubyforge.org/svn/bj/trunk/README">Bj</a> within a Rails integration test (or spec).
+Some thoughts and random notes on testing <a href="https://codeforpeople.rubyforge.org/svn/bj/trunk/README">Bj</a> within a Rails integration test (or spec).
 
 <ul><li>You have to turn transactions off for the scope of the test, or suffer very confusing issues, since Bj itself wraps the job submittal within a transaction.  The way I did this was just overriding the use_transactional_fixtures method in the one specific spec.
 

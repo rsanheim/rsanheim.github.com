@@ -2,9 +2,9 @@
 wordpress_id: 330
 layout: post
 title: Did redgreen get borked?
-wordpress_url: http://www.robsanheim.com/2007/07/24/did-redgreen-get-borked/
+wordpress_url: https://www.robsanheim.com/2007/07/24/did-redgreen-get-borked/
 ---
-I recently had to reinstall all my favorite gems and tools on a powerbook, and desired colored test goodness.  So after bringing in <a href="http://errtheblog.com/post/15">redgreen</a> and zentest gems, amongst others, I saw the following:
+I recently had to reinstall all my favorite gems and tools on a powerbook, and desired colored test goodness.  So after bringing in <a href="https://errtheblog.com/post/15">redgreen</a> and zentest gems, amongst others, I saw the following:
 
 <pre><code>
 rob@fixx:~/src/relevance/pharminst/trunk$ rake|redgreen

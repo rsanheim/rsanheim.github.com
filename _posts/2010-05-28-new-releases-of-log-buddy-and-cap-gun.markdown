@@ -18,4 +18,4 @@ There are a few significant changes in this release.
 
 * LogBuddy will no longer raise if the logged line of code is removed before the output is generated.  This probably only happened if you were coding quickly and using a tool like autotest or watchr to run tests on change.
 
-[CapGun](https://github.com/relevance/cap_gun) adds deployment notifications to Capistrano, so you can email blast interested parties on deployments.  Version 0.2.4 fixes a bug where notifications would fail on the very first deploy due to a missing REVISION directory.  This version also got fixes for Rails 3 using the new ActiveSupport, thanks to [Jared Pace](http://twitter.com/jdpace) for those.
+[CapGun](https://github.com/relevance/cap_gun) adds deployment notifications to Capistrano, so you can email blast interested parties on deployments.  Version 0.2.4 fixes a bug where notifications would fail on the very first deploy due to a missing REVISION directory.  This version also got fixes for Rails 3 using the new ActiveSupport, thanks to [Jared Pace](https://twitter.com/jdpace) for those.

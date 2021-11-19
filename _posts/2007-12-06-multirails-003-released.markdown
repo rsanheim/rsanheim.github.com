@@ -2,15 +2,15 @@
 wordpress_id: 351
 layout: post
 title: MultiRails 0.0.3 released
-wordpress_url: http://robsanheim.com/2007/12/06/multirails-003-released/
+wordpress_url: https://robsanheim.com/2007/12/06/multirails-003-released/
 ---
 MultiRails lets you test your Rails plugin or app against many versions of Rails in one sweep.
 
-  rubyforge:    <a href="http://rubyforge.org/projects/multi-rails/">http://rubyforge.org/projects/multi-rails/</a>
-  rdocs:        <a href="http://multi-rails.rubyforge.org/">http://multi-rails.rubyforge.org/</a>
-  svn stable:   <a href="http://robsanheim.googlecode.com/svn/tags/stable/multi_rails">http://robsanheim.googlecode.com/svn/tags/stable/multi_rails</a> (gem is released from here)
-  svn trunk:    <a href="http://robsanheim.googlecode.com/svn/trunk/multi_rails">http://robsanheim.googlecode.com/svn/trunk/multi_rails</a>
-  mailing list: <a href="http://groups.google.com/group/multi_rails">http://groups.google.com/group/multi_rails</a>
+  rubyforge:    <a href="https://rubyforge.org/projects/multi-rails/">https://rubyforge.org/projects/multi-rails/</a>
+  rdocs:        <a href="https://multi-rails.rubyforge.org/">https://multi-rails.rubyforge.org/</a>
+  svn stable:   <a href="https://robsanheim.googlecode.com/svn/tags/stable/multi_rails">https://robsanheim.googlecode.com/svn/tags/stable/multi_rails</a> (gem is released from here)
+  svn trunk:    <a href="https://robsanheim.googlecode.com/svn/trunk/multi_rails">https://robsanheim.googlecode.com/svn/trunk/multi_rails</a>
+  mailing list: <a href="https://groups.google.com/group/multi_rails">https://groups.google.com/group/multi_rails</a>
   
 <h2>Description</h2>
 
@@ -18,7 +18,7 @@ MultiRails allows easy testing against multiple versions of Rails for your Rails
 
 Use MultiRails to hook in Rails 2.0 testing in your continuous integration.  Still working on Rails 2.0 support?  Use MultiRails to see where your test suite falls down against the 2.0 preview releases of Rails.
 
-MultiRails was initially developed by members of Relevance while developing Streamlined against edge Rails.  To see how Streamlined uses MultiRails, go to <a href="http://trac.streamlinedframework.org">http://trac.streamlinedframework.org</a>.
+MultiRails was initially developed by members of Relevance while developing Streamlined against edge Rails.  To see how Streamlined uses MultiRails, go to <a href="https://trac.streamlinedframework.org">https://trac.streamlinedframework.org</a>.
 
 <h2>Features</h2>
 
@@ -27,4 +27,4 @@ MultiRails was initially developed by members of Relevance while developing Stre
 * tentative support for testing plain Rails apps against multiple versions of Rails
 * Uses rubygems for version management of Rails
 
-<strong>For the full docs see the <a href="http://robsanheim.googlecode.com/svn/trunk/multi_rails/README.txt">readme.</a></strong>
+<strong>For the full docs see the <a href="https://robsanheim.googlecode.com/svn/trunk/multi_rails/README.txt">readme.</a></strong>

@@ -2,7 +2,7 @@
 wordpress_id: 163
 layout: post
 title: Deployment - is it really that hard?
-wordpress_url: http://www.robsanheim.com/?p=163
+wordpress_url: https://www.robsanheim.com/?p=163
 ---
 (note: this is a post from my old blog reposted here)
 

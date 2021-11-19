@@ -2,7 +2,7 @@
 wordpress_id: 196
 layout: post
 title: "Quick Tip: Host Two Different Version Control Systems"
-wordpress_url: http://www.robsanheim.com/?p=196
+wordpress_url: https://www.robsanheim.com/?p=196
 ---
 I recently set up subversion to complement my cvs repository for version control.  I ported all my personal apps over, but one nice benefit I didn't anticipate was the ability to keep client projects or open source projects in my own repository at the same time.
 

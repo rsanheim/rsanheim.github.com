@@ -2,7 +2,7 @@
 wordpress_id: 231
 layout: post
 title: Mac OS X Browsers and Shortcut Keys
-wordpress_url: http://www.robsanheim.com/?p=231
+wordpress_url: https://www.robsanheim.com/?p=231
 ---
 Since switching to the new macbook last month, I've loved getting to know Safari and Camino.  Safari has the insane speed going for it, and Camino has the power of the Gecko engine with MacOS style.  Lately I've been using Firefox for all first-iteration development work and Safari for all general browsing.  Camino has a backup role since I've noticed its slowness compared to Safari and its lack of dev tools.
 

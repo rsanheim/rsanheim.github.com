@@ -2,7 +2,7 @@
 wordpress_id: 27
 layout: post
 title: You know your cache is slowing development when...
-wordpress_url: http://www.robsanheim.com/?p=27
+wordpress_url: https://www.robsanheim.com/?p=27
 ---
 You see this in your logs:
 

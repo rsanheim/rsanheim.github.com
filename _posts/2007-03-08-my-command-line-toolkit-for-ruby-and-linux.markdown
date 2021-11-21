@@ -6,7 +6,7 @@ wordpress_url: https://www.robsanheim.com/?p=303
 ---
 Some common aliases and functions that I use, spread across various bash_login and .sh scripts.  This excludes a bunch of things that are specific to SeekingAlpha, of course.  A lot of this was cobbled together from similar lists and previous coworkers.
 
-[code]
+```
 # general shortcuts
 alias mv='mv -i'
 alias cp='cp -i'
@@ -54,4 +54,4 @@ alias gems='cd /usr/local/lib/ruby/gems/1.8/gems/'
 alias sc='script/console'
 alias ss='script/server'
 alias rt='rake --trace | redgreen' # Rake Test (w/ color)
-[/code]
+```

@@ -16,14 +16,17 @@ Both libraries now use Echoe, since Hoe complains about readme.txt when I want t
 
 You can install them via github or rubyforge:
 
-<code>sudo gem install log_buddy
+```
+sudo gem install log_buddy
 sudo gem install cap_gun
+```
 
 or 
 
+```
 gem sources -a https://gems.github.com
 sudo gem install relevance-log_buddy
 sudo gem install relevance-cap_gun
-</code>
+```
 
 Please log bugs or issues at our <a href="https://opensource.thinkrelevance.com/">Trac</a>.

@@ -1,6 +1,5 @@
 ---
 layout: post
-show_header: false
 title: "Resume"
 ---
 

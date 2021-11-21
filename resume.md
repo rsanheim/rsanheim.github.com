@@ -1,6 +1,5 @@
 ---
-layout: resume
-permalink: /resume
+layout: post
 show_header: false
 title: "Resume"
 ---

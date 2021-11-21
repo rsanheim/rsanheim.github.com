@@ -15,7 +15,7 @@ So you want to set up a fresh Rails app in a fresh git repo, with proper ignores
 	<li>You have the bash <a href="#aliases">aliases</a> at the bottom of the post.</li>
 </ul>
 
-<code>
+```shell
 rails app_name
 cd app_name
 
@@ -39,13 +39,13 @@ gca -m 'bring in rails via submodule'
 cd vendor/rails
 gba # pick branch of Rails you wanna use
 git co BRANCH # where BRANCH is the specific branch you want, unless you want the default of going against edge
-</code>
+```
 
 You're done!
 
 <span id="aliases">Here's those aliases you need:</span>
 
-<code>
+```
 alias g='git'
 alias gb='git branch'
 alias gba='git branch -a'
@@ -54,4 +54,4 @@ alias gca='git commit -v -a'
 alias gd='git diff | mate'
 alias gl='git pull'
 alias gp='git push'
-</code>
+```

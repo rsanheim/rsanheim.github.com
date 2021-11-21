@@ -12,14 +12,18 @@ log_buddy is your friendly little log buddy at your side, helping you dev, debug
 Call LogBuddy.init to use log_buddy.  It will add two methods to object instance and class level: "d" and "logger".  You can
 use your own logger with Logbuddy by passing it into init's options hash:
     
-    LogBuddy.init :default_logger => Logger.new('my_log.log')
+```
+LogBuddy.init :default_logger => Logger.new('my_log.log')
+```
     
 Now you have your logger available from any object, at the instance level and class level:
 
-    obj = Object.new
-    obj.logger.debug("hi")
-    class MyClass; end
-    MyClass.logger.info("heya")
+```ruby
+obj = Object.new
+obj.logger.debug("hi")
+class MyClass; end
+MyClass.logger.info("heya")
+```
 
 You also have a method called "d" (for "debug") on any object, which is used for quick debugging and logging of things while you are developing.  Its especially useful while using autotest.  When you call the "d" method with an inline block, it will log the name of the things
 in the block and the result.  Examples:

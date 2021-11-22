@@ -6,44 +6,46 @@ wordpress_url: https://robsanheim.com/2008/07/30/git-clone-vs-cp-r-wtf/
 ---
 I knew git was fast, and I even knew it was faster than a lot of plain linux local file operations.  Still, this still blew me away:
 
-[code]rsanheim@ares:~/src/personal/oss $ du -hd 0 insoshi/
- 26M	insoshi/
+```
+  rsanheim@ares:~/src/personal/oss $ du -hd 0 insoshi/
+  26M	insoshi/
 
-rsanheim@ares:~/src/personal/oss $ time git clone insoshi/ /tmp/insoshi
-Initialize /tmp/insoshi/.git
-Initialized empty Git repository in /private/tmp/insoshi/.git/
-Checking out files: 100% (2193/2193), done.
+  rsanheim@ares:~/src/personal/oss $ time git clone insoshi/ /tmp/insoshi
+  Initialize /tmp/insoshi/.git
+  Initialized empty Git repository in /private/tmp/insoshi/.git/
+  Checking out files: 100% (2193/2193), done.
 
-real	0m3.826s
-user	0m0.251s
-sys	0m0.658s
+  real	0m3.826s
+  user	0m0.251s
+  sys	0m0.658s
 
-rsanheim@ares:~/src/personal/oss $ time cp -R insoshi/ /tmp/insoshi_cp
+  rsanheim@ares:~/src/personal/oss $ time cp -R insoshi/ /tmp/insoshi_cp
 
-real	0m9.065s
-user	0m0.114s
-sys	0m1.442s
-[/code]
+  real	0m9.065s
+  user	0m0.114s
+  sys	0m1.442s
+```
+
 Ok, so a 26 meg repo takes almost three times as long to copy via a recursive cp than a local git clone.  Thats a fairly small repo, lets try something bigger:
 
-[code]
-rsanheim@ares:~/src/relevance $ du -hd 0 rails
- 75M	rails
+```
+  rsanheim@ares:~/src/relevance $ du -hd 0 rails
+  75M	rails
 
-rsanheim@ares:~/src/relevance $ time git clone rails /tmp/rails2
-Initialize /tmp/rails2/.git
-Initialized empty Git repository in /private/tmp/rails2/.git/
+  rsanheim@ares:~/src/relevance $ time git clone rails /tmp/rails2
+  Initialize /tmp/rails2/.git
+  Initialized empty Git repository in /private/tmp/rails2/.git/
 
-real	0m2.321s
-user	0m0.151s
-sys	0m0.465s
+  real	0m2.321s
+  user	0m0.151s
+  sys	0m0.465s
 
-rsanheim@ares:~/src/relevance $ time cp -R rails/ /tmp/rails
+  rsanheim@ares:~/src/relevance $ time cp -R rails/ /tmp/rails
 
-real	0m7.133s
-user	0m0.067s
-sys	0m1.505s
-[/code]
+  real	0m7.133s
+  user	0m0.067s
+  sys	0m1.505s
+```
 
 The rails repo at 75 megs is still ~ 3 times faster.
 

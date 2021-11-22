@@ -9,7 +9,7 @@ wordpress_url: https://robsanheim.com/2008/03/28/log_buddy-released-your-helpful
 <ul><li>The "logger" method is just a typical logger - it will use the Rails logger if its available.  </li>
 <li>The "d" method is a special helper that will output the code in the block and its result - note that you *must* use the bracket block form - do...end is not supported.</li></ul>Examples
 
-[ruby]
+```ruby
 require 'lib/log_buddy'
 LogBuddy.init
 
@@ -31,7 +31,7 @@ d { @a }                  # logs "@a = 'my var'"
 d { @@bar }               # logs "@@bar = 'class var!'"
 d { bark }                # logs "bark = woof!"
 d { Foo::module_method }  # logs Foo::module_method = 'hi!!'
-[/ruby]
+```
 
 <h3>More Details</h3>
 

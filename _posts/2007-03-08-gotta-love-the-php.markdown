@@ -6,7 +6,9 @@ wordpress_url: https://www.robsanheim.com/?p=304
 ---
 Quick - what does this line of PHP do:
 
-[php]@ $value = unserialize($option->option_value);[/php]
+```php
+$value = unserialize($option->option_value);
+```
 
 Look, its an 'at sign'.  Hmm...that must be something special.  I bet its some really advanced crazy PHP feat...oh <strong>of course</strong> - its PHP's <a href="https://www.php.net/manual/en/language.operators.errorcontrol.php">error control</a>!  it tells the intrepeter to ignore any and all errors in that line of code!  This warning from the docs is cool:
 

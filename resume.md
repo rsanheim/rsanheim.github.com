@@ -1,8 +1,6 @@
 ---
-layout: resume
-permalink: /resume
-show_header: false
-title: "Resume"
+layout: page
+title: Rob Sanheim &#8212; Resume
 ---
 
 [Rob Sanheim](mailto:rsanheim@gmail.com) is a senior software engineer with over 20 years of experience building products and systems to solve problems and people happy. He has built software for early-stage startups, consultancies, Fortune 500 companies, and everything in between. He loves working with small teams of passionate people to build great software and amazing products.
@@ -88,7 +86,7 @@ Ansible, Bash, Capistrano, CSS, Elasticsearch, Git, GraphQL, Java, Javascript, M
 
 ### Community & presentations
 
-Rob has presented at many conferences and user groups, including RubyConf, Ruby Kaigi, and RailsConf. He has contributed to many open source projects over the years, including Rails, Rspec, and Rcov. Editor of Ajaxian.com from 2005 to 2006, and cofounder of the Madison Ruby user group.
+Rob has presented at many conferences and user groups, including RubyConf, Ruby Kaigi, and RailsConf. He has contributed to many open source projects over the years, including Rails, Rspec, and Rcov. Editor of Ajaxian.com from 2005 to 2006, and co-founder of the Madison Ruby user group.
 
 ### Education
 

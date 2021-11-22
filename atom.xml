@@ -1,31 +1,28 @@
-<!-- ---
-layout: nil
-max_feed_posts: 40
 ---
+layout: null
+---
+
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://www.w3.org/2005/Atom">
- 
- <title>Panasonic Youth</title>
- <link href="https://robsanheim.com/atom.xml" rel="self"/>
- <link href="https://robsanheim.com/"/>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>{{ site.title }}</title>
+ <link href="{{ '/atom.xml' | relative_url }}" rel="self"/>
+ <link href="{{ site.url }}{{ site.baseurl }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>https://robsanheim.com/</id>
+ <id>{{ site.url }}</id>
  <author>
-   <name>Rob Sanheim</name>
-   <email>rsanheim@gmail.com</email>
+   <name>{{ site.author.name }}</name>
+   <email>{{ site.author.email }}</email>
  </author>
- 
+
  {% for post in site.posts %}
- {% if forloop.index <= page.max_feed_posts %}
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="https://robsanheim.com{{ post.url }}"/>
+   <title>{{ post.title | xml_escape }}</title>
+   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>https://robsanheim.com{{ post.id }}</id>
+   <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
- {% endif %}
  {% endfor %}
- 
+
 </feed>
-  -->

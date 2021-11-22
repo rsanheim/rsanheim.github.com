@@ -7,6 +7,14 @@
   padding-bottom: var(--spacer);
   margin-bottom: var(--spacer-3);
 
+}
+
+@media only screen and (max-width: 30em) {
+  .author {
+    display: none;
+  }
+}
+@media (min-width: 20em) {
   .author {
     font-size: 1.2rem;
   }

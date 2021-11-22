@@ -86,7 +86,7 @@ Ansible, Bash, Capistrano, CSS, Elasticsearch, Git, GraphQL, Java, Javascript, M
 
 ### Community & presentations
 
-Rob has presented at many conferences and user groups, including RubyConf, Ruby Kaigi, and RailsConf. He has contributed to many open source projects over the years, including Rails, Rspec, and Rcov. Editor of Ajaxian.com from 2005 to 2006, and cofounder of the Madison Ruby user group.
+Rob has presented at many conferences and user groups, including RubyConf, Ruby Kaigi, and RailsConf. He has contributed to many open source projects over the years, including Rails, Rspec, and Rcov. Editor of Ajaxian.com from 2005 to 2006, and co-founder of the Madison Ruby user group.
 
 ### Education
 

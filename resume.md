@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Resume"
+layout: page
+title: Rob Sanheim &#8212; Resume
 ---
 
 [Rob Sanheim](mailto:rsanheim@gmail.com) is a senior software engineer with over 20 years of experience building products and systems to solve problems and people happy. He has built software for early-stage startups, consultancies, Fortune 500 companies, and everything in between. He loves working with small teams of passionate people to build great software and amazing products.

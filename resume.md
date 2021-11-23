@@ -4,8 +4,9 @@ meta_title: Rob Sanheim's Resume
 title: Resume
 ---
 
-[Rob Sanheim](mailto:rsanheim@gmail.com) is a senior software engineer with over 20 years of experience building products and systems to solve problems and make people happy. He has built software for early-stage startups, consultancies, Fortune 500 companies, and everything in between. He loves working with small teams of passionate people to build great software and amazing products.
+[Rob Sanheim](mailto:rsanheim@gmail.com) is a software engineer with over 20 years of experience building successful products and systems. He has led teams in building key components at scale for companies as diverse as GitHub, Bold Penguin, Simple.org, and Cognitect. He loves working with small teams of passionate people to build high-quality, sustainable software that puts the human experience front and center.
 
+#### Work Experience
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - current
 
 <small> *note: Simple.org is open source, so links below go to the underlying pull requests*</small>
@@ -14,8 +15,8 @@ Lead engineer on a large scale, open-source hypertension management system servi
 
 * Re-architected reporting system to simplify and consolidate API, improve performance, and simplify  maintenance and changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
 * Built and transitioned to [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1331/files) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries; facilitated [simplified data access](https://github.com/simpledotorg/simple-server/pull/2961).
-* Greatly improved traceability and observability by moving systems to DataDog, integrating centralized JSON [logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
-* Established [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) and worked with team on building a culture around high quality, continual shipping of the main simple-server web app.  Setup feature flags and increased tracing on all areas of the app to facilitate smaller, safe pull requests in the CD context.
+* Greatly improved traceability and observability by integrating DataDog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
+* Established [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) and grew a culture around high quality, continual shipping of the main simple-server web app. Installed flipper feature flags and increased tracing facilitate smaller, safer pull requests for the new continuous deployment process.
 * [Rebuilt seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety, developer ease of use, and performance: able to generated production-size dataset in well under an hour - previous seed task took 5-10x times as long.
 
 ## [Bold Penguin](https://boldpenguin.com) &middot; Staff Software Engineer &middot; 2019 - 2020
@@ -58,16 +59,9 @@ Core member of the team that shipped the first version of this highly requested 
 Led effort in developing project plan, getting buy-in from colleagues on this
 huge undertaking, and shepherding the system through a long, careful production rollout.
 
-**Other features built include**
+**Other key contributions**
 
-* [Team mentions](https://github.com/blog/1121-introducing-team-mentions)
-* [Commit Status API](https://github.com/blog/1227-commit-status-api)
-* [Email verification](https://github.com/blog/1215-email-verification)
-* [Live updates](https://github.com/blog/1174-auto-updating-comments)
-
-**Process Improvement**
-
-Rob has also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
+Primary server developer for features such as [team mentions](https://github.com/blog/1121-introducing-team-mentions), [commit status API](https://github.com/blog/1227-commit-status-api), [email verification](https://github.com/blog/1215-email-verification), and [live updates](https://github.com/blog/1174-auto-updating-comments).  Rob also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
 
 ## [Relevance, Inc / Cognitect](http://cognitect.com/) &middot; Principal &middot; 2007 - 2012
 
@@ -86,25 +80,29 @@ platform. Ensure scalability for features and ensuring scalability for upwards o
 
 ## [Sanheim Software](https://rsanheim.com) &middot; Founder &middot; 2005 - current
 Consulted and built custom software for various clients throughout the years, including the [Doughroller debt calculator](https://tools.doughroller.net/debt-snowball-calculator), a very early (2007) RSS feed builder application, and private side projects.
-### Previous Positions:
+#### Earlier Experience
 
 * Smart Solutions - Consultant - 2005 - 2006
 * Brown Shoe - Programmer Analyst - 2001 - 2005
 * Wm. K. Walthers - Production Specialist 1996 - 1999
 
-### Technologies (i.e. buzzword bingo)
+#### Technologies
 
-Angluar, Ansible, Bash, Capistrano, CSS, Elasticsearch, Git, GraphQL, Java, Javascript, Memcached, MySQL, PostgreSQL, Puppet, React, Ruby, Ruby on Rails, Redis, Resque, Rspec, Sidekiq, Sinatra, Unicorn
+Angular, Ansible, AWS, Bash, Capistrano, CSS (SCSS / SASS), Elasticsearch, Git, Go, GraphQL, Java, Javascript, Memcached, MySQL, PostgreSQL, Puppet, React, Ruby, Ruby on Rails, Redis, Resque, Rspec, Sidekiq, Sinatra, Unicorn, and many others
 
-### Community & presentations
+#### Community & presentations
 
 Rob has presented at many conferences and user groups, including RubyConf, Ruby Kaigi, and RailsConf. He has contributed to many open source projects over the years, including Rails, Rspec, and Rcov. Editor of Ajaxian.com from 2005 to 2006, and co-founder of the Madison Ruby user group.
 
-### Education
+#### Education
 
 UW Whitewater - B.S., Management Computer Systems 2001
 
-### Contact
+#### Contact
 
-Email: <strong>[rsanheim@gmail.com](mailto:rsanheim@gmail.com)</strong><br />
-GitHub: [https://github.com/rsanheim](https://github.com/rsanheim)<br />
+email: [rsanheim@gmail.com](mailto:rsanheim@gmail.com)
+<br />
+web: [rsanheim.com](https://rsanheim.com)
+<br />
+GitHub: [@rsanheim](https://github.com/rsanheim)
+

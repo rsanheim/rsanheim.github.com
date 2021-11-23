@@ -6,6 +6,11 @@ title: Resume
 
 [Rob Sanheim](mailto:rsanheim@gmail.com) is a senior software engineer with over 20 years of experience building products and systems to solve problems and people happy. He has built software for early-stage startups, consultancies, Fortune 500 companies, and everything in between. He loves working with small teams of passionate people to build great software and amazing products.
 
+### [Simple](https://simple.org) - Principal Software Engineer - 2020 to present
+
+* Re-architected reporting system to simplify and consolidate API, improve performance, and simplify ongoing  maintenance and changes [1](https://github.com/simpledotorg/simple-server/pull/2436)[2](https://github.com/simpledotorg/simple-server/pull/3007).
+* Greatly improved traceability and observability by moving systems to DataDog, integrating centralized JSON logging [1](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
+
 ### [Bold Penguin](https://boldpenguin.com) - Staff Software Engineer - 2019 to 2020
 
 Led several engineering wide initiatives:
@@ -26,9 +31,7 @@ Lead application engineer for multiple product initiatives, including:
 
 ### [NationBuilder](https://nationbuilder.com) - Lead Software Engineer - 2017-2018
 
-* Team lead on SSL automation project; created workflow for implementing SSL certification for over 10,000 customer subdomains.
-* Helped lead the Payments team, building out a new Stripe based donations engine.
-* Built out data transition library to safely migrate customer data
+Team lead on SSL automation project and Payments team; created workflow for implementing SSL certification for over 10,000 customer subdomains.
 
 ### [GitHub](https://github.com) - Senior Software Engineer - 2012 to 2017
 

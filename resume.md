@@ -45,27 +45,27 @@ High performing, well respected senior engineer and team lead at GitHub for almo
 
 Instrumental in shipping the following features:
 
-### [Pull Request Reviews](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features#code-better-with-reviews)
+**[Pull Request Reviews](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features#code-better-with-reviews)**
 
 Leader on a team dedicated to overhauling code review at GitHub. He worked closely with colleagues to architect and build the new code review system now in use at GitHub. This included back end modeling and engineering, overhauling the front end to support a new conversation threading system, and tying the entire system into the Protected Branches feature on GitHub.
 
-### [Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks)
+**[Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks)**
 
 Core member of the team that shipped the first version of this highly requested feature. Worked on the backend, frontend, and in crafting and focusing the product vision to make sure we shipped something great.
 
-### Rails 3.2 Upgrade
+**Rails 3.2 Upgrade**
 
 Led effort in developing project plan, getting buy-in from colleagues on this
 huge undertaking, and shepherding the system through a long, careful production rollout.
 
-### Other features built included:
+**Other features built include**
 
 * [Team mentions](https://github.com/blog/1121-introducing-team-mentions)
 * [Commit Status API](https://github.com/blog/1227-commit-status-api)
 * [Email verification](https://github.com/blog/1215-email-verification)
 * [Live updates](https://github.com/blog/1174-auto-updating-comments)
 
-### Process Improvement
+**Process Improvement**
 
 Rob has also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
 

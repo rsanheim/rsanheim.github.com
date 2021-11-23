@@ -10,31 +10,61 @@
     display: none;
   }
 
-  body.resume {
+  body {
     background: none;
-    color: black;
-    font-size: 80%;
-    line-height: 1.1;
+  }
+  
+  html.resume {
+    body {
+      font-size: 12px;
+      line-height: 1.1rem;
+      color: black;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      color: black;
+      margin-top: 1.0rem;
+      line-height: 1.1;
+    }
+    h1 { font-size: 18px; }
+    h2 { font-size: 16px; }
+    h3 { font-size: 14px; }
+    h4 { font-size: 13px; }
+    h5, h6 { font-size: 12px; }
+    
+    h4.work-experience {
+      margin-bottom: -0.5rem;
+    }
+    ul li {
+      margin: 0;
+      padding: 0;
+    }
 
+    li + li {
+      margin-top: 0;
+      margin-bottom: 0;
+      padding: 0;
+    }
+
+    .print-header {
+      float: right;
+      font-size: 50%;
+    }
+    
     header {
       display: none;
     }
-
-    h1 {
-      color: black !important;
-      font-size: 1.2rem;
+    
+    .container {
+      max-width: 90%;
     }
-
-    h2 {
-      color: black;
-      font-size: 1.1rem;
+    
+    p {
       margin-bottom: 0.2rem;
     }
-
-    h3 {
-      color: black;
-      font-size: 1.0rem;
-      margin: 0;
+    
+    a {
+      color: #0066cc;
     }
   }
 }

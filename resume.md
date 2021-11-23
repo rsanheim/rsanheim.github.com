@@ -8,6 +8,8 @@ title: Resume
 
 ### [Simple.org](https://simple.org) - Principal Software Engineer - 2020 to present
 
+North American lead engineer on a multi-national hypertension treatment system serving over 1.2 million patients in India, Bangladesh, an Ethiopia.
+
 * Re-architected reporting system to simplify and consolidate API, improve performance, and simplify ongoing  maintenance and changes [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
 * Introduce new [Region](https://github.com/simpledotorg/simple-server/pull/1331/files) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) domain to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries.
 * Greatly improved traceability and observability by moving systems to DataDog, integrating centralized JSON [logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.

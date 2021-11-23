@@ -84,7 +84,7 @@ Rob was employee number five at Relevance, and was a key leader in helping Relev
 Senior Ruby developer for a successful financial blog platform. Responsible for overhauling PHP platform into new Rails
 platform. Ensure scalability for features and ensuring scalability for upwards of 70,000 visitors a day. Built user generated content feature to build community and enhance content model. Setup continuous integration and devops automation.
 
-## [Sanheim Software](https://sanheim.com) &middot; Founder &middot; 2005 - current
+## [Sanheim Software](https://rsanheim.com) &middot; Founder &middot; 2005 - current
 Consulted and built custom software for various clients throughout the years, including the [Doughroller debt calculator](https://tools.doughroller.net/debt-snowball-calculator), a very early (2007) RSS feed builder application, and private side projects.
 ### Previous Positions:
 
@@ -92,7 +92,7 @@ Consulted and built custom software for various clients throughout the years, in
 * Brown Shoe - Programmer Analyst - 2001 - 2005
 * Wm. K. Walthers - Production Specialist 1996 - 1999
 
-### Technologies
+### Technologies (i.e. buzzword bingo)
 
 Angluar, Ansible, Bash, Capistrano, CSS, Elasticsearch, Git, GraphQL, Java, Javascript, Memcached, MySQL, PostgreSQL, Puppet, React, Ruby, Ruby on Rails, Redis, Resque, Rspec, Sidekiq, Sinatra, Unicorn
 

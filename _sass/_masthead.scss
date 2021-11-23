@@ -14,21 +14,33 @@
 
 .masthead-title {
   margin-bottom: 0;
+  color: var(--pink);
 
   a {
     color: inherit;
-    text-decoration: none;
   }
 
   small {
-    font-weight: 400;
-    opacity: 0.5;
+    font-weight: 600;
+    opacity: 0.90;
   }
 }
 
 // Navbar styles
 .nav {
-  float: right;
   line-height: 1.25rem;
   word-spacing: 1rem;
 }
+
+@media (min-width: 30em) {
+  .nav {
+    float: right;
+  }
+}
+
+@media (max-width: 30em) {
+  .nav {
+    font-size: 80%;
+  }
+}
+

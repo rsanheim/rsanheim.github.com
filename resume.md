@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Rob Sanheim &#8212; Resume
+meta_title: Rob Sanheim's Resume
 title: Resume
 ---
 

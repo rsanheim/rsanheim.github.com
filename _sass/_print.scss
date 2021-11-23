@@ -1,0 +1,28 @@
+.print-only {
+  display: none;
+}
+
+@media print {
+  .print-only {
+    display: block;
+  }
+
+  .resume {
+    font-size: 80%;
+    line-height: 1.1;
+
+    header {
+      display: none;
+    }
+    .no-print {
+      display: none;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+    }
+    h3 {
+      font-size: 1.0rem;
+    }
+  }
+}

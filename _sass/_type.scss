@@ -28,6 +28,19 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+// resume specific for more density
+.page.resume {
+  font-size: 80%;
+
+  h2 {
+    font-size: 1.333rem;
+  }
+  h3 {
+    font-size: 1.2rem;
+  }
+}
+
+
 a {
   text-decoration: none;
 }

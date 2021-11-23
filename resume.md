@@ -1,63 +1,64 @@
 ---
-layout: page
+layout: resume
 meta_title: Rob Sanheim's Resume
 title: Resume
 ---
 
 [Rob Sanheim](mailto:rsanheim@gmail.com) is a senior software engineer with over 20 years of experience building products and systems to solve problems and people happy. He has built software for early-stage startups, consultancies, Fortune 500 companies, and everything in between. He loves working with small teams of passionate people to build great software and amazing products.
 
-### [Simple.org](https://simple.org) - Principal Software Engineer - 2020 to present
+## [Simple.org](https://simple.org) - Principal Software Engineer - 2020 - current
 
-North American lead engineer on a multi-national hypertension treatment system serving over 1.2 million patients in India, Bangladesh, an Ethiopia.
+<small> *note: Simple.org is open source, so links below go to the underlying pull requests*</small>
 
-* Re-architected reporting system to simplify and consolidate API, improve performance, and simplify ongoing  maintenance and changes [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
-* Introduce new [Region](https://github.com/simpledotorg/simple-server/pull/1331/files) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) domain to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries.
+Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, an Ethiopia.
+
+* Re-architected reporting system to simplify and consolidate API, improve performance, and simplify  maintenance and changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
+* Built and transitioned to [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1331/files) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries; facilitated [simplified data access](https://github.com/simpledotorg/simple-server/pull/2961).
 * Greatly improved traceability and observability by moving systems to DataDog, integrating centralized JSON [logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
 * Established [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) and worked with team on building a culture around high quality, continual shipping of the main simple-server web app.  Setup feature flags and increased tracing on all areas of the app to facilitate smaller, safe pull requests in the CD context.
-* [Overhauled anonymous seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) to be safe and performant; able to generated production sized dataset in well under an hour (previous strategy would take 5-10x as long and would intermittent fail)
+* [Rebuilt seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety, developer ease of use, and performance: able to generated production-size dataset in well under an hour - previous seed task took 5-10x times as long.
 
-### [Bold Penguin](https://boldpenguin.com) - Staff Software Engineer - 2019 to 2020
+## [Bold Penguin](https://boldpenguin.com) - Staff Software Engineer - 2019 to 2020
 
 Led several engineering wide initiatives:
-* Webhooks system to push insurance application updates in real-time to partners
-* Overhauled main Rails test suite from hand-rolled mocks to consistent, simplified fixtures; dramatically improving developer experience and ease of testing
+
+* Webhooks system to send application updates in real-time to partners
+* Overhauled main Rails test suite from hand-built mocks to simplified fixtures; dramatically improving developer experience and ease of testing
 * End-to-end automated test suite to increase confidence across the four core microservices
 
-### [First Leads](https://www.first.io) - VP of Technology - 2018 to 2019
+## [First Leads (acquired by Remax)](https://news.remax.com/exclusive-to-remax-the-first-app-one-of-the-best-tools-in-real-estate) - VP of Technology - 2018 to 2019
 
-Leader of the product engineering organization. Began retrospectives throughout product and engineering to improve team communication and cohesion. Moved the team to continuous delivery via chat ops, GitHub API, and Lita (a ruby chat bot) for front and back end applications; helping team to increase deployments to ~20 a day with greater reliability and transparency.
+Leader of the product engineering organization. Began retrospectives throughout product and engineering to improve team collaboration. Moved the team to continuous delivery via chat ops, GitHub API, and chat ops for front and back end applications - increasing deployments to ~20x a day with greater reliability and transparency. Lead application engineer for multiple product initiatives, including:
 
-Lead application engineer for multiple product initiatives, including:
-
-* User on-boarding overhaul, moving the signup flow to a fully automated Chargebee workflow
+* User on-boarding overhaul, rebuilt signup as automated Chargebee workflow
 * Dynamic content campaigns to serve the front page of mobile app
 * In-place, dual boot system for Rails app to allow incremental upgrade to Rails 5/6
-* Mentored other developers via pair programming, internal presentations, and code review
+* Mentored other developers via pair programming, presentations, and code review
 
-### [NationBuilder](https://nationbuilder.com) - Lead Software Engineer - 2017-2018
+## [NationBuilder](https://nationbuilder.com) - Lead Software Engineer - 2017-2018
 
-Team lead on SSL automation project and Payments team; created workflow for implementing SSL certification for over 10,000 customer subdomains.
+Team lead on SSL automation project - helping to setup and monitor SSL certification for over 10,000 customer subdomains. Lead on payments overhaul, which rewrote and consolidated billing code onto Stripe Connect platform.
 
-### [GitHub](https://github.com) - Senior Software Engineer - 2012 to 2017
+## [GitHub](https://github.com) - Senior Software Engineer - 2012 to 2017
 
 High performing, well respected senior engineer and team lead at GitHub for almost 5 years. Improved team processes by by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
 
 Instrumental in shipping the following features:
 
-#### [Pull Request Reviews](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features#code-better-with-reviews)
+### [Pull Request Reviews](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features#code-better-with-reviews)
 
 Leader on a team dedicated to overhauling code review at GitHub. He worked closely with colleagues to architect and build the new code review system now in use at GitHub. This included back end modeling and engineering, overhauling the front end to support a new conversation threading system, and tying the entire system into the Protected Branches feature on GitHub.
 
-#### [Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks)
+### [Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks)
 
 Core member of the team that shipped the first version of this highly requested feature. Worked on the backend, frontend, and in crafting and focusing the product vision to make sure we shipped something great.
 
-#### Rails 3.2 Upgrade
+### Rails 3.2 Upgrade
 
 Led effort in developing project plan, getting buy-in from colleagues on this
 huge undertaking, and shepherding the system through a long, careful production rollout.
 
-#### Other features included:
+### Other features included:
 
 * [Team mentions](https://github.com/blog/1121-introducing-team-mentions)
 * [Commit Status API](https://github.com/blog/1227-commit-status-api)
@@ -68,30 +69,33 @@ huge undertaking, and shepherding the system through a long, careful production 
 
 Rob has also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
 
-### [Relevance, Inc / Cognitect](http://cognitect.com/) - Principal - 2007 to 2012
+## [Relevance, Inc / Cognitect](http://cognitect.com/) - Principal - 2007 to 2012
 
 Rob was employee number five at Relevance, and was a key leader in helping Relevance become a leading Ruby on Rails consultancy.
 
-* Converted Relevance to Git and Github in 2008, migrating away from SVN
+* Converted Relevance to Git & Github in 2008, migrating away from SVN
 * Lead conversion to pull request workflow for collaboration and code review
 * Led many projects in many different roles, including project manager, architect, lead developer, and client liaison
 * Brings a "calming, experienced" leadership role to projects assigned
 * Wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix Cloud](https://classic.contegix.com/session/new).
+
 
 ### [Seeking Alpha](http://seekingalpha.com/) - Software Engineer - 2006 to 2007
 
 Senior Ruby developer for a successful financial blog platform. Responsible for overhauling PHP platform into new Rails
 platform. Ensure scalability for features and ensuring scalability for upwards of 70,000 visitors a day. Built user generated content feature to build community and enhance content model. Setup continuous integration and devops automation.
 
+### [Sanheim Software](https://sanheim.com) - Founder - 2005 - current
+Consulted and built custom software for various clients throughout the years, including the [Doughroller debt calculator](https://tools.doughroller.net/debt-snowball-calculator), a very early (2007) RSS feed builder application, and private side projects.
 ### Previous Positions:
 
 * Smart Solutions - Consultant - 2005 - 2006
 * Brown Shoe - Programmer Analyst - 2001 - 2005
 * Wm. K. Walthers - Production Specialist 1996 - 1999
 
-### Technologies
+### Technologies (i.e. buzzword bingo)
 
-Ansible, Bash, Capistrano, CSS, Elasticsearch, Git, GraphQL, Java, Javascript, Memcached, MySQL, PostgreSQL, Puppet, React, Ruby, Ruby on Rails, Redis, Resque, Rspec, Sidekiq, Sinatra, Unicorn
+Angluar, Ansible, Bash, Capistrano, CSS, Elasticsearch, Git, GraphQL, Java, Javascript, Memcached, MySQL, PostgreSQL, Puppet, React, Ruby, Ruby on Rails, Redis, Resque, Rspec, Sidekiq, Sinatra, Unicorn
 
 ### Community & presentations
 

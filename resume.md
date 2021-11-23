@@ -7,6 +7,7 @@ title: Resume
 [Rob Sanheim](mailto:rsanheim@gmail.com) is a software engineer with over 20 years of experience building successful products and systems. He has led teams in building key components at scale for companies as diverse as GitHub, Bold Penguin, Simple.org, and Cognitect. He loves working with small teams of passionate people to build high-quality, sustainable software that puts the human experience front and center.
 
 <h4 class="work-experience">Work Experience</h4>
+
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - current
 
 <small>*note: Simple.org is open source, so links below go to the underlying pull requests*</small>

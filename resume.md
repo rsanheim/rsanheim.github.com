@@ -9,6 +9,7 @@ title: Resume
 ### [Simple.org](https://simple.org) - Principal Software Engineer - 2020 to present
 
 * Re-architected reporting system to simplify and consolidate API, improve performance, and simplify ongoing  maintenance and changes [1](https://github.com/simpledotorg/simple-server/pull/2436)[2](https://github.com/simpledotorg/simple-server/pull/3007).
+* Introduce new [Region](https://github.com/simpledotorg/simple-server/pull/1331/files) domain to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries. [Regions ADR](https://github.com/simpledotorg/simple-server/pull/1381)
 * Greatly improved traceability and observability by moving systems to DataDog, integrating centralized JSON logging [1](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
 * Established [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) and worked with team on building a culture around high quality, continual shipping of the main simple-server web app.  Setup feature flags and increased tracing on all areas of the app to facilitate smaller, safe pull requests in the CD context.
 

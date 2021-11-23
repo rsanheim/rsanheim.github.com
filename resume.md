@@ -65,7 +65,7 @@ huge undertaking, and shepherding the system through a long, careful production 
 * [Email verification](https://github.com/blog/1215-email-verification)
 * [Live updates](https://github.com/blog/1174-auto-updating-comments)
 
-#### Process Improvement
+### Process Improvement
 
 Rob has also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
 

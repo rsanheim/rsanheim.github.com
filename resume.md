@@ -22,7 +22,7 @@ Lead engineer on a large scale, open-source hypertension management system servi
 
 Led several engineering wide initiatives:
 
-* Webhooks system to send application updates in real-time to partners
+* Webhooks system to send insurance application updates in real-time to partners
 * Overhauled main Rails test suite from hand-built mocks to simplified fixtures; dramatically improving developer experience and ease of testing
 * End-to-end automated test suite to increase confidence across the four core microservices
 

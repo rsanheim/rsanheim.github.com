@@ -6,23 +6,35 @@
   .print-only {
     display: block;
   }
+  .no-print {
+    display: none;
+  }
 
-  .resume {
+  body.resume {
+    background: none;
+    color: black;
     font-size: 80%;
     line-height: 1.1;
 
     header {
       display: none;
     }
-    .no-print {
-      display: none;
+
+    h1 {
+      color: black !important;
+      font-size: 1.2rem;
     }
 
     h2 {
-      font-size: 1.2rem;
+      color: black;
+      font-size: 1.1rem;
+      margin-bottom: 0.2rem;
     }
+
     h3 {
+      color: black;
       font-size: 1.0rem;
+      margin: 0;
     }
   }
 }

@@ -28,6 +28,18 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  text-decoration: underline;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;

@@ -14,15 +14,15 @@
 
 .masthead-title {
   margin-bottom: 0;
+  color: var(--pink);
 
   a {
     color: inherit;
-    text-decoration: none;
   }
 
   small {
-    font-weight: 400;
-    opacity: 0.5;
+    font-weight: 600;
+    opacity: 0.75;
   }
 }
 

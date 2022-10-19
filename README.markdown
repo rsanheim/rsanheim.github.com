@@ -2,10 +2,10 @@ My homepage.  Pretty standard GitHub Pages thing.
 
 ## Setup
 
-Requires Ruby 3.0.2
+Requires Ruby 3.0.4
 
 ```
-rbenv install 3.0.2
+asdf install 3.0.4
 bundle
 bundle exec jekyll serve
 ```

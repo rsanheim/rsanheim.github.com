@@ -10,6 +10,16 @@ title: Resume
 
 ## [Monograph](https://monograph.com) &middot; Staff Software Engineer &middot; 2022 - current
 
+Staff engineer for a practice management app for Architecture & Engineering firms.
+
+- Overhauled build pipeline, reducing CI time from 25+ mins to 4-5 mins via parallel testing and moving to a more capable platform.
+- Dramatically improved developer experience, improving ease of local development, bootstrap, and database management. Reduced time to setup the app locally from multiple days to a 1-3 hours via automation and scripting.
+- Built new `Cell` domain layer and schema for timesheet entries, a core component of the app. Reduced P90 response time for several key reports, as well as simplifying reporting complexity. Paired and led eng-wide sessions to ease transition to new approach.
+- Many platform wide improvements for stability, observability, and overall delivery
+  - Integrated Datadog for APM, alerts, and centralized logging. Mentored other engineers on how to best use Datadog in day to day work.
+  - Upgraded core monolith to Rails 7 and Ruby 3.2 w/ YJIT using dual boot approach
+  - Many Heroku improvements for faster, stable deployments, using [12 factor app](https://12factor.net) principles to simplify config
+
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - current
 
 <small>_note: Simple.org is open source, so links below go to the underlying pull requests_</small>

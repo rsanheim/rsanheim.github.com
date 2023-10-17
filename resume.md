@@ -48,6 +48,7 @@ Leader of the product engineering organization. Began retrospectives throughout 
 - User on-boarding overhaul, rebuilt signup as automated Chargebee workflow
 - Dynamic content campaigns to serve the front page of mobile app
 - In-place, dual boot system for Rails app to allow incremental upgrade to Rails 5/6
+- Mentored other developers via pair programming, presentations, and code review
 
 ## [NationBuilder](https://nationbuilder.com) &middot; Lead Software Engineer &middot; 2017 - 2018
 
@@ -92,7 +93,7 @@ platform. Ensure scalability for features and ensuring scalability for upwards o
 
 ## [Sanheim Software](https://rsanheim.com) &middot; Founder &middot; 2005 - current
 
-Consulting and custom development for several startups throughout the years.
+Consulting and custom application development for several startups.
 
 #### Earlier Experience
 

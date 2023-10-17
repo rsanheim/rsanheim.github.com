@@ -18,19 +18,20 @@ Staff engineer for a practice management app for Architecture & Engineering firm
 - Many platform wide improvements for stability, observability, and overall delivery
   - Integrated Datadog for APM, alerts, and centralized logging. Mentored other engineers on how to best use Datadog in day to day work.
   - Upgraded core monolith to Rails 7 and Ruby 3.2 w/ YJIT using dual boot approach
-  - Many Heroku improvements for faster, stable deployments, using [12 factor app](https://12factor.net) principles to simplify config
+  - Many Heroku improvements for faster, stable deployments, using [12 factor app](https://12factor.net) principles to simplify configuration
+  - Automated and documented PostgreSQL upgrade process, moving from v10 to 14
 
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - current
 
 <small>_note: Simple.org is open source, so links below go to the underlying pull requests_</small>
 
-Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, an Ethiopia.
+Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, and Ethiopia.
 
 - Re-architected reporting system to simplify and consolidate API, improve performance, and simplify maintenance and changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
-- Built and transitioned to [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1331/files) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries; facilitated [simplified data access](https://github.com/simpledotorg/simple-server/pull/2961).
+- Built and transitioned to [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1331/) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries; facilitated [simplified data access](https://github.com/simpledotorg/simple-server/pull/2961).
 - Greatly improved traceability and observability by integrating DataDog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
 - Established [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) and grew a culture around high quality, continual shipping of the main simple-server web app. Installed flipper feature flags and increased tracing facilitate smaller, safer pull requests for the new continuous deployment process.
-- [Rebuilt seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety, developer ease of use, and performance: able to generated production-size dataset in well under an hour - previous seed task took 5-10x times as long.
+- [Rebuilt seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety, developer ease of use, and performance: able to generate a production-sized dataset in well under an hour - previous seed task took 5-10x times as long.
 
 ## [Bold Penguin](https://boldpenguin.com) &middot; Staff Software Engineer &middot; 2019 - 2020
 
@@ -47,7 +48,6 @@ Leader of the product engineering organization. Began retrospectives throughout 
 - User on-boarding overhaul, rebuilt signup as automated Chargebee workflow
 - Dynamic content campaigns to serve the front page of mobile app
 - In-place, dual boot system for Rails app to allow incremental upgrade to Rails 5/6
-- Mentored other developers via pair programming, presentations, and code review
 
 ## [NationBuilder](https://nationbuilder.com) &middot; Lead Software Engineer &middot; 2017 - 2018
 
@@ -69,8 +69,7 @@ Core member of the team that shipped the first version of this highly requested 
 
 **Rails 3.2 Upgrade**
 
-Led effort in developing project plan, getting buy-in from colleagues on this
-huge undertaking, and shepherding the system through a long, careful production rollout.
+Led effort in developing project plan, getting buy-in from colleagues on this huge undertaking; sheparded the system through a long, careful production rollout.
 
 **Other key contributions**
 
@@ -93,7 +92,7 @@ platform. Ensure scalability for features and ensuring scalability for upwards o
 
 ## [Sanheim Software](https://rsanheim.com) &middot; Founder &middot; 2005 - current
 
-Consulted and built custom software for various clients throughout the years, including the [Doughroller debt calculator](https://tools.doughroller.net/debt-snowball-calculator), a very early (2007) RSS feed builder application, and private side projects.
+Consulting and custom development for several startups throughout the years.
 
 #### Earlier Experience
 

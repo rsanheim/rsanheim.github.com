@@ -8,17 +8,30 @@ title: Resume
 
 <h4 class="work-experience">Work Experience</h4>
 
+## [Monograph](https://monograph.com) &middot; Staff Software Engineer &middot; 2022 - current
+
+Staff engineer for a practice management app for Architecture & Engineering firms.
+
+- Overhauled build pipeline, reducing CI time from 25+ mins to 4-5 mins via parallel testing and moving to a more capable platform.
+- Dramatically improved developer experience, improving ease of local development, bootstrap, and database management. Reduced time to setup the app locally from multiple days to a 1-3 hours via automation and scripting.
+- Built new `Cell` domain layer and schema for timesheet entries, a core component of the app. Reduced P90 response time for several key reports, as well as simplifying reporting complexity. Paired and led eng-wide sessions to ease transition to new approach.
+- Many platform wide improvements for stability, observability, and overall delivery
+  - Integrated Datadog for APM, alerts, and centralized logging. Mentored other engineers on how to best use Datadog in day to day work.
+  - Upgraded core monolith to Rails 7 and Ruby 3.2 w/ YJIT using dual boot approach
+  - Many Heroku improvements for faster, stable deployments, using [12 factor app](https://12factor.net) principles to simplify configuration
+  - Automated and documented PostgreSQL upgrade process, moving from v10 to 14
+
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - current
 
 <small>_note: Simple.org is open source, so links below go to the underlying pull requests_</small>
 
-Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, an Ethiopia.
+Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, and Ethiopia.
 
 - Re-architected reporting system to simplify and consolidate API, improve performance, and simplify maintenance and changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
-- Built and transitioned to [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1331/files) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries; facilitated [simplified data access](https://github.com/simpledotorg/simple-server/pull/2961).
+- Built and transitioned to [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1331/) ([architecture doc](https://github.com/simpledotorg/simple-server/pull/1381))) to allow [API sync](https://github.com/simpledotorg/simple-server/pull/1333) and [reports](https://github.com/simpledotorg/simple-server/pull/1477) at arbitrary region boundaries; facilitated [simplified data access](https://github.com/simpledotorg/simple-server/pull/2961).
 - Greatly improved traceability and observability by integrating DataDog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
 - Established [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) and grew a culture around high quality, continual shipping of the main simple-server web app. Installed flipper feature flags and increased tracing facilitate smaller, safer pull requests for the new continuous deployment process.
-- [Rebuilt seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety, developer ease of use, and performance: able to generated production-size dataset in well under an hour - previous seed task took 5-10x times as long.
+- [Rebuilt seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety, developer ease of use, and performance: able to generate a production-sized dataset in well under an hour - previous seed task took 5-10x times as long.
 
 ## [Bold Penguin](https://boldpenguin.com) &middot; Staff Software Engineer &middot; 2019 - 2020
 
@@ -57,8 +70,7 @@ Core member of the team that shipped the first version of this highly requested 
 
 **Rails 3.2 Upgrade**
 
-Led effort in developing project plan, getting buy-in from colleagues on this
-huge undertaking, and shepherding the system through a long, careful production rollout.
+Led effort in developing project plan, getting buy-in from colleagues on this huge undertaking; shepherded the system through a long, careful production rollout.
 
 **Other key contributions**
 
@@ -81,7 +93,7 @@ platform. Ensure scalability for features and ensuring scalability for upwards o
 
 ## [Sanheim Software](https://rsanheim.com) &middot; Founder &middot; 2005 - current
 
-Consulted and built custom software for various clients throughout the years, including the [Doughroller debt calculator](https://tools.doughroller.net/debt-snowball-calculator), a very early (2007) RSS feed builder application, and private side projects.
+Consulting and custom application development for several startups.
 
 #### Earlier Experience
 

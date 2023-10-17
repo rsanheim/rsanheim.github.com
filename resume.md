@@ -69,7 +69,7 @@ Core member of the team that shipped the first version of this highly requested 
 
 **Rails 3.2 Upgrade**
 
-Led effort in developing project plan, getting buy-in from colleagues on this huge undertaking; sheparded the system through a long, careful production rollout.
+Led effort in developing project plan, getting buy-in from colleagues on this huge undertaking; shepherded the system through a long, careful production rollout.
 
 **Other key contributions**
 

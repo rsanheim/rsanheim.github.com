@@ -1,11 +1,11 @@
-My homepage.  Pretty standard GitHub Pages thing.  
+My homepage. Pretty standard GitHub Pages thing.
 
 ## Setup
 
 Requires Ruby 3.0.2
 
 ```
-rbenv install 3.0.2
+rbenv install 3.2.2
 bundle
 bundle exec jekyll serve
 ```

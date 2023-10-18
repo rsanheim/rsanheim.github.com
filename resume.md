@@ -115,8 +115,4 @@ UW Whitewater - B.S., Management Computer Systems 2001
 
 #### Contact
 
-email: [rsanheim@gmail.com](mailto:rsanheim@gmail.com)
-<br />
-web: [rsanheim.com](https://rsanheim.com)
-<br />
-GitHub: [@rsanheim](https://github.com/rsanheim)
+email: [rsanheim@gmail.com](mailto:rsanheim@gmail.com) &middot; web: [rsanheim.com](https://rsanheim.com) &middot; GitHub: [@rsanheim](https://github.com/rsanheim)

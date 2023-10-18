@@ -32,8 +32,12 @@ h4, h5, h6 {
 html.resume {
   font-size: 90%;
 
+  .page {
+    margin-bottom: 2rem;
+  }
+
   .container {
-    max-width: 60rem;
+    max-width: 65rem;
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -49,6 +53,10 @@ html.resume {
   h4 {
     margin-bottom: 0;
     text-transform: uppercase; 
+  }
+
+  footer {
+    margin-top: 0;
   }
 }
 

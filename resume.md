@@ -8,7 +8,7 @@ title: Resume
 
 <h4 class="work-experience">Work Experience</h4>
 
-## [Monograph](https://monograph.com) &middot; Staff Software Engineer &middot; 2022 - current
+## [Monograph](https://monograph.com) &middot; Staff Software Engineer &middot; 2022 - 2023
 
 Staff engineer for a practice management app for Architecture & Engineering firms.
 
@@ -21,7 +21,7 @@ Staff engineer for a practice management app for Architecture & Engineering firm
   - Many Heroku improvements for faster, stable deployments, using [12 factor app](https://12factor.net) principles to simplify configuration
   - Automated and documented PostgreSQL upgrade process, moving from v10 to 14
 
-## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - current
+## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - 2022
 
 <small>_note: Simple.org is open source, so links below go to the underlying pull requests_</small>
 

@@ -4,7 +4,7 @@ title: "Blogging Like Its the Year 3000"
 regenerate: true
 ---
 
-Oh **hello world** (again)! So I'm revitalizing my blog after nine years. I've realized that just ranting to friends and on [twitter](https://twitter.com/rsanheim) (rarely) about the sad state of the current web and how it was better in the 'good ole days' isn't super constructive. 
+**Hello world** (again)! So I'm revitalizing my blog after nine years. I've realized that just ranting to friends and on [twitter](https://twitter.com/rsanheim) (rarely) about the sad state of the current web and how it was better in the 'good ole days' isn't super constructive. 
 
 One thing that I loved about my early days on the internet was discovering all sorts of amazing folks via blogs, usenet, or on ICQ and BBSes. Being inspired from what they wrote and drew and played with and created. And the way people did it was not built on some mega-tech advertising platform - it was on their own tiny hand rolled HTML site or on a scrappy Wordpress site or on [metafilter](https://metafilter.com) or on a webring. Sure, there has always been ads and commercialization, but it didn't dominate everything. Anyway, I digress.  'Be the change', amiright?
 

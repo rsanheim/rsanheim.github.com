@@ -40,5 +40,4 @@ This is a Jekyll-based GitHub Pages personal blog site using the "Panasonic Yout
 - Uses GitHub Actions for automatic deployment
 - Workflow defined in `.github/workflows/pages.yml`
 - **Production**: Deploys to rsanheim.com on push to `main` branch
-- **Staging**: Branch builds create downloadable artifacts for testing
-- Pull requests get automatic build verification with artifact downloads
+- **Staging**: Branch builds verify Jekyll 4.4.1 compatibility without deployment

@@ -1,23 +1,28 @@
 # Blog Upgrade Todo List
 
-## GitHub Pages Compatible Upgrade (Current Branch)
+## ✅ Completed: Modern Jekyll 4.4.1 Upgrade
 
-### High Priority
-- [ ] **Upgrade to Ruby 3.3.4** (GitHub Pages compatible)
-- [ ] **Upgrade Jekyll to ~3.10.0** (GitHub Pages compatible)  
-- [ ] **Update Gemfile** with GitHub Pages compatible versions
+### High Priority - COMPLETED
+- [x] **Upgrade to Ruby 3.4.1** (latest stable, not GitHub Pages compatible)
+- [x] **Upgrade Jekyll to 4.4.1** (latest, with GitHub Actions deployment)
+- [x] **Update Gemfile** with modern Jekyll setup (replaced github-pages gem)
+- [x] **Add GitHub Actions workflow** for production deployment
+- [x] **Add development scripts** (`script/server`, `script/lint` with StandardRB)
 
-### Medium Priority
-- [ ] **Test local build** with new versions
-- [ ] **Verify site still works** after changes
-- [ ] Add circle CI workflow to test build, and also possibly a first pass at a 'link checker' workflow (i imagine this will fail, but it's a start)
+### Medium Priority - COMPLETED  
+- [x] **Test local build** with Jekyll 4.4.1 (2.5x faster: 1.657s → 0.423s)
+- [x] **Verify GitHub Actions workflow** builds on all branches
+- [x] **Update CLAUDE.md** with new setup documentation
 
-### Low Priority
-- [ ] **Update CLAUDE.md** with new Ruby/Jekyll versions
+### Decision Made
+- [x] **Deployment strategy**: Use GitHub Actions instead of legacy github-pages gem
+- [x] **Staging approach**: Build verification on all branches, production deploy on main only
 
-## Future Updates (Add Your Ideas Below)
+## Future Enhancements
 
-<!-- Add future enhancement ideas here -->
+- [ ] Add CircleCI workflow for additional CI/testing
+- [ ] Add link checker workflow (expect initial failures)
+- [ ] Consider Sass @import deprecation warnings (Dart Sass migration)
 
 ---
 

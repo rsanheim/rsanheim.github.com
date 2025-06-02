@@ -9,9 +9,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Initial setup: `mise install && bundle`
 
 ### Common Commands
-- **Development server**: `bin/serve` or `bundle exec jekyll serve --incremental`
+- **Development server**: `script/server` or `bin/serve`
 - **Build site**: `bin/build` or `bundle exec jekyll build`
-- **Regular serve**: `bundle exec jekyll serve`
+- **Lint code**: `script/lint` (runs StandardRB with auto-fix)
 
 ## Site Architecture
 

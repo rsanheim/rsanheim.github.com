@@ -18,6 +18,8 @@ GEM
       logger
     faraday-net_http (3.4.0)
       net-http (>= 0.5.0)
+    faraday-retry (2.3.1)
+      faraday (~> 2.0)
     ffi (1.17.2)
     forwardable-extended (2.6.0)
     google-protobuf (4.31.1)
@@ -98,6 +100,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  faraday-retry
   jekyll (~> 4.4)
   jekyll-gist
   jekyll-paginate

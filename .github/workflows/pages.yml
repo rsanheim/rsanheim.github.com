@@ -1,0 +1,107 @@
+name: Build and Deploy Jekyll
+
+on:
+  push:
+    branches: [ "main", "update-to-latest" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages-${{ github.ref }}"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      is_main: ${{ steps.check_branch.outputs.is_main }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Check if main branch
+        id: check_branch
+        run: |
+          if [ "${{ github.ref }}" = "refs/heads/main" ]; then
+            echo "is_main=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_main=false" >> $GITHUB_OUTPUT
+          fi
+        
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.1'
+          bundler-cache: true
+          
+      - name: Setup Pages
+        if: steps.check_branch.outputs.is_main == 'true'
+        uses: actions/configure-pages@v5
+        
+      - name: Build with Jekyll
+        run: |
+          if [ "${{ steps.check_branch.outputs.is_main }}" = "true" ]; then
+            bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+          else
+            bundle exec jekyll build --baseurl ""
+          fi
+        env:
+          JEKYLL_ENV: ${{ steps.check_branch.outputs.is_main == 'true' && 'production' || 'staging' }}
+          
+      - name: Upload Pages artifact
+        if: steps.check_branch.outputs.is_main == 'true'
+        uses: actions/upload-pages-artifact@v3
+        
+      - name: Upload branch build artifact
+        if: steps.check_branch.outputs.is_main != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: branch-build-${{ github.sha }}
+          path: _site/
+          
+  deploy:
+    # Only deploy to production on main branch
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        
+  preview:
+    # For non-main branches, just build and provide download link
+    if: github.ref != 'refs/heads/main'
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Comment on PR with preview link
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `🚀 **Preview Build Complete!**
+              
+              This branch has been built with Jekyll 4.4.1. You can download the build artifact to test locally.
+              
+              **Build Details:**
+              - Branch: \`${{ github.ref_name }}\`
+              - Commit: \`${{ github.sha }}\`
+              - Jekyll: 4.4.1
+              - Ruby: 3.4.1
+              
+              The build artifact will be available for 90 days.`
+            })

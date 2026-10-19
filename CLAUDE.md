@@ -5,8 +5,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Development Commands
 
 ### Setup
-- Requires Ruby 3.4.1
-- Initial setup: `mise install && bundle`
+- Ruby is managed with mise; use the version in `mise.toml`.
+- Initial setup: `mise install && mise exec -- bundle install`
 
 ### Common Commands
 - **Development server**: `script/server` or `bin/serve`

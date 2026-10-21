@@ -85,8 +85,7 @@ Rob was employee number five at Relevance and a key leader in helping it become 
 - Converted Relevance to Git and GitHub in 2008, migrating away from SVN.
 - Led the conversion to a pull request workflow for collaboration and code review.
 - Led projects in roles including project manager, architect, lead developer, and client liaison.
-- Brought a "calming, experienced" leadership style to projects.
-- Worked on a wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix Cloud](https://contegix.com/).
+- Worked on a wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix](https://contegix.com/).
 
 ## [Seeking Alpha](http://seekingalpha.com/) &middot; Software Engineer &middot; 2006 - 2007
 

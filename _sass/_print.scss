@@ -4,7 +4,7 @@
 
 @page {
   size: letter;
-  margin: 0.75in;
+  margin: 0.66in;
 }
 
 @media print {
@@ -18,18 +18,22 @@
   body {
     background: none;
   }
-  
+
   html.resume {
     body {
       font-size: 12px;
       line-height: 1.1rem;
       color: black;
     }
-    
+
     h1, h2, h3, h4, h5, h6 {
       color: black;
-      margin-top: 1.0rem;
+      margin-top: 0.5rem;
       line-height: 1.1;
+      break-after: avoid;
+    }
+    ul {
+      break-inside: avoid;
     }
     h1 { font-size: 18px; }
     h1.resume-name { font-size: 22px; margin: 0; }
@@ -40,9 +44,9 @@
     h3 { font-size: 14px; }
     h4 { font-size: 13px; }
     h5, h6 { font-size: 12px; }
-    
+
     h4.work-experience {
-      margin-bottom: -0.5rem;
+      margin-bottom: 0;
     }
     ul li {
       margin: 0;
@@ -59,20 +63,20 @@
       float: right;
       font-size: 50%;
     }
-    
+
     header.masthead {
       display: none;
     }
-    
+
     .container {
       max-width: none;
       padding: 0;
     }
-    
+
     p {
-      margin-bottom: 0.2rem;
+      margin-bottom: 0.1rem;
     }
-    
+
     a {
       color: #0066cc;
     }

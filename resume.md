@@ -21,9 +21,9 @@ Technical leader on the core platform messaging team.
 Staff engineer for a practice management app for architecture and engineering firms.
 
 - Improved developer experience during a time of rapid growth. Reduced local setup time from multiple days to 1–3 hours via automation and scripting.
-- Overhauled the build pipeline, reducing CI time from 25+ minutes to 4–5 minutes through parallel testing and a move to a more capable platform.
-- Built a new `Cell` domain layer and schema for timesheet entries, a core component of the app. Reduced P90 response times for several key reports while simplifying reporting. Paired with teammates and led engineering-wide sessions to ease the transition to the new approach.
-- Integrated Datadog for APM, alerts, and centralized logging. Mentored teammates on using Datadog in day-to-day work.
+- Overhauled the build pipeline, reducing CI time from 25+ minutes to 5 minutes through parallel testing and a move to a more capable platform.
+- Built a new domain layer and schema for timesheet entries. Reduced P90 response times for several key reports while simplifying reporting. 
+- Integrated Datadog for APM, alerts, and centralized logging.
 - Upgraded the core monolith to Rails 7 and Ruby 3.2 with YJIT using a dual-boot approach.
 - Automated PostgreSQL upgrade process, moving from version 10 to 14.
 
@@ -51,7 +51,7 @@ Leader of the product engineering organization. Moved the team to continuous del
 
 - Overhauled user onboarding, rebuilding signup as an automated Chargebee workflow.
 - Built dynamic content campaigns for the mobile app's front page.
-- Built an in-place, dual-boot system for the Rails app to allow incremental upgrades to Rails 5 and 6.
+- Built dual-boot system for the Rails app to allow incremental upgrades to Rails 5 and 6.
 - Mentored other developers through pair programming, presentations, and code review.
 
 ## [NationBuilder](https://nationbuilder.com) &middot; Lead Software Engineer &middot; 2017 - 2018
@@ -101,7 +101,7 @@ Ansible, CSS (SCSS / Sass), Elasticsearch, Git, Go, GraphQL, JavaScript, Kafka, 
 
 #### Community & presentations
 
-Rob has presented at many conferences and user groups, including RubyConf, RubyKaigi, and RailsConf. He has contributed to many open-source projects over the years, including Rails, RSpec, and Rcov. He was an editor of Ajaxian.com from 2005 to 2006 and co-founder of the Madison Ruby user group.
+Rob has presented at many conferences, including RubyConf, RubyKaigi, and RailsConf. He has contributed to many open-source projects over the years, including Rails, RSpec, and Rcov. He was an editor of Ajaxian.com from 2005 to 2006 and co-founder of the Madison Ruby user group.
 
 #### Education
 

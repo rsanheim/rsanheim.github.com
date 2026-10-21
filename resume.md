@@ -10,40 +10,40 @@ title: Resume
 
 ## [Doximity](https://doximity.com) &middot; Software Engineer &middot; 2024 - current
 
-Technical leader for core platform messaging team.
+Technical leader on the core platform messaging team.
 
-- Re-architected internal data update batch processing around Redis and internal Kafka pipeline, relieving MySQL saturation and allowing the service to scale from 1-2M operations a day to 30-50M a day. 
-- Modernized the core monolith from Rails 6.1 to 8 through incremental, dual-boot rollouts. Upgraded Ruby and enabled YJIT, improving latency on heavily used production endpoints by 10-15%.
+- Re-architected internal batch data-update processing around Redis and an internal Kafka pipeline, relieving MySQL saturation and allowing the service to scale from 1–2M to 30–50M operations per day.
+- Modernized the core monolith from Rails 6.1 to 8 through incremental, dual-boot rollouts. Upgraded Ruby and enabled YJIT, improving latency on heavily used production endpoints by 10–15%.
 - Built an internal CLI to simplify local development, deployments, CI, and agentic development. Automated prerelease and application update workflows used across 12 repositories.
 
 ## [Monograph](https://monograph.com) &middot; Staff Software Engineer &middot; 2022 - 2023
 
-Staff engineer for a practice management app for Architecture & Engineering firms.
+Staff engineer for a practice management app for architecture and engineering firms.
 
-- Improved developer experience during a time of rapid growth. Reduced local setup time from multiple days to 1-3 hours via automation and scripting.
-- Overhauled build pipeline, reducing CI time from 25+ mins to 4-5 mins via parallel testing and moving to a more capable platform.
-- Built new `Cell` domain layer and schema for timesheet entries, a core component of the app. Reduced P90 response time for several key reports, as well as simplifying reporting complexity. Paired and led eng-wide sessions to ease transition to new approach.
-- Integrated Datadog for APM, alerts, and centralized logging. Mentored teammates on how to best use Datadog in day to day work.
-- Upgraded core monolith to Rails 7 and Ruby 3.2 w/ YJIT using dual boot approach
-- Automated and documented PostgreSQL upgrade process, moving from v10 to 14
+- Improved developer experience during a time of rapid growth. Reduced local setup time from multiple days to 1–3 hours via automation and scripting.
+- Overhauled the build pipeline, reducing CI time from 25+ minutes to 4–5 minutes through parallel testing and a move to a more capable platform.
+- Built a new `Cell` domain layer and schema for timesheet entries, a core component of the app. Reduced P90 response times for several key reports while simplifying reporting. Paired with teammates and led engineering-wide sessions to ease the transition to the new approach.
+- Integrated Datadog for APM, alerts, and centralized logging. Mentored teammates on using Datadog in day-to-day work.
+- Upgraded the core monolith to Rails 7 and Ruby 3.2 with YJIT using a dual-boot approach.
+- Automated and documented the PostgreSQL upgrade process, moving from version 10 to 14.
 
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - 2022
 
-<small>_note: Simple.org is open source, so links below go to the underlying pull requests_</small>
+<small>_Note: Simple.org is open source, so the links below go to the underlying pull requests._</small>
 
-Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, and Ethiopia.
+Lead engineer on a large-scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, and Ethiopia.
 
 - Built a unified [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1381) to replace incompatible geographic models, simplifying patient-data access, API sync, and reporting.
-- Re-architected reporting system to simplify and consolidate API, improve performance, and lower cost of changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
-- Improved traceability and observability by integrating Datadog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
-- Led efforts to grow [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) culture, via tech-talks, mentoring, and setting up tools and processes. 
-- [Rebuilt seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety and performance: reduced time to produce prod-sized seed data by 5-10x
+- Re-architected the reporting system to simplify and consolidate the API, improve performance, and reduce the cost of changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
+- Improved traceability and observability by integrating Datadog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367), and StatsD.
+- Led efforts to grow a [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) culture through tech talks, mentoring, and establishing tools and processes.
+- [Rebuilt the seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety and performance, generating production-sized seed data 5–10× faster.
 
 ## [Bold Penguin](https://boldpenguin.com) &middot; Staff Software Engineer &middot; 2019 - 2020
 
-- Built webhooks system to send insurance application updates in real-time to partners
-- Reworked main Rails test suite from hand-built mocks to simplified fixtures; dramatically improving developer experience and ease of testing
-- End-to-end automated test suite to increase confidence across the four core microservices
+- Built a webhooks system to send insurance application updates to partners in real time.
+- Reworked the main Rails test suite from hand-built mocks to simplified fixtures, dramatically improving developer experience and ease of testing.
+- Created an end-to-end automated test suite to increase confidence across the four core microservices.
 
 ## [First Leads](https://news.remax.com/exclusive-to-remax-the-first-app-one-of-the-best-tools-in-real-estate) - VP of Technology - 2018 - 2019
 
@@ -76,7 +76,7 @@ Led effort in developing project plan, getting buy-in from colleagues on this hu
 
 ### Other key contributions
 
-Primary developer for features such as [team mentions](https://github.com/blog/1121-introducing-team-mentions), [commit status API](https://github.com/blog/1227-commit-status-api), [email verification](https://github.com/blog/1215-email-verification), and first version of [live updates](https://github.com/blog/1174-auto-updating-comments). Rob also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
+Primary developer for features such as [team mentions](https://github.com/blog/1121-introducing-team-mentions), [commit status API](https://github.com/blog/1227-commit-status-api), [email verification](https://github.com/blog/1215-email-verification), and first version of [live updates](https://github.com/blog/1174-auto-updating-comments). Also improved team processes continually, by initiating and leading retrospectives, pair-programming, and continuous testing.
 
 ## [Relevance, Inc / Cognitect](http://cognitect.com/) &middot; Principal &middot; 2007 - 2012
 

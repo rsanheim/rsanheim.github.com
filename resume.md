@@ -24,8 +24,8 @@ Staff engineer for a practice management app for Architecture & Engineering firm
 - Overhauled build pipeline, reducing CI time from 25+ mins to 4-5 mins via parallel testing and moving to a more capable platform.
 - Built new `Cell` domain layer and schema for timesheet entries, a core component of the app. Reduced P90 response time for several key reports, as well as simplifying reporting complexity. Paired and led eng-wide sessions to ease transition to new approach.
 - Integrated Datadog for APM, alerts, and centralized logging. Mentored teammates on how to best use Datadog in day to day work.
-  - Upgraded core monolith to Rails 7 and Ruby 3.2 w/ YJIT using dual boot approach
-  - Automated and documented PostgreSQL upgrade process, moving from v10 to 14
+- Upgraded core monolith to Rails 7 and Ruby 3.2 w/ YJIT using dual boot approach
+- Automated and documented PostgreSQL upgrade process, moving from v10 to 14
 
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - 2022
 
@@ -81,7 +81,7 @@ Primary server developer for features such as [team mentions](https://github.com
 
 Rob was employee number five at Relevance, and was a key leader in helping Relevance become a leading Ruby on Rails consultancy.
 
-- Converted Relevance to Git & Github in 2008, migrating away from SVN
+- Converted Relevance to Git & GitHub in 2008, migrating away from SVN
 - Led conversion to pull request workflow for collaboration and code review
 - Led projects across all roles: project manager, architect, lead developer, and client liaison
 - Brings a "calming, experienced" leadership role to projects assigned
@@ -95,12 +95,6 @@ platform. Ensure scalability for features and ensuring scalability for upwards o
 ## [Sanheim Software](https://rsanheim.com) &middot; Founder &middot; 2005 - current
 
 Consulting and custom application development for several startups.
-
-#### Earlier Experience
-
-- Smart Solutions - Consultant - 2005 - 2006
-- Brown Shoe - Programmer Analyst - 2001 - 2005
-- Wm. K. Walthers - Production Specialist 1996 - 1999
 
 #### Technologies
 

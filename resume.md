@@ -12,7 +12,7 @@ title: Resume
 
 Technical leader on the core platform messaging team.
 
-- Re-architected internal batch data-update processing around Redis and an internal Kafka pipeline, relieving MySQL saturation and allowing the service to scale from 1–2M to 30–50M operations per day.
+- Re-architected internal data-update processing system around Redis and internal Kafka pipeline, relieving MySQL as we scaled from 500M records per week to ~10B at peak.
 - Modernized the core monolith from Rails 6.1 to 8 through incremental, dual-boot rollouts. Upgraded Ruby and enabled YJIT, improving latency on heavily used production endpoints by 10–15%.
 - Built an internal CLI to simplify local development, deployments, CI, and agentic development. Automated prerelease and application update workflows used across 12 repositories.
 

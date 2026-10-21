@@ -18,14 +18,17 @@
         </h2>
       </header>
 
-      <h2 class="print-only">
-        Rob Sanheim - Resume
-        <span class="print-header">https://rsanheim.com/resume</span>
-      </h2>
-
       <main>
         <article class="page">
-          <h1 class="page-title no-print">{{ page.title }}</h1>
+          <header class="resume-header">
+            <h1 class="resume-name">{{ site.author.name }}</h1>
+            <p class="resume-contact">
+              Software Engineer
+              <span class="print-only">&middot; <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></span>
+              &middot; <a href="https://github.com/rsanheim">github.com/rsanheim</a>
+              &middot; <a href="{{ site.author.url }}/resume">rsanheim.com/resume</a>
+            </p>
+          </header>
           {{ content }}
           </article>
       </main>

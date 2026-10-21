@@ -4,7 +4,7 @@ meta_title: Rob Sanheim's Resume
 title: Resume
 ---
 
-[Rob Sanheim](mailto:rsanheim@gmail.com) is a software engineer with over 20 years of experience building products, scaling platforms, and improving developer workflows. He has led teams in building key components at scale for companies as diverse as GitHub, Bold Penguin, Simple.org, and Cognitect. He loves working with small teams of passionate people to build high-quality, sustainable software that puts the human experience front and center.
+Rob is a software engineer with over 20 years of experience building products, scaling platforms, and improving developer workflows. He has led teams in building key components at scale for companies as diverse as GitHub, Bold Penguin, Simple.org, and Cognitect. He loves working with small teams of passionate people to build high-quality, sustainable software that puts the human experience front and center.
 
 <h4 class="work-experience">Work Experience</h4>
 

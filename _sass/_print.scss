@@ -2,6 +2,11 @@
   display: none;
 }
 
+@page {
+  size: letter;
+  margin: 0.75in;
+}
+
 @media print {
   .print-only {
     display: block;
@@ -27,6 +32,10 @@
       line-height: 1.1;
     }
     h1 { font-size: 18px; }
+    h1.resume-name { font-size: 22px; margin: 0; }
+    .resume-contact { font-size: 11px; color: #444; }
+    .resume-contact .print-only { display: inline; }
+    .resume-header { border-color: #ccc; }
     h2 { font-size: 16px; }
     h3 { font-size: 14px; }
     h4 { font-size: 13px; }
@@ -51,12 +60,13 @@
       font-size: 50%;
     }
     
-    header {
+    header.masthead {
       display: none;
     }
     
     .container {
-      max-width: 90%;
+      max-width: none;
+      padding: 0;
     }
     
     p {

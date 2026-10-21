@@ -46,6 +46,24 @@ html.resume {
     margin-bottom: 0.2rem;
   }
 
+  .resume-header {
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  h1.resume-name {
+    margin: 0;
+    font-size: 2.25rem;
+    letter-spacing: -0.02em;
+  }
+
+  .resume-contact {
+    margin: 0.25rem 0 0;
+    color: var(--gray-600);
+    font-size: 0.9rem;
+  }
+
   h4.work-experience {
     margin-bottom: -0.9rem;
   }

@@ -45,18 +45,18 @@ Lead engineer on a large-scale, open-source hypertension management system servi
 - Reworked the main Rails test suite from hand-built mocks to simplified fixtures, dramatically improving developer experience and ease of testing.
 - Created an end-to-end automated test suite to increase confidence across the four core microservices.
 
-## [First Leads](https://news.remax.com/exclusive-to-remax-the-first-app-one-of-the-best-tools-in-real-estate) - VP of Technology - 2018 - 2019
+## [First Leads](https://news.remax.com/exclusive-to-remax-the-first-app-one-of-the-best-tools-in-real-estate) &middot; VP of Technology &middot; 2018 - 2019
 
-Leader of the product engineering organization. Moved the team to continuous delivery via chat ops, increasing deployments ~20x a day with greater reliability and transparency. Lead application engineer for multiple product initiatives, including:
+Leader of the product engineering organization. Moved the team to continuous delivery via chat ops, increasing deployment frequency to approximately 20 per day with greater reliability and transparency. Lead application engineer for multiple product initiatives, including:
 
-- User on-boarding overhaul, rebuilt signup as automated Chargebee workflow
-- Dynamic content campaigns to serve the front page of mobile app
-- In-place, dual boot system for Rails app to allow incremental upgrade to Rails 5/6
-- Mentored other developers via pair programming, presentations, and code review
+- Overhauled user onboarding, rebuilding signup as an automated Chargebee workflow.
+- Built dynamic content campaigns for the mobile app's front page.
+- Built an in-place, dual-boot system for the Rails app to allow incremental upgrades to Rails 5 and 6.
+- Mentored other developers through pair programming, presentations, and code review.
 
 ## [NationBuilder](https://nationbuilder.com) &middot; Lead Software Engineer &middot; 2017 - 2018
 
-Team lead on SSL automation project - helping to setup and monitor SSL certification for over 10,000 customer subdomains. Lead on payments overhaul, which rewrote and consolidated billing code onto Stripe Connect platform.
+Team lead on an SSL automation project, helping to set up and monitor SSL certificates for over 10,000 customer subdomains. Led a payments overhaul that rewrote and consolidated billing code onto the Stripe Connect platform.
 
 ## [GitHub](https://github.com) &middot; Senior Software Engineer &middot; 2012 - 2017
 
@@ -64,34 +64,33 @@ Senior engineer and team lead at GitHub.com. Instrumental in shipping the follow
 
 ### [Pull Request Reviews](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features#code-better-with-reviews)
 
-Leader on a team dedicated to overhauling code review at GitHub. He worked closely with colleagues to architect and build the new code review system now in use at GitHub. This included back end modeling and engineering, overhauling the front end to support a new conversation threading system, and tying the entire system into the Protected Branches feature on GitHub.
+Leader on a team dedicated to overhauling code review at GitHub. He worked closely with colleagues to architect and build the new code review system. This included backend modeling and engineering, overhauling the frontend to support a new conversation threading system, and integrating the system with Protected Branches.
 
 ### [Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks)
 
-Core member of the team that shipped the first version of this highly requested feature. Worked on the backend, frontend, and in crafting and focusing the product vision to make sure we shipped something great.
+Core member of the team that shipped the first version of this highly requested feature. Worked on the backend and frontend, and helped craft and focus the product vision to make sure we shipped something great.
 
 ### Rails 3.2 Upgrade
 
-Led effort in developing project plan, getting buy-in from colleagues on this huge undertaking; shepherded the system through a long, careful production rollout.
+Led the project planning effort and secured buy-in from colleagues for this huge undertaking; shepherded the system through a long, careful production rollout.
 
 ### Other key contributions
 
-Primary developer for features such as [team mentions](https://github.com/blog/1121-introducing-team-mentions), [commit status API](https://github.com/blog/1227-commit-status-api), [email verification](https://github.com/blog/1215-email-verification), and first version of [live updates](https://github.com/blog/1174-auto-updating-comments). Also improved team processes continually, by initiating and leading retrospectives, pair-programming, and continuous testing.
+Primary developer for features such as [team mentions](https://github.com/blog/1121-introducing-team-mentions), the [commit status API](https://github.com/blog/1227-commit-status-api), [email verification](https://github.com/blog/1215-email-verification), and the first version of [live updates](https://github.com/blog/1174-auto-updating-comments). Also improved team processes through retrospectives, pair programming, and continuous testing.
 
 ## [Relevance, Inc / Cognitect](http://cognitect.com/) &middot; Principal &middot; 2007 - 2012
 
-Rob was employee number five at Relevance, and was a key leader in helping Relevance become a leading Ruby on Rails consultancy.
+Rob was employee number five at Relevance and a key leader in helping it become a leading Ruby on Rails consultancy.
 
-- Converted Relevance to Git & GitHub in 2008, migrating away from SVN
-- Led conversion to pull request workflow for collaboration and code review
-- Led projects across all roles: project manager, architect, lead developer, and client liaison
-- Brings a "calming, experienced" leadership role to projects assigned
-- Wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix Cloud](https://classic.contegix.com/session/new).
+- Converted Relevance to Git and GitHub in 2008, migrating away from SVN.
+- Led the conversion to a pull request workflow for collaboration and code review.
+- Led projects in roles including project manager, architect, lead developer, and client liaison.
+- Brought a "calming, experienced" leadership style to projects.
+- Worked on a wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix Cloud](https://classic.contegix.com/session/new).
 
 ## [Seeking Alpha](http://seekingalpha.com/) &middot; Software Engineer &middot; 2006 - 2007
 
-Senior Ruby developer for a successful financial blog platform. Responsible for overhauling PHP platform into new Rails
-platform. Ensure scalability for features and ensuring scalability for upwards of 70,000 visitors a day. Built user generated content feature to build community and enhance content model. Set up continuous integration and devops automation.
+Senior Ruby developer for a successful financial blog platform. Responsible for migrating the PHP platform to Rails and scaling it to support upwards of 70,000 visitors a day. Built a user-generated content feature to build community and enhance the content model. Set up continuous integration and DevOps automation.
 
 ## [Sanheim Software](https://rsanheim.com) &middot; Founder &middot; 2005 - current
 
@@ -99,15 +98,15 @@ Consulting and custom application development for several startups.
 
 #### Technologies
 
-Ansible, AWS, CSS (SCSS / SASS), Elasticsearch, Git, Go, GraphQL, Java, Javascript, Kafka, Karafka, Memcached, MySQL, PostgreSQL, Puppet, Ruby, Ruby on Rails, Redis, Resque, RSpec, Sidekiq, Sinatra, Unicorn, and many others
+Ansible, AWS, CSS (SCSS / Sass), Elasticsearch, Git, Go, GraphQL, Java, JavaScript, Kafka, Karafka, Memcached, MySQL, PostgreSQL, Puppet, Ruby, Ruby on Rails, Redis, Resque, RSpec, Sidekiq, Sinatra, Unicorn, and many others.
 
 #### Community & presentations
 
-Rob has presented at many conferences and user groups, including RubyConf, Ruby Kaigi, and RailsConf. He has contributed to many open source projects over the years, including Rails, RSpec, and Rcov. Editor of Ajaxian.com from 2005 to 2006, and co-founder of the Madison Ruby user group.
+Rob has presented at many conferences and user groups, including RubyConf, RubyKaigi, and RailsConf. He has contributed to many open-source projects over the years, including Rails, RSpec, and Rcov. He was an editor of Ajaxian.com from 2005 to 2006 and co-founder of the Madison Ruby user group.
 
 #### Education
 
-UW Whitewater - B.S., Management Computer Systems 2001
+UW–Whitewater — B.S., Management Computer Systems, 2001
 
 #### Contact
 

@@ -33,6 +33,7 @@ Staff engineer for a practice management app for Architecture & Engineering firm
 
 Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, and Ethiopia.
 
+- Built a unified Regions domain model to replace incompatible geographic models, simplifying patient-data access, API sync, and reporting.
 - Re-architected reporting system to simplify and consolidate API, improve performance, and lower cost of changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
 - Improved traceability and observability by integrating Datadog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
 - Led efforts to grow [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) culture, via tech-talks, mentoring, and setting up tools and processes. 
@@ -61,21 +62,21 @@ Team lead on SSL automation project - helping to setup and monitor SSL certifica
 
 Senior engineer and team lead at GitHub.com. Instrumental in shipping the following features:
 
-**[Pull Request Reviews](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features#code-better-with-reviews)**
+### [Pull Request Reviews](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features#code-better-with-reviews)
 
 Leader on a team dedicated to overhauling code review at GitHub. He worked closely with colleagues to architect and build the new code review system now in use at GitHub. This included back end modeling and engineering, overhauling the front end to support a new conversation threading system, and tying the entire system into the Protected Branches feature on GitHub.
 
-**[Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks)**
+### [Protected Branches](https://github.com/blog/2051-protected-branches-and-required-status-checks)
 
 Core member of the team that shipped the first version of this highly requested feature. Worked on the backend, frontend, and in crafting and focusing the product vision to make sure we shipped something great.
 
-**Rails 3.2 Upgrade**
+### Rails 3.2 Upgrade
 
 Led effort in developing project plan, getting buy-in from colleagues on this huge undertaking; shepherded the system through a long, careful production rollout.
 
-**Other key contributions**
+### Other key contributions
 
-Primary server developer for features such as [team mentions](https://github.com/blog/1121-introducing-team-mentions), [commit status API](https://github.com/blog/1227-commit-status-api), [email verification](https://github.com/blog/1215-email-verification), and [live updates](https://github.com/blog/1174-auto-updating-comments). Rob also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
+Primary developer for features such as [team mentions](https://github.com/blog/1121-introducing-team-mentions), [commit status API](https://github.com/blog/1227-commit-status-api), [email verification](https://github.com/blog/1215-email-verification), and first version of [live updates](https://github.com/blog/1174-auto-updating-comments). Rob also helped improve team processes continually at GitHub, by initiating and leading retrospectives, increased pair-programming, or general changes to day to day process to tighten feedback loops.
 
 ## [Relevance, Inc / Cognitect](http://cognitect.com/) &middot; Principal &middot; 2007 - 2012
 

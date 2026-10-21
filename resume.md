@@ -25,7 +25,7 @@ Staff engineer for a practice management app for architecture and engineering fi
 - Built a new `Cell` domain layer and schema for timesheet entries, a core component of the app. Reduced P90 response times for several key reports while simplifying reporting. Paired with teammates and led engineering-wide sessions to ease the transition to the new approach.
 - Integrated Datadog for APM, alerts, and centralized logging. Mentored teammates on using Datadog in day-to-day work.
 - Upgraded the core monolith to Rails 7 and Ruby 3.2 with YJIT using a dual-boot approach.
-- Automated and documented the PostgreSQL upgrade process, moving from version 10 to 14.
+- Automated PostgreSQL upgrade process, moving from version 10 to 14.
 
 ## [Simple.org](https://simple.org) &middot; Principal Software Engineer &middot; 2020 - 2022
 
@@ -34,7 +34,7 @@ Staff engineer for a practice management app for architecture and engineering fi
 Lead engineer on a large-scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, and Ethiopia.
 
 - Built a unified [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1381) to replace incompatible geographic models, simplifying patient-data access, API sync, and reporting.
-- Re-architected the reporting system to simplify and consolidate the API, improve performance, and reduce the cost of changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
+- Re-architected the reporting system to simplify the API, improve performance, and reduce defects. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
 - Improved traceability and observability by integrating Datadog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367), and StatsD.
 - Led efforts to grow a [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) culture through tech talks, mentoring, and establishing tools and processes.
 - [Rebuilt the seed generation strategy](https://github.com/simpledotorg/simple-server/pull/1039) for safety and performance, generating production-sized seed data 5–10× faster.
@@ -86,7 +86,7 @@ Rob was employee number five at Relevance and a key leader in helping it become 
 - Led the conversion to a pull request workflow for collaboration and code review.
 - Led projects in roles including project manager, architect, lead developer, and client liaison.
 - Brought a "calming, experienced" leadership style to projects.
-- Worked on a wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix Cloud](https://classic.contegix.com/session/new).
+- Worked on a wide range of successful client projects, including [Plotwatt](https://plotwatt.com/), [CXO](http://vivisimo.com/solutions/cxo.html), and [Contegix Cloud](https://contegix.com/).
 
 ## [Seeking Alpha](http://seekingalpha.com/) &middot; Software Engineer &middot; 2006 - 2007
 
@@ -98,7 +98,7 @@ Consulting and custom application development for several startups.
 
 #### Technologies
 
-Ansible, AWS, CSS (SCSS / Sass), Elasticsearch, Git, Go, GraphQL, Java, JavaScript, Kafka, Karafka, Memcached, MySQL, PostgreSQL, Puppet, Ruby, Ruby on Rails, Redis, Resque, RSpec, Sidekiq, Sinatra, Unicorn, and many others.
+Ansible, CSS (SCSS / Sass), Elasticsearch, Git, Go, GraphQL, JavaScript, Kafka, Karafka, Memcached, MySQL, PostgreSQL, Ruby, Ruby on Rails, Redis, Resque, RSpec, Rust, Sidekiq, Typescript, Unicorn, and many others.
 
 #### Community & presentations
 

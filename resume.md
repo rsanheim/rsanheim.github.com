@@ -33,7 +33,7 @@ Staff engineer for a practice management app for Architecture & Engineering firm
 
 Lead engineer on a large scale, open-source hypertension management system serving over 1.2 million patients in India, Bangladesh, and Ethiopia.
 
-- Built a unified Regions domain model to replace incompatible geographic models, simplifying patient-data access, API sync, and reporting.
+- Built a unified [Regions domain model](https://github.com/simpledotorg/simple-server/pull/1381) to replace incompatible geographic models, simplifying patient-data access, API sync, and reporting.
 - Re-architected reporting system to simplify and consolidate API, improve performance, and lower cost of changes. [[1]](https://github.com/simpledotorg/simple-server/pull/2436) [[2]](https://github.com/simpledotorg/simple-server/pull/3007).
 - Improved traceability and observability by integrating Datadog, [centralized JSON logging](https://github.com/simpledotorg/simple-server/pull/1367) and StatsD integration.
 - Led efforts to grow [continuous delivery](https://github.com/simpledotorg/simple-server/pull/2605) culture, via tech-talks, mentoring, and setting up tools and processes. 
